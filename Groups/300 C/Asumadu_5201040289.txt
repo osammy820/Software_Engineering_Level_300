@@ -1,0 +1,31 @@
+1. A software process model represents the order in which the activities of
+ software development will be undertaken. It describes the sequence in which the phases of the 
+ software lifecycle  will be performed.
+1b. Beacuse is simple, easy to understand and follow ,also highly structured and is good for beginners in development.
+ 
+
+ 2a. The difference between Agile and  Waterfall is that Waterfall breaks down software development into isolated stages/phases that flow into each other,
+  while Agile uses iterative development cycles in which multiple lifecycle phases can run in parallel.
+ 2b.  The key difference between the two is that waterfall breaks down the development software into isolated phaases but the Agile advocate
+  iterative development cycles.
+2c. Agile is easy to adaptation, encourages experimentation and accept changes of direction in every phases,
+even in later phases of the project over waterfall.and also costing is very less and delivered quickly than waterfall.
+But Waterfall model is suited for smaller projects where requirements are well defined whiles agile is suitable for complex project.
+
+3a. Rational Unified Process (RUP) is a software development process for object-oriented models which uses an
+ iterative software development process framework.
+3b. It differ because RUP reduces unexpected development costs and prevents wastage of resources
+3c. Inception
+    Elaboration
+    Construction
+    Transition
+    Production
+3d.its advatages are
+It provides good documentation, it completes the process in itself.
+It provides risk-management support.
+It reuses the components, and hence total time duration is less
+Disadvantages
+Team of expert professional is required, as the process is complex.
+Complex and not properly organized process.
+More dependency on risk management
+
