@@ -1,0 +1,61 @@
+Q1.. Software Processes is a logically set of activities for specifying, designing, implementing and testing software systems
+and they help project managers plan their processes, estimate costs, identify challenges and communicate with teams and customers.
+
+Q2.. Waterfall is a linear system of working that requires the team to complete each project phase before moving on to the next one 
+        while
+     Agile encourages the team to work simultaneously on different phases of the project.
+
+   2B..  Waterfall model works well for smaller projects where requirements are clearly defined and very well understood
+         Customer satisfaction by rapid, continuous delivery of useful software.
+
+    2C..  High amounts of risk and uncertainty
+          There is lack of emphasis on necessary designing and documentation.
+
+Q3..
+     Rational Unified Process  is a software development process from Rational, a division of IBM. 
+     It divides the development process into four distinct phases that each involve business modeling, analysis and design, implementation, testing, and deployment.
+     
+     RUP include use-case driven, Iterative (repetition of the process), and Incremental (increase in value) by nature, delivered online using web technology, can be customized or tailored in modular and electronic form, etc. 
+     RUP reduces unexpected development costs and prevents wastage of resources.
+
+     The Key Phases in the RUP:
+
+        Inception –
+                Communication and planning are the main ones.
+                Identifies the scope of the project using a use-case model allowing managers to estimate costs and time required.
+                Customers’ requirements are identified and then it becomes easy to make a plan for the project.
+
+        Elaboration –
+                Planning and modeling are the main ones.
+                A detailed evaluation and development plan is carried out and diminishes the risks.
+                Revise or redefine the use-case model (approx. 80%), business case, and risks. 
+
+        Construction –
+            The project is developed and completed.
+            System or source code is created and then testing is done.
+            Coding takes place.
+        
+        Transition –
+                The final project is released to the public.
+                Transit the project from development into production.
+                Update project documentation.  
+
+        Production –
+                The final phase of the model.
+                The project is maintained and updated accordingly.
+
+    Benefits of the RUP:
+
+        It provides good documentation, it completes the process in itself.
+        It provides risk-management support.
+        It reuses the components, and hence total time duration is less.
+        Good online support is available in the form of tutorials and training.
+    
+    Drawbacks of the RUP:
+
+        Team of expert professional is required, as the process is complex.
+        Complex and not properly organized process.
+        More dependency on risk management.
+        Hard to integrate again and again.
+
+           
