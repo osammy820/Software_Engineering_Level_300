@@ -1,0 +1,34 @@
+software model is the mechanism of dividing software developmet work into distinct phases to improve design, product management and project management.
+
+Software model is important in software engineering because it provides abstractions of a system at some level of precision and detail.
+
+2. (1) Waterfall breaks down software development into isolated phases that flow into each other while Agile advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
+   (2) Waterfallis a structured software development methodolgy while Agile is known for its flexibility
+
+3. Rational Unified process is the ultimate guide for assigning tasks and responsibilities within a development organisation and developing high-quality software
+   that meets the needs and requirement of its users.
+
+   Rational Unified process provides several benefits and tools that can be used throughout the software development process.
+
+   There are four main phases in Rational Unified process and they included
+   (i) Inception: it is the initial phase of the developing process. 
+   During this phase, the project's basic ideas and structure will be determined to prepare a business suite thus the team will decide the purpose of the project, success criteria, estimated cost, risk assessment, scheduled time, and resources required to complete it.
+   
+   (ii) Elaboration:This is the second phase of the development process. During this phase, to analyze the project's requirement and necessary architecture thus to review the problms
+   develop and elimate the high-risk elements from the project.
+
+   (iii) Construction:This is the third phase of the development process.During this phase, the project is developed and completed.
+   Here, the softwareis designed, written and tested successfully.
+
+   (iv)  Transition: This is the last phase of the development process. During this phase, the software is released and delivered tot he public or customers.
+
+
+   Benefits of using Rational Unified process included;
+   (i) It allows us to deal with changing requirements within the project;s development life cycle as per the client or customer needs.
+   (ii) It supports incremental build the software product.
+   (iii) It helps to use the resources efficently.
+
+   Drawbacks of using Rational Unified process included;
+   (i) It is a complex model to implement as it has multiple stages of the workflow.
+   (ii) It is challenging for organizations to implement which has, small team size or projects.
+   (iii) It should be highly result-oriented from individuals or teams.
