@@ -66,7 +66,6 @@ May bear further coffers and moxie.
 In summary, both the Waterfall and Agile models have their own advantages and disadvantages, and the choice between them depends on the design's conditions, constraints, and coffers. While the Waterfall model may be more suitable for systems with well- defined conditions and lower need for inflexibility, the nimble model may be more applicable for systems with a high degree of query and a need for nonstop feedback and adaption.
 
 
-
 3. What is Rational Unified Process (RUP), and 
 how does it differ from other software development process models? 
 What are the key phases and activities involved in RUP, and 
