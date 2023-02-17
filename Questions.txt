@@ -56,22 +56,44 @@ What are the key phases and activities involved in RUP, and
 what are the benefits and drawbacks of using this approach in software development projects?
 
 ans:
-A Rational Unified Process is an approach for software engineering for delegating activities and responsibilities inside a software development organization. Its primary purpose is to enable the creation of high-quality software that satisfies the end user's requirements within a predictable budget and timeframe
+A Rational Unified Process is an approach for software engineering for delegating activities and responsibilities inside a software development organization. Its primary purpose is to enable the creation of high-quality software that satisfies the end user's requirements within a predictable budget and timeframe. Rational Unified Proces differs from other sofware development process in the sense that it can be applied to project types ranging from small applications to large-scale, complex systems. The goal of this model is to help organizations meet the challenges of developing software products for today’s changing business environments.
 
-the RUP is normally described from three perspectives: A dynamic perspective, which shows the phases of the model over time. A static perspective, which shows the process activities that are enacted. A practice perspective, which suggests good practices to be used during the process
-Inception phase
-Elaboration phase
-Construction phase
-Transition phase
+The phases are Inception Phase, Elaboration Phase, Construction Phase and Transition Phase.
+Elaboration Phase:
+It provides a full model of the project with functional and non-functional requirements.
+It provides a full Software Architecture Description.
+It provides the stability of the project, like the vision of the product & architecture of product stable or not?
+Similarly, the project plan will approve or not?
+Is the actual resource cost versus planned resource cost acceptable or not?
+
+Inception Phase:
+It provides a general vision project initiative document with multiple parameters.
+We get the project scope with the initial project model.
+An initial business suite with financial analysis.
+A project plan with different phases with a business model.
+Requirement understanding.
+Actual expenditures versus planned expenditures.
+Actual expenditures versus planned expenditures.
+
+Construction Phase:
+The software product integrated over different modules.
+It provides a user manual.
+Is the product release stable or not?
+Is it meets client requirements or not?
+
+Transition Phase;
+It is one type of “beta testing” to validate the product as per user expectations.
+It provides the end-user to satisfy or not.
+All types of training manuals for the user.
 
 
-Advantages:
+Benefits:
 It provides good documentation, it completes the process in itself.
 It provides risk-management support.
 It reuses the components, and hence total time duration is less.
 Good online support is available in the form of tutorials and training.
 
-Disadvantages:
+Drawbacks:
 Team of expert professional is required, as the process is complex.
 Complex and not properly organized process.
 More dependency on risk management.
