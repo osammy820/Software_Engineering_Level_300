@@ -20,7 +20,7 @@ But Waterfall model is suited for smaller projects where requirements are well d
     Construction
     Transition
     Production
-3d.its advatages are
+3d.its advantages are
 It provides good documentation, it completes the process in itself.
 It provides risk-management support.
 It reuses the components, and hence total time duration is less
