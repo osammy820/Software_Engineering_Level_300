@@ -1,0 +1,71 @@
+1.Software Processes is a coherent set of activities for specifying, designing, implementing and testing software systems. A software process model is an abstract representation of a process that presents a description of a process from some particular perspective.
+Software process models are convenient tools that developers use to map every step of their projects. They help project managers plan their processes, estimate costs, identify challenges and communicate with teams and customers. 
+
+2.Waterfall Model methodology which is also known as Linear Sequential Life Cycle Model. Waterfall Model followed in the sequential order, and so project development team only moves to next phase of development or testing if the previous step completed successfully.
+  Agile methodology is a practice that helps continuous iteration of development and testing in the software development process. In this model, development and testing activities are concurrent, unlike the Waterfall model. This process allows more communication between customers, developers, managers, and testers.
+
+Differences Between Waterfall and Agile Models
+a.Agile performs testing concurrently with software development, whereas in Waterfall methodology, testing comes after the “Build” phase.
+b.Agile allows changes in project development requirements, whereas Waterfall has no scope of changing the requirements once the project development starts.
+
+Benefits of Waterfal Modell
+a.It is one the easiest model to manage. Because of its nature, each phase has specific deliverables and a review process.
+b.It works well for smaller size projects where requirements are easily understandable.
+
+Drawbacks of Waterfall Model
+a.It is not an ideal model for a large size project
+b.If the requirement is not clear at the beginning, it is a less effective method.
+
+Benefits of Agile Model
+a.Agile teams are extremely motivated and self-organized so it likely to provide a better result from the development projects.
+b.Agile software development method assures that quality of the development is maintained
+
+Drawbacks of Agile Model
+a.It is not useful method for small development projects.
+b.It requires an expert to take important decisions in the meeting.
+
+3.The Rational Unified Process (RUP) defintion, also known as the Unified Process Model, is an object-orient and web-enabled software development process. Object-oriented software engineering is any software development approach that uses visual models organized around objects and goes through analysis, design, and implementation in an iterative manner. 
+The RUP include use-case driven, Iterative (repetition of the process), and Incremental (increase in value) by nature, delivered online using web technology, can be customized or tailored in modular and electronic form, etc. RUP reduces unexpected development costs and prevents wastage of resources. 
+
+Key Phases RUP
+1.Inception 
+Communication and planning are the main ones.
+Identifies the scope of the project using a use-case model allowing managers to estimate costs and time required.
+Customers’ requirements are identified and then it becomes easy to make a plan for the project.
+The project plan, Project goal, risks, use-case model, and Project description, are made.
+The project is checked against the milestone criteria and if it couldn’t pass
+
+2.Elaboration 
+Planning and modeling are the main ones.
+A detailed evaluation and development plan is carried out and diminishes the risks.
+Revise or redefine the use-case model (approx. 80%), business case, and risks.
+Again, checked against milestone criteria and if it couldn’t pass these criteria then again project can be canceled or redesigned.
+Executable architecture baseline.
+
+3.Construction 
+The project is developed and completed.
+System or source code is created and then testing is done.
+Coding takes place.
+
+4.Transition 
+The final project is released to the public.
+Transit the project from development into production.
+Update project documentation.
+Beta testing is conducted.
+Defects are removed from the project based on feedback from the public.
+
+5.Production 
+The final phase of the model.
+The project is maintained and updated accordingly.
+
+Advantages
+
+It provides good documentation, it completes the process in itself.
+It provides risk-management support.
+It reuses the components, and hence total time duration is less.
+Good online support is available in the form of tutorials and train
+
+Disadvantages:
+Team of expert professional is required, as the process is complex.
+Complex and not properly organized process.
+More dependency on risk management.
