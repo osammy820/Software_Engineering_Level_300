@@ -1,0 +1,54 @@
+
+1.	A software process model is an abstract representation of a process and represents a description of a process from some particular perspective.
+Software process model is important because;
+i.	Helps project managers plan their processes
+ii.	Helps in estimation of cost
+iii.	Identify challenges and communication with teams and customers 
+2.	
+i.	The waterfall development process is divided into distinct stages whiles Agile breaks the project development lifecycle into sprints.
+ii.	Waterfall model is a sequential design process whereas the Agile methodology follows an incremental approach
+iii.	Waterfall model is a structured software development approach whiles Agile process is flexible 
+
+Key differences between the two are;
+i.	Waterfall model is sequential process whiles Agile is an incremental approach
+ii.	Waterfall is structured while Agile is flexible 
+benefits of waterfall model
+i.	Its easy to and simple and to understand and ustilise
+ii.	Phases are prepared and completed one at a time
+iii.	Operates well for smaller projects
+Drawbacks
+i.	Not efficient model for object-oriented and complex projects
+ii.	No effective software is produced until late throughout the life cycle
+iii.	High amount of uncertainty and risk
+
+Benefits of Agile process
+i.	Suitable for small to medium systems and teams
+ii.	Can accommodate changes at any time
+iii.	Required expert agile personnel throughout the life cycle
+Drawbacks
+i.	Not suitable for large systems
+ii.	Shorter length in each iteration
+iii.	Costly for the stable development environment
+
+3.	The Rational Unified Process is a modern generic process model that is organized into phases (inception, elaboration, construction and transition) but separates activities (requirements, analysis and design) from these phases. Its differs from other processes because it allows you to deal with changing requirements regardless of where they coming from, emphasizes the need for accurate documentation, and also allows integration to happen.
+
+Phases and activities in RUP are;
+i.	Inception phase
+•	Establish the business case for the system
+ii.	Elaboration phase
+•	Develop an understanding of the problem domain and the system architecture 
+iii.	Construction phase
+•	System design, programming and testing
+iv.	Transition phase
+•	Deploy the system in its operating environment
+
+RUP differs from other software development models because it place emphases on iterations or cycles of work, rather than trying to complete all work upfront, allows flexibility and responsiveness to change. 
+Benefits of RUP
+i.	Less time is required for integration as the process of integration goes on throughout the software processes
+ii.	It’s a complete methodology in itself with an emphasis on accurate documentation
+iii.	It create and maintain models
+iv.	Serves as a guide to effective use of unified modeling language
+Drawbacks
+i.	The development process is too complex and disorganized
+ii.	Team members need to be experts in their field to develop a software under this methodology
+iii.	Higher development effort
