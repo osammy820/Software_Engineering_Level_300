@@ -4,11 +4,57 @@ before you start answering these question.
 Questions
 1. What is a software process model and why is it important in software development?
 
+ans: Software process model is the mechanism of dividing software development work into distinct phases to improve design, product management, and project management. Software process model is important because it helps project managers plan their processes, estimate costs, identify challenges and communicate with teams and customers.
+
+
 2. Compare and contrast the Waterfall and Agile software process models. 
 What are the key differences between the two models and 
 what are the benefits and drawbacks of each?
+
+ans: Agile and waterfall are two distinctive methodologies of processes to complete projects or work items. Agile is an iterative methodology that incorporates a cyclic and collaborative process. Waterfall is a sequential methodology that can also be collaborative, but tasks are generally handled in a more linear process.
+
+i). Waterfall is a Linear Sequential Life Cycle Model, whereas Agile is a continuous iteration of development and testing in the software development process.
+ii). Agile methodology is known for its flexibility, whereas Waterfall is a structured software development methodology.
+iii). Agile, which follows an incremental approach, whereas the Waterfall is a sequential design process.
+iv). Agile performs testing concurrently with software development, whereas in Waterfall methodology, testing comes after the “Build” phase
+v). Agile allows changes in project development requirements, whereas Waterfall has no scope of changing the requirements once the project development starts.
+
+Advantages of Waterfall Model:
+It is one the easiest model to manage. Because of its nature, each phase has specific deliverables and a review process.
+It works well for smaller size projects where requirements are easily understandable.
+Faster delivery of the project
+Process and results are well documented.
+Easily adaptable method for shifting teams
+This project management methodology is beneficial to manage dependencies.
+
+Advantages of the Agile Model:
+It is focused client process. So, it makes sure that the client is continuously involved during every stage.
+Agile teams are extremely motivated and self-organized so it likely to provide a better result from the development projects.
+Agile software development method assures that quality of the development is maintained
+The process is completely based on the incremental progress. Therefore, the client and team know exactly what is complete and what is not. This reduces risk in the development process.
+
+Limitations of Waterfall Model:
+It is not an ideal model for a large size project
+If the requirement is not clear at the beginning, it is a less effective method.
+Very difficult to move back to makes changes in the previous phases.
+The testing process starts once development is over. Hence, it has high chances of bugs to be found later in development where they are expensive to fix.
+
+Limitations of Agile Model
+It is not useful method for small development projects.
+It requires an expert to take important decisions in the meeting.
+Cost of implementing an agile method is little more compared to other development methodologies.
+The project can easily go off track if the project manager is not clear what outcome he/she wants.
+
+
 
 3. What is Rational Unified Process (RUP), and 
 how does it differ from other software development process models? 
 What are the key phases and activities involved in RUP, and 
 what are the benefits and drawbacks of using this approach in software development projects?
+
+ans:
+A Rational Unified Process is an approach for software engineering for delegating activities and responsibilities inside a software development organization. Its primary purpose is to enable the creation of high-quality software that satisfies the end user's requirements within a predictable budget and timeframe
+
+the RUP is normally described from three perspectives: A dynamic perspective, which shows the phases of the model over time. A static perspective, which shows the process activities that are enacted. A practice perspective, which suggests good practices to be used during the process
+
+
