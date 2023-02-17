@@ -56,5 +56,20 @@ ans:
 A Rational Unified Process is an approach for software engineering for delegating activities and responsibilities inside a software development organization. Its primary purpose is to enable the creation of high-quality software that satisfies the end user's requirements within a predictable budget and timeframe
 
 the RUP is normally described from three perspectives: A dynamic perspective, which shows the phases of the model over time. A static perspective, which shows the process activities that are enacted. A practice perspective, which suggests good practices to be used during the process
+Inception phase
+Elaboration phase
+Construction phase
+Transition phase
 
 
+Advantages:
+It provides good documentation, it completes the process in itself.
+It provides risk-management support.
+It reuses the components, and hence total time duration is less.
+Good online support is available in the form of tutorials and training.
+
+Disadvantages:
+Team of expert professional is required, as the process is complex.
+Complex and not properly organized process.
+More dependency on risk management.
+Hard to integrate again and again.
