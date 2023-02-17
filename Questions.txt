@@ -16,11 +16,11 @@ ans:
 Agile and waterfall are two distinctive methodologies of processes to complete projects or work items. Agile is an iterative methodology that incorporates a cyclic and collaborative process. Waterfall on the other hand is a sequential methodology that can also be collaborative, but tasks are generally handled in a more linear process.
 
 The key differences between the two are;
-i). Waterfall is a Linear Sequential Life Cycle Model, whereas Agile is a continuous iteration of development and testing in the software development process.
-ii). Agile methodology is known for its flexibility, whereas Waterfall is a structured software development methodology.
-iii). Agile, which follows an incremental approach, whereas the Waterfall is a sequential design process.
-iv). Agile performs testing concurrently with software development, whereas in Waterfall methodology, testing comes after the “Build” phase
-v). Agile allows changes in project development requirements, whereas Waterfall has no scope of changing the requirements once the project development starts.
+1. Waterfall is a Linear Sequential Life Cycle Model, whereas Agile is a continuous iteration of development and testing in the software development process.
+2. Agile methodology is known for its flexibility, whereas Waterfall is a structured software development methodology.
+3. Agile, which follows an incremental approach, whereas the Waterfall is a sequential design process.
+4. Agile performs testing concurrently with software development, whereas in Waterfall methodology, testing comes after the “Build” phase
+5. Agile allows changes in project development requirements, whereas Waterfall has no scope of changing the requirements once the project development starts.
 
 Benefits of Waterfall Model:
 1. It is one the easiest model to manage. Because of its nature, each phase has specific deliverables and a review process.
@@ -59,32 +59,26 @@ ans:
 A Rational Unified Process is an approach for software engineering for delegating activities and responsibilities inside a software development organization. Its primary purpose is to enable the creation of high-quality software that satisfies the end user's requirements within a predictable budget and timeframe. Rational Unified Proces differs from other sofware development process in the sense that it can be applied to project types ranging from small applications to large-scale, complex systems. The goal of this model is to help organizations meet the challenges of developing software products for today’s changing business environments.
 
 The phases are Inception Phase, Elaboration Phase, Construction Phase and Transition Phase.
-Elaboration Phase:
-It provides a full model of the project with functional and non-functional requirements.
-It provides a full Software Architecture Description.
-It provides the stability of the project, like the vision of the product & architecture of product stable or not?
-Similarly, the project plan will approve or not?
-Is the actual resource cost versus planned resource cost acceptable or not?
 
-Inception Phase:
-It provides a general vision project initiative document with multiple parameters.
-We get the project scope with the initial project model.
-An initial business suite with financial analysis.
-A project plan with different phases with a business model.
-Requirement understanding.
-Actual expenditures versus planned expenditures.
-Actual expenditures versus planned expenditures.
+Elaboration Phase Activities:
+1. It provides a full model of the project with functional and non-functional requirements.
+2. It provides a full Software Architecture Description.
+3. It provides the stability of the project, like the vision of the product & architecture of product stable or not?
 
-Construction Phase:
-The software product integrated over different modules.
-It provides a user manual.
-Is the product release stable or not?
-Is it meets client requirements or not?
+Inception Phase Activities:
+1. It provides a general vision project initiative document with multiple parameters.
+2. We get the project scope with the initial project model.
+3. An initial business suite with financial analysis.
 
-Transition Phase;
-It is one type of “beta testing” to validate the product as per user expectations.
-It provides the end-user to satisfy or not.
-All types of training manuals for the user.
+Construction Phase Activities:
+1. The software product integrated over different modules.
+2. It provides a user manual.
+3. Is the product release stable or not?
+
+Transition Phase Activities:
+1. It is one type of “beta testing” to validate the product as per user expectations.
+2. It provides the end-user to satisfy or not.
+3. All types of training manuals for the user.
 
 
 Benefits:
