@@ -1,0 +1,130 @@
+         (1)
+A software process model is an abstraction of the software development process. 
+The models specify the stages and order of a process. So, think of this as a representation of the order
+of activities of the process and the sequence in which they are performed.
+
+It important in software development:
+Ans: A software model is a very useful tool in software development. 
+Through the software model, the complexity of the entire software can be analyzed and also the strategy behind
+the development of the software can be estimated.
+A software model once created is useful in every phase of the software development: from the ideation phase to
+the retirement phase.
+
+        (2)
+    Similarities Between Agile and Waterfall:
+Before delving into what sets Agile and Waterfall apart from each other, there is a list of what they have in
+common below.
+1.They have similar goals, which are to produce high-quality software applications and make clients happy and
+ content.
+2.They perform the same activities, which include collecting requirements, designing, developing, testing, and
+ deploying.
+3.The foundation of a project involves planning, bringing the project to life, and monitoring the project’s
+ progress in the two methodologies.
+
+   Difference between the Agile and Waterfall model:
+
+1.Analysis of feasibility:
+
+ Waterfall methodology: This process takes quite a lot of time to prevent reworking in the following phases of
+ the project. It involves analyzing cost and benefit to determine if the plan is financially, technically, and
+ operationally achievable. At times it may lead to a business case.
+
+ Agile project management: This takes as little time as possible. You can contact clients in good time in the 
+ first stages of the project and settle the project requirements and task details.
+
+2.Planning process:
+
+  Waterfall project management: Planning in detail is very crucial and is done just once. It allows them to
+  achieve the set goals of the project without making any alterations to the requirements or scope of the 
+  project. You can track the formulated plan at the beginning of the project in the entire project progress 
+  after it’s set the baseline. You can make no change.
+
+  Agile methodology: Not done in advance but when the team is prepared to take on a particular set of the
+  requirements and begin to outline the development. In this case, planning is an ongoing process since the team
+  works on an active sprint. Changing the plan is allowed, but you cannot add new requirements to an active 
+  sprint.
+
+3.Monitoring and tracking processes:
+
+  Waterfall methodology: You can monitor the project’s progress. Frequent status reviews are carried out to 
+  analyze the development. Afterward, the status reports will be sent to the management team and the project 
+  sponsors. The project managers also make weekly/monthly reports of status and share them with the stakeholders.
+
+  Agile methodology: It is different as the progress gets measured in each sprint. The project team does this,
+  then the sprint reports are handed over to the stakeholders. Another way of tracking project progress is 
+  through the demo of the built functionality.
+
+4.Roles delegation:
+
+  Waterfall methodology: Project team members get assigned particular tasks, and one can work on only their 
+  delegated role. 
+
+  Agile project management: The teams are self-organizing and can switch roles among themselves. Or they can
+  work in cycles, for example, a developer can assist a tester in the testing process.
+
+                        Key differences between Agile and Waterfall model
+ Roles: Waterfall strictly assigns roles to project team members, with specific duties and responsibilities
+defined for each team member.
+
+ Scope: The waterfall methodology generally discourages changes to the project's scope, even with change
+requests used correctly. 
+
+Time frames: The waterfall method is designed for long-term projects with predetermined timelines. The project is completed linearly, with each phase dependent on the previous one. Agile, however, uses short iterations to deliver value rapidly, allowing teams to adjust plans over time and achieve shorter time frames.
+Speed: Waterfall projects tend to take longer because all requirements must be agreed upon before development
+can begin. 
+
+    The benefit and drawbacks of Waterfall model.
+             Benefit:
+1.Waterfall methodology is more detailed and is considered ideal for project planning.
+2.Delivery of the projects is much faster.
+3.Teams can easily adapt to this procedure.
+4.Each phase assures an efficient review process.
+            Drawbacks:
+1.Waterfall technology can’t be used for large size projects.
+2.Testing is done at the end of the project.
+3.Any change in the middle of the project is difficult to be addressed.
+4.Any change to be made at the previous stage cannot be done.
+5.Under unclear requirements this methodology proves ineffective.
+
+    The benefit and drawbacks of Agile model.
+        Benefit:
+1.Customers can bring out any change even after the initial stage and such changes can be easily addressed.
+2.The involvement of customers at every stage is entertained.
+3.Since each process is segregated into sprints, bugs can be easily resolved after the completion of a single
+sprint.
+4.Results can be examined easily at the end of each sprint.
+5.Rewritings are promoted under this methodology so as to achieve desired results.
+
+1.Since no schedule is available under this methodology, projects can be difficult to manage under tight 
+schedules.
+2.A dedicated team is needed in this methodology and any absence of a team person can create issues in project 
+execution.
+3.Experts’ opinions if absent can create hurdles in the projects.
+
+              (3)
+The Rational Unified Process (RUP) is a software development and project management process that provides a 
+disciplined and methodical approach towards assigning tasks and responsibilities in a team. 
+
+It is actually an adaptable process framework (not a single concrete process), that can be customized by
+the development organization according to their needs.
+
+         The key phases and activities involved in RUP are:
+1.Modelling, 
+2.Analysis and design, 
+3.Implementation,
+4.Testing and 
+5.Application.
+
+        Benefits of RUP:
+1.Offering thorough documentation.
+2.Enhancing risk management practices. 
+3.Giving regular feedback to stakeholders. 
+4.Reducing total project time. 
+5.Determining working elements early on in the project.
+
+       Drawbacks of RUP:
+1.Complexity of process.
+2.Cost and time.
+3.Challenge of using it for projects with multiple development streams. 
+
+
