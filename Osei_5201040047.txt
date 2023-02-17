@@ -1,0 +1,57 @@
+1. A software process model represents the order in which the activities of software development will be undertaken.  It describes the sequence in which the phases of the software lifecycle will be performed.
+ It's important because 
+Software process models are convenient tools that developers use to map every step of their projects. They help project managers plan their processes, estimate costs, identify challenges and communicate with teams and customers.
+
+2. Waterfall is the plain vanillae of  predictive model world. It assumes that you finished each step completely and thoroughly before you move on to the next step.
+: AGILE
+Agile development is more a set of guidelines than an actual development model. It includes a 
+set of principles that its founders believe can help with any development effort. Because it’s a 
+set of guidelines, there are many ways you can interpret its rules.
+ Waterfall is that Waterfall breaks down software development into isolated phases that flow into each other, while Agile advocate for sprints
+Advantages of the Waterfall model
+Uses clear structure. When compared with other methodologies, Waterfall focuses most on a clear, defined set of steps. ...
+Determines the end goal early. ...
+Transfers information well. ...
+Makes changes difficult. ...
+Excludes the client and/or end user. ...
+Delays testing until after completion.
+The benefits of Agile · 1. Satisfied customers · 2. Improved quality · 3. Adaptability · 4. Predictability · 5. Reduced risk · 6. Better communication.
+ 
+Disadvantages of Agile Methodology
+Less predictable. The flexibility at the core of the Agile method also means a much lower degree of predictability. ...
+More time and commitment. ...
+Greater demands on developers and clients. ...
+Lack of necessary documentation. ...
+disadvantages of the Waterfall model
+Makes changes difficult. Waterfall is based entirely on following a set of steps that keep teams always moving forward. ...
+Excludes the client and/or end user. ...
+Delays testing until after completion.
+
+2b. The key difference between Agile vs. Waterfall is that Waterfall breaks down software development into isolated phases that flow into each other, while Agile advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
+
+2c. The benefits of Agile · 1. Satisfied customers · 2. Improved quality · 3. Adaptability · 4. Predictability · 5. Reduced risk · 6. Better communication.
+Disadvantages of Agile Methodology
+Less predictable. The flexibility at the core of the Agile method also means a much lower degree of predictability. ...
+More time and commitment. ...
+Greater demands on developers and clients. ...
+Lack of necessary documentation. ...
+disadvantages of the Waterfall model
+Makes changes difficult. Waterfall is based entirely on following a set of steps that keep teams always moving forward. ...
+Excludes the client and/or end user. ...
+Delays testing until after completion.
+
+3. Rational Unified Process is the ultimate guide for assigning tasks and responsibilities within a development organization and developing high-quality software that meets the needs and requirements of its users.
+
+3b. Waterfall software development methodology is a sequential model in which each phase is completed in full and followed in a fixed order. RUP (Rational Unified Process) is an adaptable process framework of iterative software development methodologies.
+3c.  
+The Rational Unified Process (RUP) divides development into the four consecutive phases: Inception phase. Elaboration phase. Construction phase.
+
+3d.Advantages:
+
+It is an iterative approach that is better in some situations than a pure Waterfall approach
+It also has some level of predictability if the level of uncertainty in the project is not too high.
+
+Disadvantages:
+It has a fair amount of overhead and isn’t quite as flexible and adaptive as Agile
+The original implementation of RUP was heavily dependent on the Rational tool-set which is very expensive (Newer variations of RUP such as the Enterprise Unified Process have come out since then that are less dependent on the Rational tool-set)
+It is no longer widely-used and has been largely superseded by Agile and Scrum which are much more flexible and adaptive and easier to use.
