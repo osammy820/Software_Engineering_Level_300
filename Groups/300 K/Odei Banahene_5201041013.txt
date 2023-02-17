@@ -1,0 +1,122 @@
+ ANSWERS TO THE QUESTIONS
+
+1. A software process model is an abstract representation of a process. It presents a description of a process from
+   some particular perspective
+
+2. (I)  Agile performs testing concurrently with software development, whereas in Waterfall methodology, testing comes after the “Build” phase.
+
+        Agile allows changes in project development requirements, whereas Waterfall has no scope of changing
+        the requirements once the project development starts
+
+   (II)  The key difference between Agile vs. Waterfall is that Waterfall breaks down software development into isolated phases that flow into each other, 
+         while Agile advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
+     
+         Comparing the Waterfall methodology vs Agile, which follows an incremental approach, whereas the Waterfall is a sequential design process.
+   
+   (III) Agile development model benefits and drawback.
+
+        Benefits  (1. Customer satisfaction by rapid, continuous delivery of useful software.
+                  (2.People and interactions are emphasized rather than process and tools. Customers,
+                   developers and testers constantly interact with each other.
+
+        Drawbacks (1. In case of some software deliverables, especially the large ones,
+                    it is difficult to assess the effort required at the beginning of the software development life cycle.
+                  (2. The project can easily get taken off track if the customer representative is not clear what final outcome that they want.
+
+
+        Water development model benefits and drawback.        
+
+        Benefits  (1. Waterfall model works well for smaller projects where requirements are clearly defined and very well understood.
+                  (2.In this model phases are processed and completed one at a time. Phases do not overlap
+
+        Drawbacks (1. Once an application is in the testing stage,
+                     it is very difficult to go back and change something that was not well-thought out in the concept stage.
+                  (2. No working software is produced until late during the life cycle.
+
+3. (i) The rational unified process (RUP) is a software engineering and development process focused on 
+    using the unified modeling language (UML) to design and build software.
+
+   (ii) Software Development Lifecycle" is a general term for almost any software development process that is typically broken up into sequential phases 
+      with phase gates to approve transitions between phases. The phases are typically something like Requirements, Analysis, Design, Development
+      Testing, Release, etc.
+
+     The Rational Unified Process (RUP) is an iterative process where instead of attempting to deliver the entire system in one end-to-end lifecycle
+     set of phases (like Waterfall), the system is delivered in iterations where the iterations are a successive series of releases 
+     each with an increasing level of completeness.
+
+   (iii) (A) Inception
+       In the inception stage of RUP, you communicate and plan the software concept or idea,evaluating what resources you need for
+        the project and determining if it's viable.
+
+          Risk assessments and project plans
+
+          Vision or mission statements
+
+          Financial projections and business models
+
+          Prototype development
+
+        
+        (B) Elaboration
+        During the elaboration phase, you further evaluate the resources and costs needed for the project's full development,
+        creating actionable and executable baseline architecture of the software.
+
+         Use case model
+
+         Viable software architecture
+
+         Risk reduction plans
+
+         Use manual
+
+
+         (C) Construction
+         This phase of RUP often takes the longest because you create, write, collaborate and test your software and applications,
+         focusing on the features and components of the system and how well they function. 
+
+          Fully completed software system
+          User manual
+
+          To be assessed according to:
+
+          Is the product stable and complete enough for use?
+          Are all interested parties/users ready for the transition into the product’s usage?
+          Are all the expenditures and means still in good order?
+
+
+         (D) Transition
+          The transition stage releases the project to the user, whether that's the public or internal users like employees
+
+          Beta testing
+          Conversion of existing user databases
+          Training new users
+          Rolling out of the project to marketing and distribution
+
+    (iv)   Benefit of using this approch
+
+        (1) Offering thorough documentation: The RUP process involves carefully documenting each step, which can be highly beneficial for collaborative projects.
+
+        (2) Enhancing risk management practices: RUP can help software individuals proactively respond to potential software challenges.
+         This can improve risk management and troubleshooting efforts.
+ 
+        (3) Giving regular feedback to stakeholders: A vital part of the RUP process is giving consistent updates to project stakeholders. 
+         These stakeholders may range from other software individuals involved in the project to company leaders or vendors
+ 
+          Drawbacks of using this approach
+         
+        (1)  Complexity of process: Since RUP is a complicated procedure, successfully performing it requires software team members with great expertise.
+         If some of the individuals on your software team are new to the field, it might be easier to choose a different software development process
+
+        (2)  Cost and time: The amount of documentation required for RUP can be time-consuming and expensive. 
+         Software teams with smaller budgets might benefit from choosing a more cost-efficient approach for their project
+
+        (3) Challenge of using it for projects with multiple development streams: RUP may cause confusion during the testing stage for larger projects involving multiple
+          components and software teams. Because of its emphasis on ongoing integration, those working on projects with multiple development streams may want to either slow 
+          down the RUP process or look for another development procedure
+          
+        
+          
+        
+      
+   
+                
