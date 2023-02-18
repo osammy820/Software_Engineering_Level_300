@@ -1,4 +1,3 @@
-
 Q1. 
 Software process model is an abstract representation of a process. It shows a description of a process from some particular perspective.
 It is important because it ensures that the software meets the organization requirements.  
