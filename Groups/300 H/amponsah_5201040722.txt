@@ -93,6 +93,7 @@ What is Rational Unified Process (RUP), and
 how does it differ from other software development process models?
 
 
+
 Rational Unified Process (RUP) is a software development process model that provides a structured and iterative approach to software development.
 
 It was developed by Rational Software Corporation, which is now a part of IBM. 
@@ -121,6 +122,7 @@ Overall, RUP is a comprehensive and customizable process model that emphasizes i
 
 What are the key phases and activities involved in RUP, and 
 what are the benefits and drawbacks of using this approach in software development projects?
+
 
 The key phases and activities involved in Rational Unified Process (RUP) are as follows:
 
