@@ -64,7 +64,8 @@ and managing the project.
 
 Question 3. 
 
-Rup a software development process model that provides a structured approach to software development. It is an iterative and incremental process m RUP is an iterative, object-oriented approach 
+Rup a software development process model that provides a structured approach to software development.
+It is an iterative and incremental process m RUP is an iterative, object-oriented approach 
 to software development that combines the best practices of various process models and methodologies.
 
 Compared to other software development process models, such as Waterfall and Agile, RUP is more
