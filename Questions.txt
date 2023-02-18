@@ -4,11 +4,67 @@ before you start answering these question.
 Questions
 1. What is a software process model and why is it important in software development?
 
-2. Compare and contrast the Waterfall and Agile software process models. 
-What are the key differences between the two models and 
+  Answer:  Software Processes is a coherent set of activities for specifying, designing, implementing and testing software systems. A software process model is an abstract representation of a process that presents a description of a process from some particular perspective.
+
+  Software Process models help provide a visual representation of the development process for both the team and the customer to review. This helps them determine the right process to follow for specific software, identify early challenges or cost constraints and acts as a record of the team's development process for the future
+
+2. Compare and contrast the Waterfall and Agile software process models.
+
+  1. Agile software process model separates the project development lifecycle into sprints whiles the waterfall software development process is divided into distinct phases.
+  2. Agile follows an incremental approach while Waterfall methodology is a sequential design process.
+  3. Agile methodology is known for its flexibility while Waterfall is a structured software development methodology, so it can often be quite rigid.
+
+What are the key differences between the two models.
+
+  1. Agile development process model test plan is reviewed after each sprint while the Waterfall test plan is rarely discussed during the test phase.
+  2. In Agile methodology, testing is performed concurrently with software development but in waterfall methodology, the “Testing” phase comes after the “Build” phase.
+  3. Agile follows an incremental approach while Waterfall methodology is a sequential design process.
+
+
 what are the benefits and drawbacks of each?
 
-3. What is Rational Unified Process (RUP), and 
-how does it differ from other software development process models? 
-What are the key phases and activities involved in RUP, and 
+The benefits of the waterfall model are as follows
+  1. It uses a clear structure.
+  2. The progression of the waterfall model is intuitive.
+  3. The waterfall model determines the end goal early.
+  
+The drawbacks of the waterfall model are as follows
+  1. The waterfall model doesn’t support making changes.
+  2. It can invalidate the work you’ve previously accomplished.
+  3. This method excludes end-users and clients.
+  
+The benefits of the Agile model are as follows;
+  1. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely. Slow and steady wins the race.
+  2. It is the most efficient and effective method of conveying information to and within a development team is face-to-face conversation. Eliminate as many opportunities for miscommunication as possible.
+  3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference for a shorter timescale. Continually provide results throughout a project, not just at its culmination.
+  
+The drawbacks of the Agile model are as follows;
+  1. More time and commitment.
+  2. Lack of necessary documentation.
+  3. Projects easily fall off track.
+
+3. What is Rational Unified Process (RUP), 
+  Rational unified process (RUP) is a software application development technique with many tools to assist in coding the final product and tasks related to this goal. RUP is an object-oriented approach used to ensure effective project management and high-quality software production.
+  
+how does it differ from other software development process models?
+  The Rational Unified Process (RUP) is an iterative process where instead of attempting to deliver the entire system in one end-to-end lifecycle set of phases (like Waterfall), the system is delivered in iterations where the iterations are a successive series of releases each with an increasing level of completeness.
+  
+What are the key phases and activities involved in RUP,
+   1. Initiation
+   2. Elaboration
+   3. Construction
+   4. Transition
+
 what are the benefits and drawbacks of using this approach in software development projects?
+
+benefits of RUP
+  1. Enhancing risk management practices
+  2. Giving regular feedback to stakeholders
+  3. Reducing total project time
+  
+drawbacks of RUP
+  1. Challenge of using it for projects with multiple development streams
+  2. Cost and time: The amount of documentation required for RUP can be time-consuming and expensive.
+  3. Complexity of process: Since RUP is a complicated procedure, successfully performing it requires software team members with great expertise
+
+
