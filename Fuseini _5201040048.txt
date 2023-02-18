@@ -1,0 +1,74 @@
+Q1.software process model is an abstract representation 
+of a process. It presents a description of a process from 
+some particular perspective. 
+software process model is very important because it ensures that final software products meets user requirements.
+
+ Q2. Comparing and contrasting Water                fall and Agile Model.
+
+                    similarities 
+ i.The water fall model and the Agile are both Software development process models.
+ ii.
+Both the Water fall model and the Agile Model focus on user requirements.
+iiii. Both the Water fall model and the Agile Model follow a systematic process 
+                     Differences
+i. The water fall model is one of the oldest software development model but Agile one of the modern software development model.
+ii. The Water fall model uses the plan-driven development process but the agile uses the Incremental software development process.
+    Benefits of water fall model 
+1. softwares are systematically and carefully developed.
+2. It is more emphatic on software maintenance
+       Drow backs of the water fall model
+
+The main drawback of the waterfall model is the difficulty 
+of accommodating change after the process is underway.
+
+          Benefits of the Agile Model
+
+ The cost of accommodating changing customer 
+requirements is reduced. 
+1.The amount of analysis and documentation that has to be 
+redone is much less than is required with the waterfall model.
+
+2.It is easier to get customer feedback on the development 
+work that has been done. 
+
+
+      Drow backs of the Agile Model
+
+   1.It is very difficult to divide problems into several versions that would be acceptable to a customer.
+
+
+Q3.
+  The Rational Unified Process is a modern generic 
+process model that is organized into phases (inception, 
+elaboration, construction and transition) but separates 
+activities (requirements, analysis and design, etc.) from 
+these phases.It Brings together aspects of the 3 generic processes.
+
+       
+The Rational Unified Process is different from other software development modes because it separates 
+activities (requirements, analysis and design, etc.) from its phases , that is, inception, 
+elaboration, construction and transition.
+
+The key phases in the Rational Unified Process are inception, 
+elaboration, construction and transition.
+
+  Benefits of using the Rational Unified Process. 
+
+    1.Develop software iteratively:
+▪ Plan increments based on customer priorities and deliver highest 
+priority increments first.
+✧ Manage requirements
+2.Explicitly document customer requirements and keep track of 
+changes to these requirements.
+3.Use component-based architectures:
+▪ Organize the system architecture as a set of reusable 
+components.
+
+   Draw backs of using the Rational Unified Process.
+ 
+
+    1. Might be very Expensive.
+    2. Possible to create Moving Target problems.
+
+  
+
