@@ -1,0 +1,47 @@
+1.	A software process model is a specified definition of a software process, which is presented from a particular perspective. It can also be said that it is a simplified representation of a software process.
+-A software process model is important because through the software process model, the complexity of the entire software can be analyzed and also the strategy behind the development of the software can be estimated and ultimately provides shorter delivery time and better value.
+
+2.	Waterfall is a Linear Sequential Life Cycle Model, whereas Agile is a continuous iteration of development and testing in the software development process. Waterfall Methodology is a more traditional approach to project management than Agile and is currently the most commonly practiced project management approach in the modern workplace. The Waterfall Method, as described by workfront, gets its name from its top-down approach, with each phase of a project being completely wrapped up before the next begins. This method works best in processes that develop a tangible end-product, like construction for example. The success of a project using the Waterfall Method is largely dependent upon how much work is done upfront, especially research. It is much easier to accurately predict something like how much time a project requires if this kind of forethought is put into the process, thus allowing for more accurate project completion estimates. The very characteristics that make the Waterfall Method work in some situations also result in a level of rigidity that makes it difficult to respond to uncertainty and change. Therein lies the appeal of more flexible methods like Agile methodology, which allow for a team to pivot and change course much more easily.
+-Agile performs testing concurrently with software development, whereas in Waterfall methodology, testing comes after the “Build” phase.
+-Agile allows changes in project development requirements, whereas Waterfall has no scope of changing the requirements once the project development starts.
+BENEFITS OF THE WATERFALL MODEL
+-The project scope stays relatively static, meaning cost and timelines can be determined early on in the project.
+-By completing a full design early in the project, changes to systems stay minimal, meaning the cost to fix and alter designs is kept low.
+-By having detailed documentation and designs, a project can lose key members without too much hassle since the documentation describes in reasonable detail how any SME of the product or skill are needed to complete the work.
+DRAWBACKS OF WATERFALL MODEL
+-The main drawback of the waterfall model is the difficulty of accommodating change after the process is underway. In principle, a phase has to be complete before moving onto the next phase.
+-It is difficult to estimate the total time a project will take to complete. Each organization has different processes and each project has different issues, including SME shortages, long delays in provisioning software, and a lengthy approval process.
+BENEFIT OF AGILE MODEL
+-In the Agile, the customer is always involved in the decision-making process which leads to greater customer retention. In the traditional framework, the customer is only involved in the planning phase and does not influence execution which affects the flexibility and adaptability. By keeping the customer in the loop and making changes according to their feedback, you deliver value to the customer and ensure that the final product is truly according to their requirements.
+-The methodology works in iterations which means that each sprint will be better than the last one and previous mistakes will not be repeated. Agile methodologies foster an open culture of idea exchange and collaboration which allows team members to learn from shared experiences and improve together.
+DRAWBACKS OF AGILE MODEL
+-Agile development models often involve working in short sprints, which can make it difficult to plan and forecast project timelines and deliverables. This can lead to delays in the project and can make it difficult to accurately estimate the costs and resources needed for the project.
+-The lack of formal documents creates confusion and important decisions taken during different phases can be misinterpreted at any time by different team members.
+-Agile development models require a high degree of expertise from team members, as they need to be able to adapt to changing requirements and work in an iterative environment. This can be challenging for teams that are not experienced in agile development practices and can lead to delays and difficulties in the project.
+
+3.	The rational unified process (RUP) is a software engineering and development process focused on using the unified modeling language (UML) to design and build software. Using the RUP process allows you to operate business analysis, design, testing and implementation throughout the software development process and its unique stages, helping you create a customized product.
+
+- Rational Unified Process is a software development approach that is mainly used by software developers in a web application development and is a specific implementation of the Unified Process. This makes it different from the other models.
+
+PHASES OF RUP
+ -Inception: Establish the business case for the system. 
+ -Elaboration: Develop an understanding of the problem domain and the system architecture. 
+ -Construction: System design, programming and testing. 
+ -Transition: Deploy the system in its operating environment.
+ACTIVITIES
+- Requirements
+- Analysis
+- Design
+BENEFITS OF RUP
+-RUP can help software individuals proactively respond to potential software challenges. This can improve risk management and troubleshooting efforts.
+-The RUP process involves carefully documenting each step, which can be highly beneficial for collaborative projects.
+-RUP software development organizes systems into phases to ensure each process has better executable iterations, not to mention these processes have been used successfully by other organizations.
+DRAWBACKS OF RUP
+-Since RUP is a complicated procedure, successfully performing it requires software team members with great expertise.
+-RUP may cause confusion during the testing stage for larger projects involving multiple components and software teams. Because of its emphasis on ongoing integration, those working on projects with multiple development streams may want to either slow down the RUP process or look for another development procedure
+
+
+
+	
+
+ 
