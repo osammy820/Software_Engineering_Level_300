@@ -13,7 +13,6 @@ how does it differ from other software development process models?
 What are the key phases and activities involved in RUP, and 
 what are the benefits and drawbacks of using this approach in software development projects?
 
-
 1. A software process model is a standard framework used to guide the development of 
 software from its initial conception through to its final release.It defines a set of activities
 and tasks that should be followed in a particular sequence to ensure that the software is developed
@@ -110,5 +109,4 @@ Cost: The cost of adopting RUP can be high, especially for small software develo
 Risk of over-engineering: RUP emphasizes documentation and planning, which can lead to over-engineering and unnecessary work.
 
 Dependence on tools: RUP requires the use of specific software tools, which can limit flexibility and increase costs.
-
 
