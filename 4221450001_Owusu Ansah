@@ -1,0 +1,122 @@
+Please make sure to read every bit of instruction in the "instruction.txt" file
+before you start answering these question.
+
+
+
+Questions
+1. What is a software process model and why is it important in software development?
+
+
+A software process model is an abstraction of the software development process. The models specify the stages and order of a process. So, think of this as a representation of the order of activities of the process and the sequence in which they are performed.
+
+A model will define the following:
+
+The tasks to be performed
+The input and output of each task
+The pre and post-conditions for each task
+The flow and sequence of each task
+
+oftware process models are convenient tools that developers use to map every step of their projects. They help project managers plan their processes, estimate costs, identify challenges and communicate with teams and customers. 
+
+2. Compare and contrast the Waterfall and Agile software process models. 
+What are the key differences between the two models and 
+what are the benefits and drawbacks of each?
+
+
+The key difference between Agile vs. Waterfall is that Waterfall breaks down software development into isolated phases that flow into each other, while Agile advocates iterative development cycles in which multiple lifecycle phases can run in parallel. 
+Whether an organization develops applications with an Agile- or Waterfall-based methodology, all software development projects incorporate common aspects of lifecycle phases, including:
+
+requirements gathering;
+analysis and design;
+development and implementation;
+testing and verification; and
+deployment and ongoing maintenance.
+How does Waterfall work?
+The Waterfall model treats each software development lifecycle phase as distinct, isolated events. Development teams must complete each phase in its entirety before they move onto the next phase.
+
+Furthermore, once teams move onto a new phase, they are not allowed to revisit a previous one. Progress through the development phases flows in only one direction, from the top to the bottom -- just like flow of a waterfall, which is where the model's name comes from.
+How do Waterfall and Agile compare?
+Agile practitioners know that in the world of software development, things never go according to plan. Therefore, the impetus to continuously delivery software into the hands of the client is arguably the primary difference between Waterfall and Agile.
+
+Waterfall asserts that customer feedback and stakeholder interactions need not occur until the end-product is delivered. However, Agile practitioners believe the following:
+
+Requirements can become outdated before development even begins.
+
+New technologies can force changes to even the best designs.
+Wireframes and visual renderings don't always translate well into webpages and mobile apps.
+Revised stakeholder priorities can shift development timelines and efforts.
+Waterfall does not deal with these situations well.
+
+When is Waterfall better than Agile?
+The Waterfall model has its roots in construction, engineering and manufacturing dating back to the 1950s. The traditional Waterfall model was repurposed for the world of software engineering in the 1970s.
+
+It makes sense to use a Waterfall methodology to build a house. You don't want to pour the basement for a two-bedroom home, only to have the client decide they want a six-bedroom mansion.
+
+Similarly, when you manufacture a car, you give the keys to the owner after it's fully built. You don't ask the purchaser for feedback as the car goes through the assembly line.
+
+For software development, such rigidity isn't helpful.
+
+For software projects, if the requirements are clearly defined upfront with minimal probability for any changes between the time the software is requisitioned and when it is delivered, then the Waterfall method makes sense.
+
+When should you choose Agile over Waterfall?
+For software development projects that involve ongoing engagement between the development team and the project stakeholders, choose Agile over Waterfall.
+
+There was a time 30 years ago where applications were developed in isolated silos and stakeholders and developers never interacted face to face. In modern software development environments, developers and stakeholders are often colocated in the same building and can easily converse in a hallway or over a cubicle wall.
+
+Choose Agile, not Waterfall, when developers and stakeholders can easily exchange feedback and be transparent about the development process.
+
+What are advantages of Agile vs. Waterfall?
+Most organizations choose to take an Agile approach for the following five reasons:
+
+Agile encourages testing and validation earlier in the software development lifecycle.
+Continuous delivery in Agile is consistent with the DevOps' continuous deployment model.
+The Agile feedback loop more directly involves stakeholders in the development process.
+Agile makes it easier to adapt to changed requirements midway through development.
+Agile projects are easier to start because development doesn't depend on complete requirements and analysis cycles.
+
+ 
+3. What is Rational Unified Process (RUP), and 
+how does it differ from other software development process models? 
+What are the key phases and activities involved in RUP, and 
+what are the benefits and drawbacks of using this approach in software development projects?
+Rational Unified Process (RUP) is an agile software development methodology. RUP splits the project life cycle into four phases. During each of the phases, all six core development disciplines take place: business modelling, requirements, analysis and design, implementation, testing, and deployment. However, certain processes are more important and take up more time during every stage. For example, business modelling mostly takes place during the early phases, inception and elaboration. Each of four phases has the main objective, which has to be completed before the project can progress to the next phase.
+
+The main goal of RUP is to create high quality software with a predictable budget and time frame. Each of the life cycle phases can be repeated, if needed, until the main objectives are met. Once the transition stage is completed successfully, the project is finished.
+
+Inception –
+Communication and planning are the main ones.
+Identifies the scope of the project using a use-case model allowing managers to estimate costs and time required.
+Customers’ requirements are identified and then it becomes easy to make a plan for the project.
+The project plan, Project goal, risks, use-case model, and Project description, are made.
+The project is checked against the milestone criteria and if it couldn’t pass these criteria then the project can be either canceled or redesigned.
+Elaboration –
+Planning and modeling are the main ones.
+A detailed evaluation and development plan is carried out and diminishes the risks.
+Revise or redefine the use-case model (approx. 80%), business case, and risks.
+Again, checked against milestone criteria and if it couldn’t pass these criteria then again project can be canceled or redesigned.
+Executable architecture baseline.
+Construction –
+The project is developed and completed.
+System or source code is created and then testing is done.
+Coding takes place.
+Transition –
+The final project is released to the public.
+Transit the project from development into production.
+Update project documentation.
+Beta testing is conducted.
+Defects are removed from the project based on feedback from the public.
+Production –
+The final phase of the model.
+The project is maintained and updated accordingly.
+Advantages:
+
+It provides good documentation, it completes the process in itself.
+It provides risk-management support.
+It reuses the components, and hence total time duration is less.
+Good online support is available in the form of tutorials and training.
+Disadvantages:
+
+Team of expert professional is required, as the process is complex.
+Complex and not properly organized process.
+More dependency on risk management.
+Hard to integrate again and again.
