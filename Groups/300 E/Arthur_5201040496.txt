@@ -35,6 +35,32 @@ Maintenance. while Agile development considers the following: Requirements are a
 The system evolves over a series of short iterations,Customers are involved during each iteration, and
  Documentation is done only when needed.
 
+ Bnefits of 
+
+ 
+Benefits
+1. Waterfall
+Well-defined requirements and scope
+Clear project phases and deliverables
+Predictable timeline and budget
+
+2. Agile
+Continuous feedback and adaptation
+Very Flexible and adaptable to constant changing requirements
+Higher collaboration between developers and stakeholders
+
+Drawbacks
+1. Waterfall
+Limited feedback
+Less or no adaptability hence high risk of project failure if requirements change
+Very difficulty in accommodating changes during development
+
+2. Agile
+Uncertainty in project scope and timeline can increase cost
+Project management is complex
+Potential for scope creep
+
+
  Question 3
 
 What is Rational Unified Process (RUP), and 
