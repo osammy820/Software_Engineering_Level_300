@@ -85,7 +85,6 @@ Transition: In this phase, the project team deploys the software and conducts us
 which can lead to a higher-quality software product.
 
     DRAWBACKS OF  RUP:
-
 1. It can be complex and difficult to implement, especially for smaller software development projects.
 2. It can be time-consuming and expensive to develop a detailed software architecture and project plan.
 3. It requires a highly skilled and experienced project team to implement effectively.
