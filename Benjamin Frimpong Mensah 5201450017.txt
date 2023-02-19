@@ -1,0 +1,82 @@
+Please make sure to read every bit of instruction in the "instruction.txt" file
+before you start answering these question.
+
+Questions
+1. What is a software process model and why is it important in software development?
+Software process models are convenient tools that developers use to map every step of their projects.
+
+* It helps project managers plan their processes.
+* It helps estimate costs
+* Aids inidentifying challenges
+*Enables communicate with teams and customers.
+
+
+2. Compare and contrast the Waterfall and Agile software process models. 
+What are the key differences between the two models and 
+what are the benefits and drawbacks of each?
+
+
+Benefits of Waterfall 									Drawbacks of Waterfall 
+
+ Before the next phase of development,each phase must be completed              Error can be fixed only during the phase
+
+ Suited for smaller projects where requirements are well defined                It is not desirable for complex project where requirement changes frequently
+
+ Test (Verification and Validation) before completing each stage                Testing period comes quite late in the developmental process
+
+ Elaborate documentation is done at every phase                                 Documentation occupies a lot of time of developers and testers
+
+ Suited for smaller projects where requirements are well defined                 Error can be fixed only during the phase
+
+    
+
+
+
+
+
+
+Benefits of Agile model:
+
+    Customer satisfaction by rapid, continuous delivery of useful software.
+    
+    People and interactions are emphasized rather than process and tools. Customers, developers and testers constantly interact with each other.
+    
+    Working software is delivered frequently (weeks rather than months).
+    
+    Face-to-face conversation is the best form of communication.
+    
+    Close, daily cooperation between business people and developers.
+    
+    Continuous attention to technical excellence and good design
+
+Drawbacks of Agile model:
+
+    In case of some software deliverables, especially the large ones, it is difficult to assess the effort required at the beginning of the software development life cycle.
+    
+    There is lack of emphasis on necessary designing and documentation.
+    
+    The project can easily get taken off track if the customer representative is not clear what final outcome that they want.
+    
+    Only senior programmers are capable of taking the kind of decisions required during the development process. Hence it has no place for newbie programmers, unless combined with experienced resources.
+
+3. What is Rational Unified Process (RUP), and 
+how does it differ from other software development process models? 
+What are the key phases and activities involved in RUP, and 
+what are the benefits and drawbacks of using this approach in software development projects?
+
+Rational Unified Process is an approach for software engineering for delegating activities and responsibilities insidde a software development organisation
+
+    It allows you to deal with changing requirements regardless of whether they are coming from the customer or from the project itself.
+    It emphasizes the need for accurate documentation.
+    It forces integration to happen throughout the software development, more specifically in the construction phase.
+
+Inception=====>elaboration=====>contrustion=====>transition
+
+
+
+    Pros: RUP takes the best parts of Waterfall and incorporates them into a more iterative process that allows for changes.
+    
+
+    Cons: Like Waterfall, RUP is also process-heavy, and can rely too heavily on stakeholder feedback. Even as an iterative process it can be too slow for certain types of projects.
+
+
