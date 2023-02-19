@@ -1,0 +1,47 @@
+ANSWERS TO THE QUESTIONS
+1. A software process model is an abstraction of the software development process. The models specify the stages and order of process. So a software process model is the representation of the order of activities of the process and the sequence in which they are performed.
+  A model define the tasks to be performed, the input and output of each task, the pre and post-conditions for each task and the flow and sequence of each task
+
+2. In Agile, the practitioners know that in the world of softwar development, things never go according tto plan. Therefore, the impetus to continuously delivery software into the hands of the client is arguably the primary difference between Waterfall and agile.
+   Waterall asserts that customer feedback and stakeholder interactions need not occur untill the end-product is delivered.
+
+3. The key difference between waterfall and agile includes:
+ a) Waterfall is a linear sequential life cycle model, whereas Agile is a continuous iteration of development and testing in the software development process.
+ b) Agile methodology is known for itws flexibilitym whereas Waterfall is a structured software development methodology.
+ c) Agile performs testing concurrently with sogtwre development whiles Waterfall methodology testing comes after the build phase
+
+4. These are some of the benfits of waterfall
+  i) It is one of the easiest model to manage. Because of its nature,each phase has specific deliverables and a review.
+  ii) It works well for smaller size projects where requirements are easily understandable.
+ iii) It easily adaptable method for shifting teams
+
+  These are some of the drawbacks of waterfall
+  i) It is not ideal model for a large size project
+  ii) If the requirement is not clear at the beginning, it is less effective method
+ iii) Very difficult to move back to makes changes in the previous phases.
+
+  These are some of the benfits of the Agile
+ i) It is focused client process
+ ii) Agile teams are extremely motivated and self-organized so it likely to provide a better result frfom the development projects
+ ii) Agile software development method assures that quality of the development is maintained
+
+  These are some of the draw backs of Agile
+ i) It is not useful method for small development projects
+ ii) It requires an expert to take important decisions in the meeting
+ iii) Cost of implementing an agile method is little more compared to other developement methodologies
+
+5 Rational Unified Process(RUP) is the ultimate guide for assigning tasks and responsibilities within a developement organization and developing high quality software that meets the needs and requirements of its users.
+
+6. One difference is that RUP is a framework for organizations and teams, while the Agile method is more intended for a product team with strict/ clear guidelines.
+
+7. There is total of five(5) phases of the life cycle of RUP. These are inception,elaboration,construction, transition and production
+
+8. These are some of the benefits of RUP
+ i) It provides good documentation, it completes the process in itself.
+ ii) It provides risk management support
+iii) It reuses the components, and hence total time duration is less
+
+ These are some of the drawbacks of the RUP
+ i) More dependency on risk management
+ ii) Hard to integrate again and again
+iii) Complex and not properly organized
