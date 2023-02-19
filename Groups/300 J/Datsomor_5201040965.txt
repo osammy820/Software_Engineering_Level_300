@@ -1,0 +1,60 @@
+Q1.     Software Processes is a coherent set of activities for specifying, designing,
+implementing and testing software systems.
+    The importance of Software Process Model in Software Development are that,
+they provide a structured approach in, building and maintaining software systems. 
+
+Q2. The key difference between Agile vs. Waterfall is that Waterfall breaks down 
+software development into isolated phases that flow into each other, while Agile 
+advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
+    Whether an organization develops applications with an Agile- or Waterfall-based
+methodology, all software development projects incorporate common aspects of lifecycle 
+phases, including:
+requirements gathering;analysis and design;development and implementation;testing
+and verification; and deployment and ongoing maintenance.
+Waterfall is a linear sequencial life cycle model whiles Agile is a continious iteration of development and testing in the software development process
+Agile performs testing concurrently with software development whiles waterfall, testing comes after the "build" phases
+Agile allows changes in projects development requirements whiles waterfall has no scope of changing the requirements once the project development starts.
+
+waterfall benefits
+i. minimal scope creep
+ii. precise project plan and firm deadline
+iii. well defined roles and responsibilities
+
+waterfall drawbacks
+i. beaurocratic change management process
+ii. lack of flexibility after a specification
+iii. too many gaps between innovations reaching the market
+
+agile benefits
+i. flexibility to respond to the market and new intelligence
+ii. rigid cadence, deadline flexibility
+iii. self organizing team and resources allocation
+
+agile drawbacks
+i. loose testing requirement may let bugs through
+ii. relentless space
+iii.no opportunities to make changes during a sprint
+
+Q3. Rational Unified process (RUP) is a software development process for objects oriented models.
+
+Rational Unified process is an iterative process where instead of attempting to deliver the entire
+the system in one end-to-end lifecycleset of phases, the system is delivered in iterations where the
+iterationsare successive series of release each with an increasing level of completeness.
+
+inception
+elaboration
+construction
+transition
+production
+
+benefits of RUP
+i. provides good documentation
+ii. provides risk management suppoorts
+iii. it reuses the components, and hence total time duration less
+iv. good online support is available in the form of tutorials and training
+
+drawbacks
+i. hard to integrate again and again
+ii. more dependency on risk management
+iii. complex and not properly organized process
+iv. team of expert professional is required as the process ia complex
