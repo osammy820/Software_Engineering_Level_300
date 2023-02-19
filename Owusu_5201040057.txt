@@ -1,0 +1,12 @@
+1.Software process model is an abstract representation of a process. it's important because it presents a description of a process from some particular perspective.
+
+2. The waterfall model requires that each process must completely done before going to another phase of process and it's very difficult in changing a steps in the process whiles Agile processes are very easier to changes in the course of the process to suit customer's requirements. Waterfall helps to do one work at a time and makes it neat and nice because one step has to be complete before next step. And Agile works are done very fast and very easily.
+The main drawback of the waterfall model is the difficulty of accommodating changes after the process is underway and it is easy to interrupt Agile model because changes can be done at anymore in the modeling.
+Rational unified process is a modern generic process derived from the work on the UML and it's associated process. It differ from other software development process models in such a way that it's derived from already made or exist work of the UML and it's associated process.
+The key phases are Inception, Elaboration, Construction and Transition.
+Activities:
+Inception: it establish the business case for the system.
+Elaboration: develop an understanding of the problem domain and the system architecture.
+Construction: system design, programming and testing .
+Transition: Deploy the system in it's operating environment.
+The benefits in the RUP are the separation of phases and workflows, and the recognition that deploying software in a user's environment is part of the process. And the drawback is that, the RUP is not a suitable process for types of development, e.g., embedded software development can't be very suitable for such process.
