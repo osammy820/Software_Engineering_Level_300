@@ -1,0 +1,32 @@
+1. Software process model is a structured set of activities required to develop a software system
+
+2.Waterfall model process: a phase needed to be complete before moving to the next pahse while 
+Agile each phases can simulteously be worked on.
+
+ Waterfall Model Process advantage is that it relies on teams following a sequence of steps 
+and never moving forward until the previous phase has been completed
+Its disadvanage:  it does not allow much reflection or revision
+
+Agile Model Process: 
+Advantage: It allows some changes to be done on each phase simultaneously.
+Disadvanage: Its time consuming.
+
+3.  Rational Unified Process is a  development process focused on using 
+the Unified Modeling language to design and build software.
+
+Key phases and activities involved in Rational Unified Process 
+ a.Inception
+  -Establish the business case for the system
+
+ b.Elaboration
+ - Develop an understanding of the prblem domain and the system architecture
+
+ c.Construction
+ - system design, programming and testing
+
+ d.Transition
+ - Deploy the system in its operating environment.
+
+benefits
+It emphasizes the need for accurate documentation.
+Its throwback is that it is diffcult to manage
