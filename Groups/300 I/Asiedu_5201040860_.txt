@@ -1,0 +1,26 @@
+Question 1.
+
+	Ans: A software process model is a standardized approach to software development that guides
+	 	the activities of the software development team. It defines a set of activities, milestones,
+		and deliverables that need to be completed throughout the software development lifecycle.
+
+Question 2.  
+	Ans: Waterfall and Agile are two software process models that have significant differences in their approach
+	 	to software development. Waterfall is a linear, sequential approach to software development, where each stage
+	 	of the development process is completed before moving on to the next stage. The key phases in the Waterfall model are
+		requirements gathering, design, implementation, testing, and maintenance. In contrast, Agile is an iterative and incremental
+	 	approach to software development that emphasizes collaboration, flexibility, and customer satisfaction. Agile development is 
+		organized into small, manageable iterations called sprints, with a focus on delivering working software quickly and continuously
+	 	improving the product based on feedback. The key differences between the two models are their approach to requirements, the order 
+		of the development process, their level of flexibility and their speed. 
+			The Waterfall model provides a rigid and structured process which may result in more predictable outcomes but may be inflexible and 
+		slow to react to change. Agile model provides a flexible and iterative approach that can respond quickly to change but may result
+		 in less predictable outcomes due to its rapid pace and focus on changing requirements.
+Question 3.
+	Ans: Rational Unified Process (RUP) is a software development process model that is based on the iterative and incremental approach of Agile,
+		 but with a greater emphasis on documentation, architecture, and formal project management. RUP divides the software development process into
+	 	four phases: Inception, Elaboration, Construction, and Transition. In the Inception phase, the project scope and requirements are defined.
+		 In the Elaboration phase, the software architecture is designed, and the system requirements are analyzed. In the Construction phase, 
+		the software is developed, tested, and integrated. In the Transition phase, the software is deployed, and the system is tested and evaluated.
+		 The key benefits of RUP include its emphasis on documentation, formal project management, and quality assurance. 
+		However, some of the drawbacks include its complexity, high overhead, and potential for delayed project delivery due to its comprehensive process.
