@@ -1,0 +1,146 @@
+Software Engineering Assignment
+1.A software process model is a digital or hand-written model that details the software development process. Process models help provide a visual representation of the development process for both the team and the customer to review.
+
+1. Waterfall
+The waterfall software process model is one of the simplest and most effective software process models. The waterfall model displays each step of the development process as a separate, sequential step so that it's easy to follow. You can view the development process from beginning to end with a glance and adjust steps as the development process continues.
+The waterfall process model works well for simple software development projects that likely won't change significantly during the development process. The team understands each parameter thoroughly and can work through the development phases quickly.
+. Prototyping
+Prototyping is another common type of software process model. Prototyping involves creating a working design quickly for the customer to ensure the team is meeting the customer's parameters.
+This allows the development team to troubleshoot and problems with the customer before continuing to full development and provides the customer with a visual of what the final product might look like.
+Prototyping is fast and efficient and helps solidify the team's design plans and align customer expectations. Customers typically oversee the entire prototyping process. The process is useful when customers aren't certain what the final deliverable should be.
+3. Incremental
+Incremental development is the process of dividing the development phases into various sections based on user feedback. The team develops in increments, developing one part of the software and submitting it to user testing and feedback before moving on to the next phase in the process. This allows the team to identify issues or challenges early on and keep the customer's parameters aligned with the actual development.
+This also allows the team to work closely with their customers to learn more about what they want from their software. This method benefits development teams who are creating more complex software programs that need frequent usability testing.
+4. Spiral
+The spiral model is similar to the waterfall model but includes risk assessment. These assessments help the team identify potential risks during the project's development, allowing for faster response times and more realistic expectations for the customer during development.
+The model includes an X-Y axis grid with a spiral shape moving outward from the central intersection of the X and Y-axis. Within each "loop" is a phase of the project, which can include parameters, expectations and risks. This method benefits teams who are working on high-risk projects.
+5. Iterative
+The iterative model is similar to the incremental model, except that individual components of the software receive feedback and testing before the team develops the other components.
+The team might build the initial project quickly and release it to the customer for feedback, working on individual components to ensure they meet the customer's expectations. Iterative development typically consists of four phases:
+•	Inception: The team establishes a business case for the system.
+•	Elaboration: The team identifies risk, develops a project plan and creates system architecture.
+•	Construction: The team develops parallel components.
+•	Transition: The team delivers the system into its operating environment for customer review.
+
+6. RAD model
+The RAD model, or rapid application development model, combines rapid prototyping with incremental development. This helps provide better feedback for the developers with prototypes for the customer and development at an incremental rate.
+The customer oversees the live development of the system and is able to more quickly identify new parameters or potential errors with original expectations for the project. The RAD model is a useful approach for teams developing software with strict UI, or user interface, requirements.
+The RAD model ensures that each component of the user interface is complete and functional to the customer's expectations at the expense of potential cost overruns or deadlines.
+The importance of Software Development
+1.	Create the new logic for problem solving based on open-ended programming environments for high performance computer systems
+
+2. Develop a formal methodology that guides us toward the construction of correct and portable
+parallel programs, and adopt an openness to radical and innovative alternatives
+
+3. Design a programming language that incorporates a unifying intuitive model of parallel computation, and which provides a coherent vehicle for the natural description of parallel programs
+
+4. Devise and construct software tools that resonate with the methodology and facilitate a flexible, supportive environment
+
+5. Introduce widely available, substantial educational opportunities in parallel programming that will create a pool of individuals with the experience and intuition necessary to work effectively in this setting.
+
+
+
+2.	waterfall Model methodology which is also known as Linear Sequential Life Cycle Model. Waterfall Model followed in the sequential order, and so project development team only moves to next phase of development or testing if the previous step completed successfully.
+What is the Agile methodology?
+Agile methodology is a practice that helps continuous iteration of development and testing in the software development process. In this model, development and testing activities are concurrent, unlike the Waterfall model. This process allows more communication between customers, developers, managers, and testers.
+Advantages of Waterfall Model:
+•	It is one the easiest model to manage. Because of its nature, each phase has specific deliverables and a review process.
+•	It works well for smaller size projects where requirements are easily understandable.
+•	Faster delivery of the project
+•	Process and results are well documented.
+•	Easily adaptable method for shifting teams
+•	This project management methodology is beneficial to manage dependencies.
+Advantages of the Agile Model:
+•	It is focused client process. So, it makes sure that the client is continuously involved during every stage.
+•	Agile teams are extremely motivated and self-organized so it likely to provide a better result from the development projects.
+•	Agile software development method assures that quality of the development is maintained
+•	The process is completely based on the incremental progress. Therefore, the client and team know exactly what is complete and what is not. This reduces risk in the development process.
+Limitations of Waterfall Model:
+•	It is not an ideal model for a large size project
+•	If the requirement is not clear at the beginning, it is a less effective method.
+•	Very difficult to move back to makes changes in the previous phases.
+•	The testing process starts once development is over. Hence, it has high chances of bugs to be found later in development where they are expensive to fix.
+Limitations of Agile Model
+•	It is not useful method for small development projects.
+•	It requires an expert to take important decisions in the meeting.
+•	Cost of implementing an agile method is little more compared to other development methodologies.
+•	The project can easily go off track if the project manager is not clear what outcome he/she wants.
+•	Difference between Agile and Waterfall Methodologies
+•	 
+•	Below is a difference between Agile and Waterfall methodologies:
+Agile	Waterfall
+It separates the project development lifecycle into sprints.	Software development process is divided into distinct phases.
+It follows an incremental approach	Waterfall methodology is a sequential design process.
+Agile methodology is known for its flexibility.	Waterfall is a structured software development methodology so most times it can be quite rigid.
+Agile can be considered as a collection of many different projects.	Software development will be completed as one single project.
+Agile is quite a flexible method which allows changes to be made in the project development requirements even if the initial planning has been completed.	There is no scope of changing the requirements once the project development starts.
+Agile methodology, follow an iterative development approach because of this planning, development, prototyping and other software development phases may appear more than once.	All the project development phases like designing, development, testing, etc. are completed once in the Waterfall model.
+Test plan is reviewed after each sprint	The test plan is rarely discussed during the test phase.
+Agile development is a process in which the requirements are expected to change and evolve.	The method is ideal for projects which have definite requirements and changes not at all expected.
+In Agile methodology, testing is performed concurrently with software development.	In this methodology, the “Testing” phase comes after the “Build” phase
+Agile introduces a product mindset where the software product satisfies needs of its end customers and changes itself as per the customer’s demands.	This model shows a project mindset and places its focus completely on accomplishing the project.
+Agile methdology works exceptionally well with Time & Materials or non-fixed funding. It may increase stress in fixed-price scenarios.	Reduces risk in the firm fixed price contracts by getting risk agreement at the beginning of the process.
+Prefers small but dedicated teams with a high degree of coordination and synchronization.	Team coordination/synchronization is very limited.
+Products owner with team prepares requirements just about every day during a project.	Business analysis prepares requirements before the beginning of the project.
+Test team can take part in the requirements change without problems.	It is difficult for the test to initiate any change in requirements.
+Description of project details can be altered anytime during the SDLC process.	Detail description needs to implement waterfall software development approach.
+The Agile Team members are interchangeable, as a result, they work faster. There is also no need for project managers because the projects are managed by the entire team	In the waterfall method, the process is always straightforward so, project manager plays an essential role during every stage of SDLC.
+
+
+
+
+3. Rational Unified Process is the ultimate guide for assigning tasks and responsibilities within a development organization and developing high-quality software that meets the needs and requirements of its users. It was initially created by the Rational Software Corporation which IBM bought out in 2003.
+The incredible success of RUP approach has made a wide range of organizations worldwide realize how important a well-defined and well-documented software process is, and stimulated them to start implementing it in their projects.
+Although this method is primarily used for big software development projects, many project managers assume that RUP is not the right solution for projects of limited scope, which don’t require many resources. However, there are many examples of small projects that benefited greatly from incorporating RUP into their organization.
+For example, TAP University (Technology as Promised) is an online learning management system. Their aim was to extend the face-to-face training and boost their online offerings to corporate and public customers and students.
+Although this was a small project, the implementation of RUP yielded remarkable results. It helped the organization build a necessary framework in terms of organization of their use cases and gave guidance for the company to begin the Construction stage, the third and the most important stage of Rational Unified Process.
+What is Rational Unified Process (RUP)?
+A processed product - the development team for RUP is working closely with customers, partners, groups organizations to ensure that the process is constantly updated
+The RUP leverages team productivity - it allows the team to have a free access to a knowledge base with all the guidelines and tool mentors that help them overcome critical issues. This helps the entire team share the same language when developing a software
+The RUP creates and maintain models - instead of producing a large amount of paperwork, this method creates models - semantically rich representations of the software system your team is developing
+The RUP is a guide how to use Unified Modelling Language (UML) - UML allows your team to communicate their requirements, architecture, and design of the project.
+The RUP is a configurable process - it is a simple and clear process that can fit both small development teams as well as large organizations.
+Six fundamental practices of RUP
+There are six fundamental best practices that make RUP suitable for a wide range of projects worldwide:
+•	Develop software iteratively - by tackling high-risk elements on every stage of the projects, it allows you to gain increasing understanding of the problem and make necessary changes until you reach the most reasonable solution
+•	Manage requirements - describes how to organize and keep track of functionality requirement, documents, tradeoff, decisions and business needs
+•	Use component-based architecture - it structures the system architecture into components which are reusable not only on the project at hand but in future projects as well
+•	Visually model software - it shows you how to create a visual model of a software to capture the structure and behavior of architecture and components
+•	Verify Software Quality - it enables you to evaluate and control the quality of all activities during the software development
+•	Control changes to software - it gives you the ability to control, track and monitor changes which enable constant and successful development of the software. It also helps you create a secure workspace by isolating it from changes which in turn brings your team together making them work as a unit.
+The structure of RUP
+This approach describes who is doing what, how and when. RUP can be presented by using four main elements:
+Workers - the “Who”
+It defines the behavior and responsibilities of all team members who are all focus on one common goal - to produce artifacts. In RUP, the worker is more of a role defining how individuals should carry out their work. A worker should not only perform a certain set of activities but also be the owner of a set of artifacts.
+Activities - the “How”
+It refers to the unit of work that a worker is to perform. Each activity has a clear purpose and is assigned to the specific worker. Activities mainly include creating or updating some artifacts such as a model, a class, or a plan.
+Artifacts - the “What”
+The thing or the information that the process produces modifies or uses while working towards the final outcome. Artifacts serve as input that workers use to perform an activity and are also results or output of those activities.
+Workflows - the”When”
+Workflow represents a sequence of activities that produce an observable value. In UML terms, we can present workflow in a sequence diagram, a collaboration diagram, and activity diagram.
+ 
+The lifecycle of RUP
+Like most methodologies, RUP lifecycle is broken into four main phases (cycles), each phase working on a new generation of the product:
+•	Inception phase
+•	Elaboration phase
+•	Construction phase
+•	Transition phase
+1. Inception phase
+Essentially, in this cycle, your team determines the structure and the basic idea of the project. Also, the team will decide if the project is worth pursuing at all based on the estimated costs, the necessary resources and the goal they are trying to achieve with the project.
+2. Elaboration phase
+The aim of this phase is to analyze the requirements and the architecture of the system, develop the project plan and eliminate the highest risk elements of the project. It’s undoubtedly the most critical of all stages as it signifies the transition from low-risk to high-risk. It’s an also the point when your team has to make a decision whether to start a construction (development and coding) or not.
+3. Construction phase
+At this stage, your team is finally ready to develop all components and features and integrate them into the product. It’s a manufacturing process where your team focuses on managing resources in order to optimize costs, schedules and the quality.
+4. Transition Phase
+The transition phase is the moment when the product is finally finished, released and delivered to customers. However, once the product is given to the user, there are a number of issues that can arise. This requires the team to handle all the bug-fixes and correct problems, or to finish some features that were postponed.
+At the end of each phase, there is an important Project Milestone - a point in time when your team confirms that certain goals have been achieved. At that moment they have to make some critical decisions, which will have an impact on the following phase.
+ 
+The benefits of RUP
+•	It allows you to deal with changing requirements regardless of whether they are coming from the customer or from the project itself.
+•	It emphasizes the need for accurate documentation.
+•	It forces integration to happen throughout the software development, more specifically in the construction phase.
+The disadvantages of RUP
+•	It mostly relies on the ability of experts and professionals to assign the activities to individuals who should then produce pre-planned results in the form of artifacts.
+•	The integration in development process can also have an adverse impact on some more fundamental activities during the stages of testing
+•	Although RUP has delivered excellent results, especially in software development, it is a rather complex method which makes its implementation challenging, particularly for smaller businesses, teams or projects.
+
