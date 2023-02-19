@@ -6,7 +6,7 @@ Questions
 
 //Answer to Question 1
 A software process model is an abstract representation of a process. It is important 
-because, it provides an structured approach to software development that helps ensure
+because, it provides a structured approach to software development that helps ensure
 quality, consistency, and efficiency in the development process and also provides a
 framework for managing the development processes. 
 
