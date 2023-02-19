@@ -1,0 +1,65 @@
+ASSIGNMENT
+
+QUESTION:1
+    
+    i) Software process model is the mechanism of dividing sofware development work into distinct phases to improve product management, and project memenghant
+
+
+ii) Software process model is important because Software procers models   are Convenient tools that developers use to map every step their projects.They 
+help project managers plan their proceses, estimate cost, identify challenges and communicate processes, with teams and Customers.
+
+
+QUESTION:2
+ DIFFERENCE
+i)Waterfall is a Structured Software development methodology whereas Agile methodday is for its plexdilde Benefits of Agile and Waterfall is known
+
+ii)Benefits and drawbacks of Agile and waterfal me Benefits
+
+Before the next phase of waterfall model development,  each phase must be completed
+
+Benefits of Agail model
+Lower costs: An Agile model can lower the costs of a project
+
+DRAWBACKS OF Agile 
+Agile requires a Considerble elmount of training and skill to implement Succesfully 
+ 
+DRAWBACKS of Water fall models
+When it comes to water fall error can be fixed only during the phase 
+
+
+QUESTION 3
+Answers:
+
+a. 
+  i. Meaning of Rational Unified Process(RUP): Is a modern generic process derived from the work on UML and associated process.
+It uses diagram to extensively build a model of a software and also incorporates the three generic software development models.
+ii. How RUP differ from other software development process models
+  It incorporates aspects of the three other generic models into its processes
+ 
+b. Phases and activities of RUP
+   i. Phases of the RUP
+     - inception
+     - elaboration
+     - construction
+     - transition
+ 
+  ii. Activities of RUP   
+    -business model
+    -requirement
+    - analysis and design
+    - implementation
+    - testing
+    - deployment
+
+C. Benefits and Drawbacks of RUP   
+   i. Benefits of RU
+     - Allow for changes to requirements to be made regardless to where its coming from
+    - it emphasis the need for accurate documentation 
+    - it enhances integration throughout the software development.
+ 
+DRAWBACKS
+-	It’s a complex model to implement
+-	It is challenging for organization to implement 
+-	It is highly result oriented from the individuals or teams
+     
+
