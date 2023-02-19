@@ -49,6 +49,7 @@ and performance of the software.
 4. Transition Phase: This is the fourth phase of RUP which focuses on releasing the software to the
  customer and obtaining feedback. It also involves user training, documentation and deployment of the
   application.
+ 
 
  Faster development cycles: Automation makes it easier to create software in shorter amount of time.
 2. More accurate results: Automated tasks are much more accurate and consistent than manual processes.
