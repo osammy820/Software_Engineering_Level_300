@@ -1,0 +1,23 @@
+1. Software process models are convenient tools that developers use to map every step of their pro>
+
+2. The key difference between Agile vs. Waterfall is that Waterfall breaks down software developme>
+
+3. Rational Unified Process (RUP) is an agile software development methodology. RUP splits the pro>
+
+                                ADVANTAGES OF RUP
+RUP can provide software development or design teams an array of advantages, including:
+
+Offering thorough documentation: The RUP process involves carefully documenting each step, which c>
+
+Enhancing risk management practices: RUP can help software individuals proactively respond to pote>
+
+Giving regular feedback to stakeholders: A vital part of the RUP process is giving consistent upda>
+
+Reducing total project time: RUP may allow the software development team to lower their time in bo>
+
+Determining working elements early on in the project: With RUP, project stakeholders may notice po>
+
+                        POTENTIAL DRAWBACKS OF RUP
+Using RUP can come with some possible disadvantages. If you or your team plans to use RUP, it's im>
+
+Following are some of the potential drawbacks of RUP, plus ideas about how to overcome them:
