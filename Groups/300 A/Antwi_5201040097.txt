@@ -1,0 +1,84 @@
+AKENTEN- APPIAH MENKAH UNIVERSITY OF SKILLS TRAINING AND ENTREPRENUERAL DEVELOPMENT  
+DEPARTMENT OF INFORMATION TECHNOLOGY EDUCATION
+COURSE TITLE: SOFTWARE ENGINEERING
+COURSE CODE: ITC 357
+LECTURER: VICTOR DELA TATTRAH
+INDDEX NUMBER: 5201040097
+CLASS: ITE 300 A
+
+QUESTION 1
+Answers:
+
+a.	Software process model: is an abstract representation of a process that present a description of a process from a particular perspective.
+b.	Why software process model is important
+i.	It provides visual representation of the development process for both the team and the customers to review.
+ii.	It helps the team to identify which process to follow for a specific software.
+iii.	It helps the team to identify early challenges or cost constraints and acts as a record for the team’s future development process.
+
+QUESTION 2
+Answers:
+
+a.	Similarities of the Waterfall and the Agile software process model
+i.	Both go through the same processes of building a software
+ii.	Both have similar goal of producing high quality software application for their client.
+
+b.	Differences between the Waterfall and the Agile software process model
+i.	In the waterfall model, a complete system is delivered to the customers whereas in the Agile model, the software deliverables are progressive and iterative.
+ii.	Waterfall model provides little or no room for changes to made after a phase is completed however, in the Agile model it is easier to change the process to reflect the changing customer requirement.
+iii.	The Waterfall model has separate and distinct phases of specification but in the Agile model, specification and validation are inter-leaved.
+
+     c.
+            i. Benefits of the waterfall process model
+              - it determines the end goal
+              - it ensures that projects are managed in a well-structured manner
+             - it has clearly defined stages and easy to arrange tasks
+
+        ii. drawbacks of the Waterfall process model
+           - it is difficult to accommodate changes when the process is underway
+           - it is only appropriate for requirements that are clearly defined and understood
+           - no working software is developed until the development cycle is complete
+
+       iii. Benefits of the Agile process model 
+          - it is easier to get customer feedback on development of work that has been done
+          - there is more rapid delivery and deployment of useful software to the customer
+          -there is lower risk of overall project failure
+
+     iv. Drawbacks of the Agile process model          
+        - it requires a software deliverable at every stage or version of the software development
+        - the process is not visible
+        - the system structure tends to degrade as new increments are added
+
+QUESTION 3
+Answers:
+
+a. 
+  i. Meaning of Rational Unified Process(RUP): Is a modern generic process derived from the work on UML and associated process. It uses diagram to extensively build a model of a software and also incorporates the three generic software development models.
+ii. How RUP differ from other software development process models
+  It incorporates aspects of the three other generic models into its processes
+ 
+b. Phases and activities of RUP
+   i. Phases of the RUP
+     - inception
+     - elaboration
+     - construction
+     - transition
+ 
+  ii. Activities of RUP   
+    -business model
+    -requirement
+    - analysis and design
+    - implementation
+    - testing
+    - deployment
+
+C. Benefits and Drawbacks of RUP   
+   i. Benefits of RU
+     - Allow for changes to requirements to be made regardless to where its coming from
+    - it emphasis the need for accurate documentation 
+    - it enhances integration throughout the software development.
+ 
+DRAWBACKS
+-	It’s a complex model to implement
+-	It is challenging for organization to implement 
+-	It is highly result oriented from the individuals or teams
+     
