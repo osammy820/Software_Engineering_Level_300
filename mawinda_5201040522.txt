@@ -1,0 +1,70 @@
+
+Q1. what is a software process model?
+
+ans: A software process model is a structured sets of activities or a mechanism used to to build a system by breakig the process into distinct phases. The process makes it possible for developers to keep track of the progress of the project. It aslo helps the projecet manager plan their process, make cost estimates,identify challenges and communicate with teams and customers.
+
+Q2. Compare and contrast the waterfall and the agile software process model?
+
+Ans: waterfall and agile software process model have similarities and deffrences. The similarites are ;
+They both incorprate the common aspects of the lifecycle phases which inludes; design and implementation, requirment specification, validation and evolution.
+With the differences, waterfall it si difficult to makes changes when the project is underway, but the agile changes can be done to suit customer demand at anytime. waterfall comes with lot if documentation making the process slow but agile comes with less documentation making it fast. waterfall is mostly prefare by large companies while agile is mostly prefare by small companies like . waterfall is delivers an end product that maches initial specifications while agile delivers continuously working software to clients.
+The key difference between the two is that waterfall breaks down software process into distinct phases that flows into each other while agile advocate iterative development cycle in which multiple lifecycle phases can run in paralle.
+Benefits of agile;
+i. less prone to errors, because it does entirly depend on initial requirments.
+ii. it is more flexible since changes can be done at any time in the process.
+iii. it has agreater chance of predicting the end product.
+iv. it encourages more customer involement.
+Draw backs of agile:
+i. more time and committment is required.
+ii. limited documentation and often falls to the back burner.
+iii. fragment output rather cohesive unit is mostly the results since teams work on each components in different cycles.
+iv. It is difficult measuring progress since it delivers in increments.
+Benfits of waterfall:
+i. before the next phase of development, each phase must be completed.
+ii. suited for smaller projects where requirements are well defined.
+iii. elaborate documentation is done at every phase of the software's development cycle.
+iv. project is completely dependent on project team with minimum client intervention .
+drawbacks of waterfall:
+i. Errors can be fixed only during the phase.
+ii. it is not desirable for complex projects where requirements keeps changing.
+iii. testing periods comes quite late in the development process.
+iv. documentation occupies lots of time of the developersa and testers.
+
+
+Inception –
+Communication and planning are the main ones.
+Identifies the scope of the project using a use-case model allowing managers to estimate costs and time required.
+Customers’ requirements are identified and then it becomes easy to make a plan for the project.
+The project plan, Project goal, risks, use-case model, and Project description, are made.
+The project is checked against the milestone criteria and if it couldn’t pass these criteria then the project can be either canceled or redesigned.
+Elaboration –
+Planning and modeling are the main ones.
+A detailed evaluation and development plan is carried out and diminishes the risks.
+Revise or redefine the use-case model, business case, and risks.
+Again, checked against milestone criteria and if it couldn’t pass these criteria then again project can be canceled or redesigned.
+Executable architecture baseline.
+Construction –
+The project is developed and completed.
+System or source code is created and then testing is done.
+Coding takes place.
+Transition –
+The final project is released to the public.
+Transit the project from development into production.
+Update project documentation.
+Beta testing is conducted.
+Defects are removed from the project based on feedback from the public.
+Production –
+The final phase of the model.
+The project is maintained and updated accordingly.
+Advantages:
+
+It provides good documentation, it completes the process in itself.
+It provides risk-management support.
+It reuses the components, and hence total time duration is less.
+Good online support is available in the form of tutorials and training.
+Disadvantages:
+
+Team of expert professional is required, as the process is complex.
+Complex and not properly organized process.
+More dependency on risk management.
+Hard to integrate again and again.
