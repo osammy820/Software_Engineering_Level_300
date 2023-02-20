@@ -1,0 +1,90 @@
+1.
+Software processes model is a structured set of activities required to develop a
+software system.It is important because software process model is an abstract representation of a process. It presents a description of a process from some particular perspective
+
+2.
+Agile method emphasis on adaptability and flexibility. As against, in the waterfall technique, the control over cost and scheduling is more prior.
+
+Agile process steps are known as sprints while in the waterfall method the steps are known as the phases.
+
+Waterfall model does not allow the alteration and modification in the requirement specification. Conversely, in agile it is possible to add more requirements in the next sprint.
+
+One should have a precise and clear vision about the project while using a waterfall model. In contrast, agile does not mandate for having the clear idea about the final product.
+
+Waterfall model controls the changes in the project while agile implement the changes in the project.
+
+Benefits of the waterfall model are;
+
+Waterfall methodology is more detailed and is considered ideal for project planning.
+
+Every detail related to projects is clearly outlined. This develops a sense of trust among the clients.
+
+Delivery of the projects is much faster.
+
+Teams can easily adapt to this procedure.
+
+Each phase assures an efficient review process.
+
+Drawbacks of the waterfall model are;
+
+Waterfall technology can’t be used for large size projects.
+
+Testing is done at the end of the project.
+
+Any change in the middle of the project is difficult to be addressed.
+
+Any change to be made at the previous stage cannot be done.
+
+Under unclear requirements this methodology proves ineffective.
+
+Benefits of the agile processes are;
+
+Customers can bring out any change even after the initial stage and such changes can be easily addressed.
+
+The involvement of customers at every stage is entertained.
+
+Since each process is segregated into sprints, bugs can be easily resolved after the completion of a single sprint.
+
+Results can be examined easily at the end of each sprint.
+
+Rewritings are promoted under this methodology so as to achieve desired results.
+
+Drawbacks of the agile processes;
+
+Since no schedule is available under this methodology, projects can be difficult to manage under tight schedules.
+
+A dedicated team is needed in this methodology and any absence of a team person can create issues in project execution.
+
+Though any change can be entertained in the middle of the project it can create problems for other organizations.
+
+Agile is not accepted for smaller projects.
+
+Experts’ opinions if absent can create hurdles in the projects
+
+3.
+The rational unified process (RUP) is a software engineering and development process focused on using the unified modeling language (UML) to design and build software Using the RUP process allows you to operate business analysis, design, testing and implementation throughout the software development process and its unique stages, helping you create a customized product.
+
+There are five key phases in RUP and they are;
+A. Inception
+B. Elaboration
+C. Construction
+D. Transition
+E. Production
+
+Benefits of using RUP;
+Offering thorough documentation: The RUP process involves carefully documenting each step, which can be highly beneficial for collaborative projects.
+
+Enhancing risk management practices: RUP can help software individuals proactively respond to potential software challenges. This can improve risk management and troubleshooting efforts.
+
+Giving regular feedback to stakeholders: A vital part of the RUP process is giving consistent updates to project stakeholders. These stakeholders may range from other software individuals involved in the project to company leaders or vendors.
+
+Reducing total project time: RUP may allow the software development team to lower their time in both the development and integration stages.
+
+Determining working elements early on in the project: With RUP, project stakeholders may notice potential software issues earlier on during the design or development processes. This can make mitigating or solving challenges easier before they become more complex.
+
+Drawbacks of RUP;
+Complexity of process: Since RUP is a complicated procedure, successfully performing it requires software team members with great expertise. If some of the individuals on your software team are new to the field, it might be easier to choose a different software development process.
+
+Cost and time: The amount of documentation required for RUP can be time-consuming and expensive. Software teams with smaller budgets might benefit from choosing a more cost-efficient approach for their project.
+
+Challenge of using it for projects with multiple development streams: RUP may cause confusion during the testing stage for larger projects involving multiple components and software teams. Because of its emphasis on ongoing integration, those working on projects with multiple development streams may want to either slow down the RUP process or look for another development procedure.
