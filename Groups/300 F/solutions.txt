@@ -1,0 +1,30 @@
+Software process models are convenient tools that developers use to map every step of their projects. They assit project managers plan their processes, estimate costs, identify challenges and communicate with teams and customers.
+
+2. The key difference between Agile vs. Waterfall is that Waterfall breaks down software development into isolated phases that flow into each other, while Agile advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
+
+3. Rational Unified Process (RUP) is an agile software development methodology, RUP splits the project life cycle into four phases. During each of the phases, all six core development disciplines take place: business modelling, requirements, analysis and design, implementation, testing, and deployment.
+
+				BENEFITS OF RUP
+RUP can assist in software development or design teams an array of advantages, that involves 
+
+Offers thorough documentation: The RUP process also involves mindful documenting every step, which can be highly advantageous for collaborative projects.
+
+Enhancing risk management practices: RUP can also help software individuals proactively respond to potential software challenges. This can improve risk management and troubleshooting efforts. 
+
+Giving regular feedback to stakeholders: A vital part of the RUP process is giving consistent updates to project stakeholders. These stakeholders may range from other software individuals involved in the project to company leaders or vendors.
+
+Reducing total project time: RUP may allow the software development team to lower their time in both the development and integration stages.
+
+Determining working elements early on in the project: With RUP, project stakeholders may notice potential software issues earlier on during the design or development processes. This can make mitigating or solving challenges easier before they become more complex.
+
+			POSSIBLE/POTENTIAL DRAWBACKS OF RUP
+Using RUP also comes with some disadvantages that highly possible. If developers and team intend to use RUP, then it is paramount to plan for these potential issues and so you can actively/proactively navigate challenges. 
+
+Below are some of the potential and possible drawbacks of RUP, and the ideas/solutions on how to overcome them: 
+
+Complexity of process: Since RUP is a complicated procedure, successfully performing it requires software team members with great expertise. If some of the individuals on your software team are new to the field, it might be easier to choose a different software development process.
+
+Time and cost: The amount of documentation required for RUP can be time straneous,consuming and also expensive. Software teams with little budgets may benefit from choosing a more cost-efficient approach for their project.
+
+The challenge of using it for projects with multiple development streams: RUP may cause chaos during the testing stage for larger projects involving multiple components and software teams. Because of its emphasis on ongoing integration, those working on projects with multiple development streams may want to either slow down the RUP process or look for another developmental steps.
+Footer
