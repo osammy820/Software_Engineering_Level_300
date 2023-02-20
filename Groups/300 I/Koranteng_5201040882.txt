@@ -1,0 +1,40 @@
+Question 1.
+
+	Ans: A product interaction model is a normalized way to deal with programming improvement that aides
+	 	the exercises of the product improvement group. It characterizes a bunch of exercises, achievements,
+		also, expectations that should be finished all through the product improvement lifecycle.
+
+Question 2.  
+	Ans: A product interaction model is a normalized way to deal with programming improvement that aides
+	 	the exercises of the product advancement group. It characterizes a bunch of exercises, achievements,
+		also, expectations that should be finished all through the product advancement lifecycle. Waterfall and Coordinated are two programming process models that have tremendous contrasts in their methodology
+	 	to programming improvement. Cascade is a direct, successive way to deal with programming improvement, where each stage
+	 	of the advancement, the cycle is finished before continuing toward the following stage. The critical stages in the Cascade model are
+		prerequisites gathering, planning, execution, testing, and support. Conversely, Spry is iterative and steady
+	 	way to deal with programming improvement that stresses joint effort, adaptability, and consumer loyalty. Dexterous advancement is
+		coordinated into little, sensible emphases called runs, with an emphasis on conveying working programming rapidly and ceaselessly
+	 	further developing the item founded on input. The vital contrasts between the two models are their way to deal with necessities, the request
+		of the advancement interaction, their degree of adaptability, and their speed.
+			The Cascade model gives an unbending and organized process that might bring about additional anticipated results yet might be unyielding and
+		slow to respond to change. The deft model gives an adaptable and iterative methodology that can answer rapidly to change however may result
+		 in less unsurprising results because of its fast speed and spotlight on evolving prerequisites.
+Question 3.
+	Ans: Sane Brought together Cycle (RUP) is a product improvement process model that depends on the iterative and steady methodology of Light-footed,
+		 yet, with a more noteworthy accentuation on documentation, design, and formal undertaking the executives. RUP isolates the product improvement process into
+	 	four stages: Origin, Elaboration, Development, and Change. In the Origin stage, the task extension and necessities are characterized.
+		 In the Elaboration stage, the product engineering is planned, and the framework prerequisites are dissected. In the Development stage,
+		the product is created, tried, and coordinated. In the Change stage, the product is conveyed, and the framework is tried and assessed.
+		 The vital advantages of RUP remember its accentuation for documentation, formal venture with the board, and quality affirmation.
+		Notwithstanding, a portion of the disadvantages incorporate its intricacy, high above, and potential for postponed project conveyance because of its complete process. A programming process model is a normalized way to deal with programming improvement that aides
+	 	the exercises of the product improvement group. It characterizes a bunch of exercises, achievements,
+		furthermore, expectations should be finished all through the product advancement lifecycle. Waterfall and Deft are two programming process models that have tremendous contrasts in their methodology
+	 	to programming advancement. Cascade is a straight, successive way to deal with programming improvement, where each stage
+	 	of the improvement, interaction is finished before continuing toward the following stage. The critical stages in the Cascade model are
+		prerequisites gathering, planning, execution, testing, and support. Conversely, Nimble is iterative and steady
+	 	way to deal with programming improvement that underscores cooperation, adaptability, and consumer loyalty. Light-footed improvement is
+		coordinated into little, sensible cycles called runs, with an emphasis on conveying working programming rapidly and constantly
+	 	further developing the item founded on criticism. The critical contrasts between the two models are their way to deal with necessities, the request
+		of the advancement cycle, their degree of adaptability, and their speed.
+			The Cascade model gives an unbending and organized process that might bring about additional anticipated results yet might be resolute and
+		slow to respond to change. The light-footed model gives an adaptable and iterative methodology that can answer rapidly to change yet may result
+		 in less unsurprising results because of its fast speed and spotlight on evolving prerequisites.
