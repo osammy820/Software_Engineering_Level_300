@@ -1,0 +1,28 @@
+Q1.  Software process models are convenient tools that developers use to map every step of their projects. It is important because it helps project managers plan their processes, estimate costs, identify challenges and communicate with teams and customers.
+
+Q2.  Waterfall is a Linear Sequential Life Cycle Model, whereas Agile is a continuous iteration of development and testing in the software development process.
+
+a.  Agile vs Waterfall difference, the Agile methodology is known for its flexibility, whereas Waterfall is a structured software development methodology.
+
+b.  Agile projects are typically cheaper and can be delivered quickly. They offer greater flexibility, but also produce less predictable results due to the uncertainty and unclear nature of many of the project characteristics. Waterfall projects are typically more expensive and take longer to deliver.
+
+Q3.  Rational Unified Process is an approach for software engineering for delegating activities and responsibilities inside a software development organization.
+
+a.  There are four main phases in RUP: Inception, Elaboration, Construction, and Transition.
+Inception
+During the first phase, the basic idea and structure of the project are determined. In this phase, the team meets regularly to determine the project’s necessity, but also its viability and suitability. Viability and suitability also include the expected costs and the means needed to complete the project after the green light has been given
+
+elaboration
+During the elaboration phase, the system’s requirements and its required architecture are assessed and analysed. This is where the project begins to take shape. The objective of the elaboration phase is to analyse products and to lay a foundation for the future architecture.
+
+transition
+The objective of the transition phase is to transfer the product to its new user. As soon as the user starts using the system, problems almost always arise that require changes to be made to the system. The goal, however, is to ensure a positive and smooth transition to the user. 
+
+construction
+In the construction phase of the Rational Unified Process (RUP), the software system is constructed in its entirety. The emphasis is on the development of components and other features of the system
+
+b.  supports incremental build the software product. It provides proper documentation of the software product.
+
+Complexity of process: Since RUP is a complicated procedure, successfully performing it requires software team members with great expertise. ...
+
+Cost and time: The amount of documentation required for RUP can be time-consuming and expensive.
