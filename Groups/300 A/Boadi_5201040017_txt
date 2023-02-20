@@ -1,0 +1,43 @@
+1 A software process model is an abstraction of the software development process. It help software engineers plan their processes, estimate costs, identify challenges and communicate with teams and customers.
+
+2. Waterfall is a Linear Sequential Life Cycle Model which moves from one phase to the other but Agile is a continuous iteration of development and testing in the software development process.
+
+Advantages of waterfall model 
+The waterfall is a very easy model to use because of how it is that is has specific process to go through. 
+It's helps in faster delivery of products 
+Disadvantages of waterfall model
+It's is not good for large products
+It is very difficult to move back to one phase when there's a mistake. 
+
+Advantages of Agile model
+It uses client process so makes the client available in every phase 
+It uses incremental process so it makes team members and clients to know the next thing to do once one phase is done. 
+
+Disadvantages of Agile model 
+It's not ideal method to use when it's not a larger product
+It requires expect to use because of it's nature
+
+ 3. Rational unified process is a software  development model with many tools which help in coding and it's rated task.
+The Rational Unified Process is a modern generic process model that is organized into phases (inception, elaboration, construction and transition) but separates 
+activities (requirements, analysis and design, etc.) from these phases unlike other software developer processes which may be structured for iterative development 
+and delivery so that changes may be made without disrupting the system as a whole.
+
+The key phases in RUP
+Inception:
+During the first phase, the basic idea and structure of the project are determined.
+Elaboration:
+During the elaboration phase, the system’s requirements and its required architecture are assessed and analysed.
+construction:
+In the construction phase of the Rational Unified Process (RUP), the software system is constructed in its entirety.
+Transition:
+The objective of the transition phase is to transfer the product to its new user.
+
+Advantages of Rational Unified Process
+
+It helps to identify issues early in the process life cycle.
+It improves process control and risk management. 
+
+Disadvantages of Rational Unified Process. 
+
+It is a complex model to implement as it has multiple stages of the workflow.
+It emphasizes the integration of modules throughout the software development process, so this creates trouble during the testing phase.
