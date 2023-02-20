@@ -1,0 +1,51 @@
+1.A software process model is a digital or hand-written model that details the software development process. Process models help provide a visual representation of the development process for both the team and the customer to review.
+
+
+2.The waterfall model is projects with specific requirements and no expected changes whiles Agile model is more ideal for projects where there is a greater chance of frequent changes in the requirements.
+
+ ii. Agile separates the project development lifecycle into sprints  while Waterfall Software development process is divided into distinct phases.
+Agile follows an incremental approach whiles 	Waterfall methodology is a sequential design process.
+Agile methodology is known for its flexibility. whiles Waterfall is a structured software development methodology so most times it can be quite rigid.
+
+iii. Advantages of the Agile Model:
+It is focused client process. So, it makes sure that the client is continuously involved during every stage.
+Agile teams are extremely motivated and self-organized so it likely to provide a better result from the development projects.
+Agile software development method assures that quality of the development is maintained
+
+Limitations of Agile Model
+It is not useful method for small development projects.
+It requires an expert to take important decisions in the meeting.
+Cost of implementing an agile method is little more compared to other development methodologies.
+
+Advantages of Waterfall Model:
+It is one the easiest model to manage. Because of its nature, each phase has specific deliverables and a review process.
+It works well for smaller size projects where requirements are easily understandable.
+Faster delivery of the project
+
+Limitations of Waterfall Model:
+It is not an ideal model for a large size project
+If the requirement is not clear at the beginning, it is a less effective method.
+Very difficult to move back to makes changes in the previous phases.
+
+3. The Rational Unified Process (RUP) is a software development and project management process that provides a disciplined and methodical approach towards assigning tasks and responsibilities in a team.
+
+the difference is that RUP is a framework for organizations and teams and it is an iterative process. 
+
+Phases of RUP: There is total of five phases of the life cycle of RUP:
+
+Inception – Communication and planning are the main ones. Identifies the scope of the project using a use-case model allowing managers to estimate costs and time required.
+Elaboration – Planning and modeling are the main ones.
+Construction – The project is developed and completed.
+Transition – The final project is released to the public.
+
+Advantages of RUP 
+
+ 1.Offering thorough documentation: The RUP process involves carefully documenting each step, which can be highly beneficial for collaborative projects.
+2. Enhancing risk management practices:it can help software individuals proactively respond to potential software challenges. 
+ 3. Giving regular feedback to stakeholders: A vital part of the RUP process is giving consistent updates to project stakeholders.
+
+Potential drawbacks of RUP
+
+1.Complexity of process: Since RUP is a complicated procedure, successfully performing it requires software team members with great expertise. 
+1.Cost and time: The amount of documentation required for RUP can be time-consuming and expensive.
+Challenge of using it for projects with multiple development streams: RUP may cause confusion during the testing stage for larger projects involving multiple components and software teams. 
