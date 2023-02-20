@@ -1,0 +1,78 @@
+1. What is a software process model and why is it important in software development?
+
+  Software process module is a coherent set of activities for specifying, designing, implementation and 
+testing of software systems. It is important because it helps to provide guidance for controlling and 
+coordinating the task to achieve the end product and objectives as effectively as possible.
+
+
+2. Compare and contrast the Waterfall and Agile software process models. 
+What are the key differences between the two models and 
+what are the benefits and drawbacks of each?
+
+
+
+    // Differences
+    1. The Waterfall model is a linear sequential process model, where each phase of the 
+software development process is completed before the next phase begins. While,
+the Agile model is an iterative and incremental process model, where software is 
+developed in short, iterative cycles that involve continuous feedback and 
+collaboration between the developers and stakeholders.
+
+  2. In Agile Testing occurs with software development simultaneously while in Waterfall
+  The “Testing” is done after the “Build” step. 
+  
+  3. In Agile Sprints are used to break down the project into manageable pieces While
+  In Waterfall the methodology gets separated into several stages. 
+
+   // Benefits of Agile
+    1.Increased visibility.
+    2.Increased adaptability (agility)
+    3.Increased alignment.
+    4.Increased product quality
+
+    // Drawbacks of Agile
+    i Less predictable. The flexibility at the core of the Agile method also means a much lower degree of predictability.
+    ii More time and commitment. 
+    iii Greater demands on developers and clients. 
+    iv Lack of necessary documentation. 
+    v Projects easily fall off track.
+
+    Benefits of Waterfall
+      i It uses a clear structure.
+      ii The progression of the waterfall model is intuitive.
+      iii The waterfall model determines the end goal early.
+
+      Drawbacks of Waterfall
+      i. The waterfall model doesn’t support making changes.
+      ii. It can invalidate the work you’ve previously accomplished.
+      iii.It delays testing until after the completion of the project.
+
+       3.  What is Rational Unified Process (RUP), and 
+how does it differ from other software development process models? 
+What are the key phases and activities involved in RUP, and 
+what are the benefits and drawbacks of using this approach in software development projects?
+
+    Rational Unified Process (RUP) is an agile software development methodology. RUP splits the project
+     life cycle into four phases. During each of the phases, all six core development disciplines take place:
+      business modelling, requirements, analysis and design, implementation, testing, and deployment.
+
+      It differs from other software development process model because RUP emphasizes iterations, or cycles, of work,
+       rather than trying to complete all work upfront. This allows for more flexibility and responsiveness to change.
+     Each iteration results in a working version of the software that can be demonstrated to, and used by, clients.
+
+       The key phases of RUP include:
+  i Inception: Defining the scope, reasons for the project and risks of the project
+  ii Elaboration: Developing the system strecture and refine the project plan if need be
+ iii Construction: Building the system and performing tests
+ iv Transition: Deploying the system and maintaing the system
+
+The benefits of using RUP include:
+i Provides a controlled approach to software development which increases efficiency
+ii It gives adequate time to building architecture, designing and testing
+iii There's is a structure to manage risks invovled in projects
+
+The drawbacks of using RUP include:
+i It can be complex and time-consuming when working on smaller or less complex projects
+ii It requires a skilled and experienced development team to carry out the phases involved
+iii It can be inflexible in accommodating changes in project requirements
+
