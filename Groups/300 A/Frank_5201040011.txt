@@ -1,0 +1,79 @@
+Question 1
+.It describes the sequence in which the phases of the software lifecycle will be performed.
+ It's important because 
+Software process models are convenient tools that developers use to track every progress of their projects.
+
+            Question 2
+
+Waterfall is that Waterfall breaks down software development into isolated phases that flow into each other, while Agile advocate for sprints.
+
+Advantages of the Waterfall model
+
+Uses clear structure. When compared with other methodologies, Waterfall focuses most on a clear, defined set of steps. ...
+Determines the end goal early. ...
+Transfers information well. ...
+              Disadvantages of Water Fall model
+
+Makes changes difficult. 
+Excludes the client and/or end user. 
+Delays testing until after completion.
+The benefits of Agile
+
+ · 1. Satisfied customers ·
+ 2. Improved quality · 
+3.Adaptability ·
+ 4. Predictability · 
+
+ 
+
+ Disadvantages of Agile Methodology
+
+Less predictable. The flexibility at the core of the Agile method also means a much lower degree of predictability. 
+More time and commitment. 
+
+Greater demands on developers and clients. 
+
+Lack of necessary documentation. 
+
+disadvantages of the Waterfall model
+
+Makes changes difficult. Waterfall is based entirely on following a set of steps that keep teams always moving forward. 
+Excludes the client and/or end user. 
+Delays testing until after completion.
+
+          Question 3
+  The Rational Unified Process is a modern generic 
+process model that is organized into phases (inception, 
+elaboration, construction and transition) but separates 
+activities (requirements, analysis and design, etc.) from 
+these phases. It Brings together aspects of the three generic process models. 
+
+       
+The Rational Unified Process is different from other software development modes because it separates 
+activities (requirements, analysis and design, etc.) from its phases , that is, inception, 
+elaboration, construction and transition.
+
+The key phases in the Rational Unified Process are as follows:
+Inception, 
+Elaboration,
+Construction and 
+Transition.
+
+ Benefits of using the Rational Unified Process. 
+
+1.Develop software iteratively:
+
+
+2. Manage requirements:
+Explicitly document customer requirements and keep track of 
+changes to these requirements.
+
+
+   Draw backs of using the Rational Unified Process.
+ 
+    1.Expensive or costly 
+
+    2. Complex 
+
+  
+
