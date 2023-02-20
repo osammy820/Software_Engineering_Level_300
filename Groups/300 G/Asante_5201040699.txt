@@ -1,0 +1,47 @@
+Q1. Software process model is a structured set of related activities required to develop a software system.
+
+    Software processes are important in software development because
+    a. the process models define what the system should do.
+    b. the process models define the organization of the system and implementing the system.
+    c. the process models check that the software does what the customer wants.
+
+Q2.
+    a. The waterfall model is highly structured and makes a project to systematically step through requirements-capture,  analysis, specification, design, coding, and testing stages in a planned sequence. In contrast, with Agile Model, progress is measured in terms of the developed and delivered functionalities. Frequent delivery of working versions of the software is made.
+
+    b. In similarity, it can be said that agile teams use the waterfall model on a small scale, repeating the entire waterfall cycle in every iteration.
+
+    c. The key difference is that Waterfall requirements for the system are determined at the start of the development project and are assumed to be fixed from that point on while Agile model could help a project to adapt to change requests quickly.
+
+    d. Benefits:
+      1. Waterfall model is consistent with other models and documentation is produced at each phase.
+      2. Agile model is to facilitate quick project completion.
+       Drawbacks:
+      1. Waterfall model is difficult in accomodating change after the process is underway.
+      2. Waterfall model is mostly used for large systems projects where a system is developed at sites.
+      3. Agile model lacks adequate documentation of the system project being developed.
+      4. Agile model can be considered costly in refactoring the system.
+
+Q3. a. Rational Unified Process(RUP) is a modern generic process derived from the work on the UML and associated process.
+    
+    b. The RUP is a phased model that identifies four discrete phases in the software process.However, unlike the waterfall, the phases in the RUP are more closely related to business rather than technical concerns.
+
+    c. Phases
+      1. Inception
+      2. Elaboration
+      3. Construction
+      4. Transition
+       Activities involved in RUP
+      1. Business modelling
+      2. Requirements
+      3. Analysis and design
+      4. Implementation
+      5. Testing
+      6. Deployment
+      7. Configuration and change management
+      8. Project management
+      9. Environment
+
+    d. Benefit
+      1. RUP workflows are static and are technical activities that are not associated with a single phase but may be used throughout the development to achieve the goals of each phase.
+        Drawback
+      1. RUP is not suitable for all types of development eg embedded software development.
