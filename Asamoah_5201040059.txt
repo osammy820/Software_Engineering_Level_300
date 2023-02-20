@@ -1,0 +1,102 @@
+Please make sure to read every bit of instruction in the "instruction.txt" file
+before you start answering these question.
+
+Questions
+1. What is a software process model and why is it important in software development?
+	ANSWER
+
+* Software process model is an abstract of a software development process representation of the order of activities of the process and the sequence in which they are performed.
+* 
+*The goal of a software process model is to provide guidance for controlling and coordinating the tasks to achieve the end product and objectives as effectively as possible.
+
+
+
+
+2. Compare and contrast the Waterfall and Agile software process models. 
+What are the key differences between the two models and 
+what are the benefits and drawbacks of each?
+
+	DIFF
+
+* Waterfall is a Linear Sequential Life Cycle Model, whereas Agile is a continuous iteration of development and testing in the software development process.
+* The Agile methodology is known for its flexibility, whereas Waterfall is a structured software development methodology.
+* Agile method follows an incremental approach, whereas the Waterfall is a sequential design process.
+* Agile performs testing concurrently with software development, whereas in Waterfall methodology, testing comes after the “Build” phase.
+* Agile allows changes in project development requirements, whereas Waterfall has no scope of changing the requirements once the project development starts.
+
+
+
+	BENEFITS
+
+* For waterfall methodology;
+* It is more detailed and is considered ideal for project planning.
+* Every detail related to projects is clearly outlined.
+* Delivery of the projects is much faster.
+* Teams can easily adapt to this procedure.
+* Each phase assures an efficient review process.
+
+* For agile methodology;
+* Customers can bring out any change even after the initial stage and such changes can be easily addressed.
+* The involvement of customers at every stage is entertained.
+* Since each process is segregated into sprints, bugs can be easily resolved after the completion of a single sprint.
+* Results can be examined easily at the end of each sprint.
+* Rewritings are promoted under this methodology so as to achieve desired results.
+
+	DRAWBACKS
+
+* For waterfall methodology;
+* Waterfall technology can’t be used for large size projects.
+* Testing is done at the end of the project.
+* Any change in the middle of the project is difficult to be addressed.
+* Any change to be made at the previous stage cannot be done.
+* Under unclear requirements this methodology proves ineffective.
+
+* For agile methodology;
+* Since no schedule is available under this methodology, projects can be difficult to manage under tight schedules.
+* A dedicated team is needed in this methodology and any absence of a team person can create issues in project execution.
+* Though any change can be entertained in the middle of the project it can create problems for other organizations.
+* It is not accepted for smaller projects.
+* Experts’ opinions if absent can create hurdles in the projects.
+
+
+
+3. What is Rational Unified Process (RUP), and 
+how does it differ from other software development process models? 
+What are the key phases and activities involved in RUP, and 
+what are the benefits and drawbacks of using this approach in software development projects?
+
+* The rational unified process is a software engineering and development process focused on using the unified modeling language (UML) to design and build software.
+* RUP (Rational Unified Process) is an adaptable process framework for organizations and teams. It splits the project life cycle into four phases.
+ During each of the phases, all six core development disciplines take place: business modelling, requirements, analysis and design, implementation, testing, and deployment.
+
+* The Rational Unified Process (RUP) divides development into the four consecutive phases. Namely;
+
+Inception phase
+Elaboration phase
+Construction phase
+Transition phase
+
+* Here follows the core activities of RUP. 
+
+Business modelling
+Requirements 
+Analysis and design
+Implementation
+Testing
+Deployment.
+
+	BENEFITS
+
+* For RUP methodology;
+* Offering thorough documentation.
+* Enhancing risk management practices.
+* Giving regular feedback to stakeholders.
+* Reducing total project time.
+* Determining working elements early on in the project.
+
+	DRAWBACKS
+
+* For RUP methodology;
+* Complexity of process.
+* Cost and time.
+* Challenge of using it for projects with multiple development streams.
