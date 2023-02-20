@@ -1,0 +1,57 @@
+1.Software processes models are the methods and techniques used to develop software products or the systems used to make computers function usefully.
+Software Processes is a coherent set of activities for specifying, designing, implementing and testing software systems. A software process model is an abstract representation of a process that presents a description of a process from some particular perspective. 
+
+The benefits of a rightly executed software development process offer timely sprints, faster time-to-market, improved business foundations, enhanced IT Processes, and other advantages too.
+ Waterfall breaks down software development into isolated phases that flow into each other, while Agile advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
+
+
+2.The main difference is that Waterfall is a linear system of working that requires the team to complete each project phase before moving on to the next one while Agile encourages the team to work simultaneously on different phases of the project.
+
+Agile Methodology
+Approach: Frequent stakeholder interaction
+Flexibility: High
+Requires: Team initiative and short-term deadlines
+
+Waterfall Methodology
+Approach: Hands-off; goals and outcome established from the beginning
+Flexibility: Low
+Requires: Completing deliverables to progress to the next phase
+
+Once a step has been completed in Waterfall, it's difficult to go back and make changes. In contrast, Agile builds a working version of the whole project (an MVP) so the customer can shape how it's built.
+
+benefits
+Waterfall is a better method when a project must meet strict regulations as it requires deliverables for each phase before proceeding to the next one. Alternatively, Agile is better suited for teams that plan on moving fast, experimenting with direction and don't know how the final project will look before they start
+
+Once a step has been completed in Waterfall, it's difficult to go back and make changes. In contrast, Agile builds a working version of the whole project (an MVP) so the customer can shape how it's built.
+
+
+3.The Rational Unified Process (RUP) is a software development and project management process that provides a disciplined and methodical approach towards assigning tasks and responsibilities in a team.
+RUP is based on a set of building blocks and content elements, describing what is to be produced, the necessary skills required and the step-by-step explanation describing how specific development goals are to be achieved.
+The Rational Unified Process (RUP) is an iterative process where instead of attempting to deliver the entire system in one end-to-end lifecycle set of phases (like Waterfall), the system is delivered in iterations where the iterations are a successive series of releases each with an increasing level of completeness.
+
+Phase 1
+inception
+It is the initial phase of the developing process. During this phase, the project’s basic ideas and structure will be determined to prepare a business suite, i.e. the team will decide the purpose of the project, success criteria, estimated cost, risk assessment, scheduled time, and resources required to complete it etc. It is just like an evaluation of the project. The project may be canceled or consider depends on if it fails to pass the below criteria.
+During the Inception phase, the main objectives are to acquire stakeholder agreement on the project’s goals and to secure funding. This will require creating a high-level requirements model, which will define the project’s scope, and possibly developing a user interface prototype. You are responsible for initiating the work environment installation and processing customization for the team. Moreover, you will develop a high-level plan for the project’s progress.
+
+Phase 2
+ Elaboration Phase
+This is the second phase of the development process. During this phase, to analyze the project’s requirements and necessary architecture, i.e. to review the problems, develop the project plan and architect, and eliminate the high-risk elements from the project. It is the most critical phase among the four phases. The actual development 
+and coding will take place in the following phase.
+Phase 3	
+Construction
+This is the third phase of the development process. During this phase, the project is developed and completed. Here all the features are developed and integrated into the product, i.e. the software is designed, written, and tested successfully. So the development product will be a deployable product. It measures the completeness of the product.
+The complete software system is developed during the Rational Unified Process building phase. The focus is on the creation of system components and other features. Additionally, the bulk of coding occurs at this time.
+
+Phase 4
+Transition
+This is the final step in the entire product development life cycle that entails a transition from the development to the production stage.During this phase, the software is released and delivered to the public or customers. Based on the feedback from the end-users, the product will be made update or change. It is the process of deployment. In the transition phase, testing is conducted on the software, defects are removed, and the software is released.
+
+
+benefits
+It allows you to deal with changing requirements regardless of whether they are coming from the customer or from the project itself.
+It emphasizes the need for accurate documentation.
+It forces integration to happen throughout the software development, more specifically in the construction phase.
+
+
+
