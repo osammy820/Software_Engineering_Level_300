@@ -12,3 +12,55 @@ what are the benefits and drawbacks of each?
 how does it differ from other software development process models? 
 What are the key phases and activities involved in RUP, and 
 what are the benefits and drawbacks of using this approach in software development projects?
+
+Solution to Question :
+1.   A software process model is an abstraction of the software development process.Abstraction is about it being logical form.
+     It include plan driven model and incremental model.
+    Software process model is important  in this ways:
+     a. It serves as guide in developing system .
+     b. It brings coordination:since different group of people are working there should be some connectivity between them.
+
+
+2.  i.   Waterfall model  is inflexible, it can’t adapt but Agile process model  is flexible,it can adapt to changes.
+    ii.Waterfall model  doesn’t require a lot of customer involvement  whilst the Agile require user involvement.
+  
+     Benefits of Waterfall model:   
+        - simple and easy to understand and use.
+        -has specific deliverables plus review process.
+
+     Draw back of Waterfall model
+        -High amounts of risk and uncertainty may occur.
+        - Poor model for everchanging system.
+
+
+
+      Benefits of Agile Model
+          -  late changes in requirements are welcomed.
+          - Delivery of produc is fast.
+          -Continuous attention to technical excellence  and good design.
+
+       Draw backs of Agile model
+         -Project can go off-track if customer representative  are not clear about the system
+         -Only senior programmers may take decision needed in development process but junior programmers does not.
+
+3. The Rational Unified Proces Methodology (RUP) is an agile software development method, in which 
+the development of software, is divided into four phases. 
+        It differ from others model  because :
+              Testing is done at each phase.
+              Each phase is finalised with a milestone. 
+              A milestone is a point in time where decisions of critical importance must to be made but before that a goal must be accomplished.
+
+  Phases of Rational Unified Proces Methodology (RUP)
+    Inception phase
+    Elaboration phase
+    Construction phase
+    Transition phase
+
+   Benefits of Rational Unified Proces Methodology (RUP)
+   - potential integration headaches by forcing integration to occur throughout development.
+   - Emphasizes the need (and proper implementation of) accurate documentation.
+  
+DrawBack of Rational Unified Proces Methodology (RUP)
+  -Heavily relies on proficient and expert team members
+  - continuous integration where integrations are conflicting and getting in the way of other, more fundamental activities.
+
