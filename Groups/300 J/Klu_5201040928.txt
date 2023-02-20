@@ -1,0 +1,98 @@
+Q1. Software process model is the mechanism of dividing software development work into distinct phases to improve design, product management,and project management.
+Software process model is important in software development because,it provides a visual representation of the development process for both the 
+the team and the customer to review.It also helps them determine the right process to follow for specific software,identify early challenges or cost constraints and acts as a record of the 
+team's development process for the future.
+
+Q2. Comparing Waterfall and Agile software process model,Waterfall breaks down software developement into isolated phases that 
+flow into each other,while Agile advocates iterative development cycles in which multiple life cycle phases
+can run in parallel.
+
+Q2 b.(I) Agile allows changes in project developement requirements,
+whereas Waterfall has no scope of changing the requirements once the project developmentstarts.
+
+(ii) Agile performs testing concurrently with software developement,whereas
+in Waterfall methodology, testing comes after the Build phase.
+
+(iii) The Agile methodology is known for its flexibility,while
+the Waterfall is a structured software developement methodology.
+
+(iv) Waterfall is a linear sequential Life Cycle Model, whereas Agile is a continuous iteration of 
+developement and testing in software developement process.
+
+Q2. c. BENEFITS OF AGILE 
+(I) Agile promotes some of the best practices found in development environments.
+    some of the risk in a project should be reduced as the output of developers is 
+    reviewed early and constantly during developement.
+
+(ii)when projects are genuinely new they usually require creativity.
+    Requirements can then emerge as understanding matures and grow.
+
+(iii)With the common use of visuals,such as boards,charts kanban etc,it can be easy
+to see what is going on literally,what done and what is yet to do,assuming the visuals are well organised
+presented and up to date.This can ba a major benefit.
+
+DRAWBACKS OF AGILE
+(i)Agile is simple to understand in principle but hart to do well in practice.It requires real commitment
+and first attempts are not likely to go very well.
+
+(ii)It is less predictable what will be delivered at the end.
+
+(iii)In Agile there can be reluctance by some to adopt or access deadlines.Project don't exist in isolation
+so when this happens it can be a real issue.Agile methods typically only address the product develovepment 
+and large scale projects can be made up of many other elements.
+
+BENEFITS OF WATERFALL SOFTWARE PROCESS Model
+(i)Where there are many interfaces and dependencies outside of the basic product develovepment,waterfall project tend to have
+the tools to model and manage these.
+
+(ii)Where large scale design or analysis is required, or the impact of downstream changes to design is very high,thisis likely
+to be far more suitable approach.
+
+(iii)Project team members don't need to be colocated aithough the risks associted with this must be managed carefully.
+
+DRAWBACK OF WATERFALL SOFTWARE PROCESS Model
+(i)Waterfall projects don't have to be but tend to be made up of teamss within teams.This can be a major disadvantage to any project.
+
+(ii)Risk in general can be far higher with Waterfall,for example as the scope for invalid assumptions is unlimited. if you add
+this to the high cost of making changes later in a Waterfall project,it is easy to see why some are very expensive,over budget and 
+late.Too often,assurance of products being fit for purpose is demonstrated verylate in waterfall project.
+
+(iii)Communication can be a far higher risk especially when there is limited early review of outputs and deliverables or when one way
+methodes of communication are used to convey requirements.
+
+Q3. Rational Unified Process is the ultimate guide for assigning tasks and responsibilities within a developement organization and developing
+high quality software that meets the needs of the requirement of its users.
+
+
+Q3. (b)THE KEY PHASES AND ACTIVITIES OF RUP
+(i)INCEPTION PHASE: Essentially,in this cycle,your team determines the structure and the basic idea of the project.Also, the team will decide if 
+the project is worth pursuing at all based on the estimated cost,the necessary resources and the goal they are trying to achieve
+with the project.
+
+(ii)ELABORATION PHASE: The aim of this phase is to analyze the requirement of the system,develop the project plan and eliminate
+the highest risk elements of the project.It's undoubtedly the most critical of all stages as it signifies the transition from low-risk
+to high-risk.It's also the point when your team has to make a decision whether to start a construction development coding or not.
+
+(iii)CONSTRUCTION PHASE:At this stage, your team is finally ready to develop all components and features and integrate them into the product
+.It's a manufacturing process where your team focuses on managing resources in oder to optimize cost,schedules and the quality.
+
+(iv)TRANSITION PHASE: The transition phase is the moment when the product is finally finished,released and delivered to customers.
+However,once the product is given to the user,there are a number of issues than can arise.This requires the team to handle all the 
+bugs-fixes and correct problems,or to finish some features that were postponed.
+
+Q3. (c)BENEFITS OF RATIONAL UNIFIED PROCESS (RUP)
+(I)It allows you to deal with changing requirements regardless of whether they are coming from the customer or from the project itself.
+
+(ii)It emphasizes the need for accurate documentation.
+
+(iii)It forces integration to happen throughout the software development,more specially in the construction phase.
+
+DRAWBACKS OF RATIONAL UNIFIED PROCESS
+(i)It mostly relies on the ability of experts and professionals to assign the activities to individuals who 
+should then produce pre-planned results in the form of artifacts.
+
+(ii)The integration in development process can also have an adverse impact on some more fundmental activiteis 
+during the stages of testing.
+
+(iii)Although RUP has delivered excellent results,especially in software development,it is a rather complex methodes
+which makes its implimentation cchallenging,particularly for smaller businesses,teams or projects.
