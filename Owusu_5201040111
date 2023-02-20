@@ -1,0 +1,13 @@
+1.Software process models are convenient tools that developers use to map every step of their projects. They help project managers plan their processes, estimate costs, identify challenges and communicate with teams and customers 
+
+2.The key difference between Agile vs. Waterfall is that Waterfall breaks down software development into isolated phases that flow into each other, while Agile advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
+For the advantage of Waterfall software process model, it uses clear structure. When compared with other methodologies, Waterfall focuses most on a clear, defined set of steps and for the agile software process model, it keeps and involves customers in the development process, Agile teams keep them in the loop and show that they value their opinion. And hence brings out a result best for the customers that will be using the software. 
+The disadvantage of Waterfall software process model is that its difficult to make changes to it since its follows a strict path of model development. And a disadvantage of agile software development model is that,  its less predictable. 
+
+3.Rational Unified Process is the ultimate guide for assigning tasks and responsibilities within a development organization and developing high-quality software that meets the needs and requirements of its users. 
+
+RUP is a unified model planning form for large business applications that provides a language for describing method content and processes while other software development process model is a classical model of software engineering. 
+
+There are four main phases in RUP: Inception, Elaboration, Construction, and Transition. 
+
+For benefits of rational unified process, It allows you to deal with changing requirements regardless of whether they are coming from the customer or from the project itself and for its disadvantage, its its Complexity of process: Since RUP is a complicated procedure, successfully performing it requires software team members with great expertise.
