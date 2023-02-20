@@ -1,0 +1,41 @@
+1.	Software process models are convenient tools that developers use to map every step of their projects. They help project managers plan their processes, estimate costs, identify challenges and communicate with teams and customers. The goal of a software process model is to provide guidance for controlling and coordinating the tasks to achieve the end product and objectives as effectively as possible.
+2.	Agile and waterfall are two distinctive methodologies of processes to complete projects or work items. Agile is an iterative methodology that incorporates a cyclic and collaborative process. Waterfall is a sequential methodology that can also be collaborative, but tasks are generally handled in a more linear process.
+The key difference between Agile vs. Waterfall is that Waterfall breaks down software development into isolated phases that flow into each other, while Agile advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
+
+Advantages of Agile model:
+•	Customer satisfaction by rapid, continuous delivery of useful software.
+•	People and interactions are emphasized rather than process and tools. Customers, developers and testers constantly interact with each other.
+•	Working software is delivered frequently (weeks rather than months).
+•	Face-to-face conversation is the best form of communication.
+•	Close, daily cooperation between business people and developers
+       Disadvantages of Agile model:
+•	In case of some software deliverables, especially the large ones, it is difficult to assess the effort required at the beginning of the software development life cycle.
+•	There is lack of emphasis on necessary designing and documentation.
+•	The project can easily get taken off track if the customer representative is not clear what final outcome that they want.
+Advantages of waterfall model
+•	Before the next phase of development, each phase must be completed
+•	They should perform quality assurance test (Verification and Validation) before completing each stage
+•	Suited for smaller projects where requirements are well defined
+•	Elaborate documentation is done at every phase of the software’s development cycle
+Disadvantages of waterfall model
+•	Error can be fixed only during the phase
+•	It is not desirable for complex project where requirement changes frequently
+•	Testing period comes quite late in the developmental process
+•	Clients valuable feedback cannot be included with ongoing development phase
+•	Small changes or errors that arise in the completed software may cause a lot of problems
+
+3.	Rational unified process (RUP) is a software application development technique with many tools to assist in coding the final product and tasks related to this goal. RUP is an object-oriented approach used to ensure effective project management and high-quality software production.
+How RUP is different from other process?
+Iterative and incremental development: RUP emphasizes iterations, or cycles, of work, rather than trying to complete all work upfront. This allows for more flexibility and responsiveness to change. Each iteration results in a working version of the software that can be demonstrated to, and used by, clients.
+
+There are four main phases in RUP: Inception, Elaboration, Construction, and Transition. Each phase has its own objectives, activities, and deliverables.
+
+Advantages of RUP
+•	Offering thorough documentation: The RUP process involves carefully documenting each step, which can be highly beneficial for collaborative projects.
+•	Enhancing risk management practices: RUP can help software individuals proactively respond to potential software challenges. This can improve risk management and troubleshooting efforts. 
+•	Giving regular feedback to stakeholders: A vital part of the RUP process is giving consistent updates to project stakeholders. These stakeholders may range from other software individuals involved in the project to company leaders or vendors.
+•	Reducing total project time: RUP may allow the software development team to lower their time in both the development and integration stages.
+Disadvantages of RUP
+•	Complexity of process: Since RUP is a complicated procedure, successfully performing it requires software team members with great expertise. If some of the individuals on your software team are new to the field, it might be easier to choose a different software development process.
+•	Cost and time: The amount of documentation required for RUP can be time-consuming and expensive. Software teams with smaller budgets might benefit from choosing a more cost-efficient approach for their project.
+•	Challenge of using it for projects with multiple development streams: RUP may cause confusion during the testing stage for larger projects involving multiple components and software teams. Because of its emphasis on ongoing integration, those working on projects with multiple development streams may want to either slow down the RUP process or look for another development procedure.
