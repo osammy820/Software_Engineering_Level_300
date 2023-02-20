@@ -1,0 +1,65 @@
+(1)Software process models are convenient tools that developers use to map every step of their projects. 
+They help project managers plan their processes, estimate costs, identify challenges and communicate with teams and customers.
+
+2.(a)The main difference is that Waterfall is a linear system of working that requires the team to complete each project phase before moving on to the next one while
+ Agile encourages the team to work simultaneously on different phases of the project.
+
+(b)The key difference between Agile vs. Waterfall is that Waterfall breaks down software development into isolated phases that flow into each other, 
+while Agile advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
+
+
+(c)Agile projects are typically cheaper and can be delivered quickly. They offer greater flexibility, 
+but also produce less predictable results due to the uncertainty and unclear nature of many of the project characteristics.
+ Waterfall projects are typically more expensive and take longer to deliver.
+
+3.(a)Rational Unified Process (RUP) is a software development process for object-oriented models. It is also known as the Unified Process Model. 
+It is created by Rational corporation and is designed and documented using UML (Unified Modeling Language).
+This process is included in IBM Rational Method Composer (RMC) product.
+Some characteristics of RUP include use-case driven, Iterative (repetition of the process), and Incremental (increase in value) by nature,
+delivered online using web technology, can be customized or tailored in modular and electronic form, etc. RUP reduces unexpected development costs and prevents wastage of resources.
+
+
+(b)These are the key phases of Rational Unified Process (RUP); 
+
+(i)Inception –
+Communication and planning are the main ones.
+Identifies the scope of the project using a use-case model allowing managers to estimate costs and time required.
+Customers’ requirements are identified and then it becomes easy to make a plan for the project.
+The project plan, Project goal, risks, use-case model, and Project description, are made.
+The project is checked against the milestone criteria and if it couldn’t pass these criteria then the project can be either canceled or redesigned.
+
+(ii)Elaboration –
+Planning and modeling are the main ones.
+A detailed evaluation and development plan is carried out and diminishes the risks.
+Revise or redefine the use-case model (approx. 80%), business case, and risks.
+Again, checked against milestone criteria and if it couldn’t pass these criteria then again project can be canceled or redesigned.
+Executable architecture baseline.
+
+(iii)Construction –
+The project is developed and completed.
+System or source code is created and then testing is done.
+Coding takes place.
+
+(iv)Transition –
+The final project is released to the public.
+Transit the project from development into production.
+Update project documentation.
+Beta testing is conducted.
+Defects are removed from the project based on feedback from the public.
+
+(v)Production –
+The final phase of the model.
+The project is maintained and updated accordingly.
+
+
+During initiation, project planners set the initial scope and budget for the project.
+Construction is the phase in which the bulk of the application is programmed.
+
+(c)Benefits of using RUP implies;
+(i)Using the RUP process allows you to operate business analysis, design, testing and implementation throughout the software development process and its unique stages, 
+helping you create a customized product.
+
+Drawbacks of using RUP impies;
+(ii)Complexity of process: Since RUP is a complicated procedure, successfully performing it requires software team members with great expertise.
+Cost and time: The amount of documentation required for RUP can be time-consuming and expensive.
+
