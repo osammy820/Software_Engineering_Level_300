@@ -1,0 +1,94 @@
+1.	What is a software process model and why is it important in software development?
+Software process model is a structured set of activities required to develop a software system. The models specify the stages and order of a process. Is an abstract representation of a process, it presents a description of a process from some particular perspective.
+•	Software process models are convenient tools that developers use to map every step of their projects. 
+•	They help project managers plan their processes, estimate costs, identify challenges and communicate with teams and customers. 
+•	Process models help provide a visual representation of the development process for both the team and the customer to review.
+•	It helps them determine the right process to follow for specific software
+•	identify early challenges or cost constraints and acts as a record of the team's development process for the future
+•	is a digital or hand-written model that details the software development process
+•	helps provide a visual representation of the development process for both the team and the customer to review.
+
+2.	Compare and contrast the Waterfall and Agile software process models. What are the key differences between the two models and what are the benefits and drawbacks of each?
+The waterfall software process model is one of the simplest and most effective software process models. It displays each step of the development process as a separate, sequential step so that it's easy to follow. You can view the development process from beginning to end with a glance and adjust steps as the development process continues.
+The waterfall process model works well for simple software development projects that likely won't change significantly during the development process. The team understands each parameter thoroughly and can work through the development phases quickly.
+Waterfall Model followed in the sequential order, and so project development team only moves to next phase of development or testing if the previous step completed successfully. 
+The Agile software process model is a practice that helps continuous iteration of development and testing in the software development process. In this model, development and testing activities are concurrent, unlike the Waterfall model. This process allows more communication between customers, developers, managers, and testers.
+It defines each iteration’s number, duration, and scope in advance. Every iteration is considered a short “frame” in the Agile process model, which mostly lasts from two to four weeks. Agile Model divides tasks into time boxes to provide specific functionality for the release. Each build is incremental in terms of functionality, with the final build containing all the attributes. The division of the entire project into small parts helps minimize the project risk and the overall project delivery time.
+Difference Between Waterfall and Agile Process Model
+The main difference is that Waterfall is a linear system of working that requires the team to complete each project phase before moving on to the next one while Agile encourages the team to work simultaneously on different phases of the project.
+•	Waterfall is a Linear Sequential Life Cycle Model, whereas Agile is a continuous iteration of development and testing in the software development process.
+•	In Agile vs Waterfall difference, the Agile methodology is known for its flexibility, whereas Waterfall is a structured software development methodology.
+•	Comparing the Waterfall methodology vs Agile, which follows an incremental approach, whereas the Waterfall is a sequential design process.
+•	Agile performs testing concurrently with software development, whereas in Waterfall methodology, testing comes after the “Build” phase.
+•	Agile allows changes in project development requirements, whereas Waterfall has no scope of changing the requirements once the project development starts.
+Advantages of Waterfall Model
+•	It is one the easiest model to manage. Because of its nature, each phase has specific deliverables and a review process.
+•	It works well for smaller size projects where requirements are easily understandable.
+•	Faster delivery of the project
+•	Process and results are well documented.
+•	Easily adaptable method for shifting teams
+•	This project management methodology is beneficial to manage dependencies.
+Advantages of the Agile Model
+•	It is focused client process. So, it makes sure that the client is continuously involved during every stage.
+•	Agile teams are extremely motivated and self-organized so it likely to provide a better result from the development projects.
+•	Agile software development method assures that quality of the development is maintained
+•	The process is completely based on the incremental progress. Therefore, the client and team know exactly what is complete and what is not. This reduces risk in the development process.
+Limitations of Waterfall Model
+•	It is not an ideal model for a large size project
+•	If the requirement is not clear at the beginning, it is a less effective method.
+•	Very difficult to move back to makes changes in the previous phases.
+•	The testing process starts once development is over. Hence, it has high chances of bugs to be found later in development where they are expensive to fix.
+Limitations of Agile Model
+•	It is not useful method for small development projects.
+•	It requires an expert to take important decisions in the meeting.
+•	Cost of implementing an agile method is little more compared to other development methodologies.
+•	The project can easily go off track if the project manager is not clear what outcome he/she wants.
+3.	What is Rational Unified Process (RUP), and how does it differ from other software development process models? What are the key phases and activities involved in RUP, and what are the benefits and drawbacks of using this approach in software development projects?
+Is a modern generic software engineering process in which the life cycle of a project, or the development of software, is divided into four phases. Various activities take place during these phases: modelling, analysis and design, implementation, testing and application. The Rational Unified Process (RUP) is an iterative process where instead of attempting to deliver the entire system in one end-to-end lifecycle set of phases (like Waterfall), the system is delivered in iterations where the iterations are a successive series of releases each with an increasing level of completeness. Within each iteration there is a mini-lifecycle model consisting of four phases; (1) inception, (2) elaboration, (3) construction, and (4) transition; however, in practice, the phases may bleed into each other and may not have rigid phase transitions like a pure Waterfall model. The original RUP process was designed heavily around the Rational toolset which can be very expensive; however, variations such as the Enterprise Unified Process (EUP) have evolved that are toolset agnostic.
+Inception
+During the first phase, the basic idea and structure of the project are determined. In this phase, the team meets regularly to determine the project’s necessity, but also its viability and suitability. Viability and suitability also include the expected costs and the means needed to complete the project after the green light has been given.
+Depending on the project, the result of the first phase could be:
+•	A vision statement
+•	First use case (20% completed)
+•	Market research results
+•	Financial prognosis
+•	Risk assessment
+•	Project plan
+•	Corporate or business model
+•	Prototypes
+The results should then be assessed according to several criteria:
+•	Were all interested parties included and do they all agree?
+•	Are the requirements of the development reliable?
+•	Are the costs credible? What are the priorities and risks?
+
+Elaboration
+During the elaboration phase, the system’s requirements and its required architecture are assessed and analysed. This is where the project begins to take shape. The objective of the elaboration phase is to analyse products and to lay a foundation for the future architecture. Results of the elaboration phase include:
+•	Use case (80% completed)
+•	Description of the feasible architecture
+•	Project development plan
+•	Prototypes for tackling risks
+•	User manual
+Criteria for the results:
+•	Is the architecture stable?
+•	Are important risks being tackled?
+•	Is the development plan sufficiently detailed and accurate?
+•	Do all interested parties agree on the current design?
+•	Are the expenditures acceptable?
+
+Construction
+In the construction phase of the Rational Unified Process (RUP), the software system is constructed in its entirety. The emphasis is on the development of components and other features of the system.
+The majority of coding also takes place in this phase. In this production process, the emphasis is on managing costs and means, as well as ensuring quality. Results from the production phase include:
+•	Fully completed software system
+•	User manual
+To be assessed according to:
+•	Is the product stable and complete enough for use?
+•	Are all interested parties/users ready for the transition into the product’s usage?
+•	Are all the expenditures and means still in good order?
+
+Transition
+The objective of the transition phase is to transfer the product to its new user. As soon as the user starts using the system, problems almost always arise that require changes to be made to the system. The goal, however, is to ensure a positive and smooth transition to the user. Results and activities in the last phase:
+•	Beta testing
+•	Conversion of existing user databases
+•	Training new users
+•	Rolling out of the project to marketing and distribution
+Input from the new users should guide the assessment here
