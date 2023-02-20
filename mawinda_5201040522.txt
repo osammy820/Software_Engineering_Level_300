@@ -1,7 +1,7 @@
 
 Q1. what is a software process model?
 
-ans: A software process model is a structured sets of activities or a mechanism used to to build a system by breakig the process into distinct phases.
+ans: A software process model is a structured sets of activities or a mechanism used to to build a system by breaking the process into distinct phases.
  The process makes it possible for developers to keep track of the progress of the project. It also helps the projecet manager plan their process, make cost estimates,identify challenges and communicate with teams and customers.
 
 Q2. Compare and contrast the waterfall and the agile software process model?
