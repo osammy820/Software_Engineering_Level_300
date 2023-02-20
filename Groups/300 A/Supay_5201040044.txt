@@ -1,0 +1,30 @@
+1.Software process models are convenient tools that are used by  developers to map every step of their projects. It helps project managers plan their processes, identify challenges and communicate with teams and customers.
+
+2.i.Waterfall is a Linear Sequential Life Cycle Model, whereas Agile is a continuous iteration of development and testing in the software development process.
+
+ ii.The Agile methodology is known for its flexibility, whereas Waterfall is a structured software development methodology.
+
+b.Agile projects are typically cheaper and can be delivered quickly but they are less predictable,Whereas Waterfall is simple and easy to understand and use but projects are typically more expensive and take longer to deliver.
+
+3.Rational Unified Process is an approach for software engineering for delegating activities and responsibilities inside a software development organization.
+
+b.Rup is a unified model planning form for large business applications that provides a language for describing method content and process,
+but  the model are used in government as well as many company associated with software engineering.
+
+
+
+c.There are four main phases in RUP: Inception, Elaboration, Construction, and Transition.
+
+Inception
+During the first phase, the basic idea and structure of the project are determined. In this phase, the team meets regularly to determine the project’s necessity.
+
+elaboration
+During the elaboration phase, the system’s requirements and its required architecture are assessed and analysed.
+
+transition
+The objective of the transition phase is to transfer the product to its new user. 
+
+construction
+In the construction phase of the Rational Unified Process (RUP), the software system is constructed in its entirety.
+
+d.Supports incremental build the software product. It provides proper documentation of the software product but The amount of documentation required for RUP can be time-consuming and expensive.
