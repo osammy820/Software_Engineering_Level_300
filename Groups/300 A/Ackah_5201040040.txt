@@ -1,0 +1,43 @@
+Assignment
+INDEX NUMBER 5201040040
+Course code ITC 456
+Lecturer:Samuel Owusu
+  
+
+Q1  Software process model is a mechanism that detailed the software development process , it also helps provide a visual representation of the development process for both the team and their customers to review 
+Why it important in software development 
+•	It outlines a distinct set of activities ,actions , tasks and deliverables required to engineer a high quality software 
+•	It provides a stability control and organization to a process that if not managed will get out of hand easily 
+They’re adjustable to meet the needs of the software engineer and manages for a specific project 
+Q2
+Similarities 
+All involves;
+•	Requirement gathering 
+•	Analysis and design 
+•	Development and Implementation 
+•	Testing and Evaluation 
+Differences
+Waterfall	Agile 
+Doesn't adapt to change	Adapts to change
+Follows a fixed plan with a linear process	Iterative and incremental approach
+
+Key difference 
+Waterfall breaks down software developments into isolated phases that  flow into each others while agile advocates iterative development cycle
+Q3 
+In RUP , the processes are (that is the analysis,Design,Coding and testing) are done iteratively and concurrently while Software process model such as waterfall model is done sequentially 
+RUP phases are all multi-disciplinary while other software process models are single discipline
+
+
+Key phases	Activity 
+Inception 	Acquisition of stakeholders agreement on the project 
+Elaboration 		Requirement and architectural are evaluated and analyzed
+Construction 	This phase the application is built and tested 
+Transition 	Final phase where testing conducted 
+
+Benefits 
+•	Improves resource management 
+•	Cost-effectiveness 
+•	Improves cooperation between participants 
+Drawbacks
+•	Sometimes influences financial plans
+•	It’s time consuming 
