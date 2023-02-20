@@ -1,0 +1,67 @@
+QUESTION 1
+Software process model is a structured set of activities required to develop a software system.
+
+Importance:
+1.Provide a clear understanding of how the software processes work.
+2.Create consistency and a way to standardise and control processes.
+3.Set clear expectations and helps to reduce redundancies.
+
+QUESTION 2 
+
+Waterfall model:
+The waterfall model, is a sequential, plan driven-process where you must plan and schedule all your activities 
+before starting the project.Each activity in the waterfall model is represented as a separate phase arranged in
+linear order.The phases include: Requirement gathering , System and software Design, Implementation and
+unit testing, System Testing Operational and maintenance
+
+Agile Model:
+The Agile model, is an iterative and incremental approach to software development that focuses on delivering working 
+software quickly and continuously throughout the project. In the agile process model Requirements 
+are assumed to change, System evolves over a series of iterations, Customers are involved during each iteration,
+Documentation is done only when needed.
+
+Key differences:
+The Agile process model is an iterative and incremental approach to software development. Whiles 
+Waterfall model, is a sequential, plan driven-process to software development.
+
+Benefits of Waterfall model:
+1. The requirements are determined in the early stage.
+2. It is easy to manage. 
+3. Helps identify and manage risks early on in the project.
+
+Drawbacks of Waterfall model:
+1. It  highly structured and regimented, so it make changes difficult.
+2. It Can lead to longer development and delays.
+3. It exclude the client.
+
+Benefits of Agile model:
+1. It is flexibile.
+2. It allows control over the project due to its transparency and feedback integration. 
+3.It encourages collaboration and communication 
+
+Drawbacks of Agile model:
+1.It Can result in lack of documentation and planning.
+2.It can be more difficult to accurately estimate the time to finish the project.
+3.It increase greater demands from clients and developers.
+
+QUESTION 3
+Rational Unified Process (RUP) is an iterative software development process framework for 
+developing a high quality software. It describe three perspective that is a dynamic perspective
+that shows phases over time, a static perspective that shows the process activities and a perspective
+that shows good practices.
+
+The key phases of RUP include;
+1.Inception: The team establishes a business case for the system.
+2.Elaboration: The team identifies risk, develops a project plan and creates system architecture.
+3.Construction: The team develops parallel components.
+4.Transition: The team delivers the system into its operating environment for customer review.
+
+Benefits of RUP:
+1.It is well Documented and complete methodology.
+2.It is proactive to clients changing requirements and related risk. 
+3.It reduces integration time and effort .
+
+Drowbacks of RUP:
+1.The process is too complex.
+2.May lead to totally indisciplined form of software development.
+3.Difficult to implement in smaller projects.
