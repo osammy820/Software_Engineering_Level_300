@@ -49,22 +49,26 @@ what are the benefits and drawbacks of using this approach in software developme
 
 //Answer to Question 3
 
-Rational Unified Process is an agile sofwtare development methid, in which the life cycle of a project, or the development of software, is divided into four phases.
+Rational Unified Process is an agile sofwtare development methid, in which the life cycle of a project, or the 
+development of software, is divided into four phases.
 
 **Key Phases of RUP
 
 1. Inception:
 	i.  Communication and planning are the main ones.
-	ii. Identifies the scope of the project using a use-case model allowing managers to estimate costs and time 	    required.
+	ii. Identifies the scope of the project using a use-case model allowing managers to estimate costs and 
+	    time required.
 	iii.Customers’ requirements are identified and then it becomes easy to make a plan for the project.
 	iv. The project plan, Project goal, risks, use-case model, and Project description, are made.
-	v.  The project is checked against the milestone criteria and if it couldn’t pass these criteria then the             project can be either canceled or redesigned.
+	v.  The project is checked against the milestone criteria and if it couldn’t pass these criteria then 
+	    the project can be either canceled or redesigned.
 
 2. Elaboration:
 	i.   Planning and modeling are the main ones.
 	ii.  A detailed evaluation and development plan is carried out and diminishes the risks.
 	iii. Revise or redefine the use-case model (approx. 80%), business case, and risks.
-	iv.  Again, checked against milestone criteria and if it couldn’t pass these criteria then again project              can be canceled or redesigned.
+	iv.  Again, checked against milestone criteria and if it couldn’t pass these criteria then again 
+	     project can be canceled or redesigned.
        	v.   Executable architecture baseline.
 
 
