@@ -1,0 +1,20 @@
+1.	Software processes are a set of sequential activities for specifying the building of a software. This involves the software’s design implementation and every other process involved in making the software a reality. So  a software process model is an ideological representation of the actual processes with which a software will be built upon or the blueprint of a software. This is very important because it serves as the framework to which one latches upon to come about with a software.
+
+2.	Waterfall development also known as the linear sequential software process is made of a series of developing a software whereby every stage in this process mode is visited and worked upon completely without going back whereas agile development is the making of a software by development in short iterative cycles termed as sprint
+
+Agile development as the name suggests aims at ensuring smooth advancement through the various stages of software development and also gives room for changes if needed but with waterfall development if there is a need to change in any stage the whole development cycle has to be revised again from start to finish.
+
+3.	The rational unified process methodology is an agile software development method whereby the stages of a software’s development is divided into four cycles namely modelling, analysis and design, implementation, testing and application in an iterative manner.
+
+This process is termed agile because various components can be repeated until the software meets the required preference.
+With the RUP the software’s life cycle is divided into four phases namely; inception, elaboration, construction and transition phase. Each phase Is finalized with a milestone.
+The RUP model is quite a complicated procedure and requires people with skilled expertise not amateurs.
+
+
+
+
+
+
+
+
+
