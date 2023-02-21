@@ -1,0 +1,32 @@
+Q1. Software process models are convenient tools that developers use to map every step of their projects. They help project managers plan their processes, estimate costs, identify challenges and communicate with teams and customers.
+This helps them determine the right process to follow for specific software, identify early challenges or cost constraints and acts as a record of the team's development process for the future.
+
+Q2. The key difference between Agile vs. Waterfall is that Waterfall breaks down software development into isolated phases that flow into each other, while Agile advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
+-Benefits of waterfall software process model
+1. Before the next phase of development, each phase must be completed.
+2. Suited for smaller projects where requirements are well defined.
+
+Drawbacks of waterfall software process model
+1. Error can be fixed only during the phase
+2. It is not desirable for complex project where requirement changes frequently
+
+
+-Benefits of Agile software process model
+1. Customer satisfaction by rapid, continuous delivery of useful software.
+2. People and interactions are emphasized rather than process and tools. Customers, developers and testers constantly interact with each other.
+
+
+Drawbacks of Agile software process model
+1. In case of some software deliverables, especially the large ones, it is difficult to assess the effort required at the beginning of the software development life cycle.
+2. There is lack of emphasis on necessary designing and documentation.
+
+
+Q3. Rational unified process (RUP) is a software application development technique with many tools to assist in coding the final product and tasks related to this goal. RUP is an object-oriented approach used to ensure effective project management and high-quality software production.
+KEY PHASES- Inception, Elaboration, Construction, and Transition.
+
+Beneifts of RUP
+- It allows you to deal with changing requirements regardless of whether they are coming from the customer or from the project itself.
+
+Drawbacks of RUP
+- Complexity of process: Since RUP is a complicated procedure, successfully performing it requires software team members with great expertise. 
+
