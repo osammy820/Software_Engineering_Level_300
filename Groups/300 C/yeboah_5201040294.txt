@@ -1,0 +1,68 @@
+Solutions
+
+Question 1
+A software process model is a specified definition of a software process, which is presented from a particular perspective. Models, by their nature, are a simplification, so a software process model is an abstraction of the actual process, which is being described. Process models may contain activities, which are part of the software process, software product, and the roles of people involved in software engineering.
+
+Question 2
+-The Waterfall Model
+  Winston Royce introduced the Waterfall Model in 1970.This model has five phases: Requirements analysis and specification, design, implementation, and unit testing,     integration and system testing, and operation and maintenance. The steps always follow in this order and do not overlap. The developer must complete every phase       before   the next phase begins. This model is named "Waterfall Model", because its diagrammatic representation resembles a cascade of waterfalls
+-The Agile Model
+  The meaning of Agile is swift or versatile."Agile process model" refers to a software development approach based on iterative development. Agile methods break tasks   into smaller iterations, or parts do not directly involve long term planning. The project scope and requirements are laid down at the beginning of the development     process. Plans regarding the number of iterations, the duration and the scope of each iteration are clearly defined in advance.
+The key difference between Agile vs. Waterfall is that Waterfall breaks down software development into isolated phases that flow into each other, while Agile advocates  iterative development cycles in which multiple lifecycle phases can run in parallel.
+
+Advantages of Waterfall model
+  1. This model is simple to implement also the number of resources that are required for it is minimal.
+  2. The requirements are simple and explicitly declared; they remain unchanged during the entire project development.
+  3. The start and end points for each phase is fixed, which makes it easy to cover progress.
+Disadvantages of Waterfall model
+  1. In this model, the risk factor is higher, so this model is not suitable for more significant and complex projects.
+  2. This model cannot accept the changes in requirements during development.
+  3. It becomes tough to go back to the phase. For example, if the application has now shifted to the coding phase, and there is a change in requirement, It becomes          tough to go back and change it.
+Advantage of Agile Method:
+  1. Frequent Delivery
+  2. Face-to-Face Communication with clients.
+Disadvantages of Agile Model:
+  1. Due to the shortage of formal documents, it creates confusion and crucial decisions taken throughout various phases can be misinterpreted at any time by different        team members.
+  2. Due to the lack of proper documentation, once the project completes and the developers allotted to another project, maintenance of the finished project can become      a difficulty.
+  
+Question 3
+Rational Unified Process (RUP) is a software development process for object-oriented models. It is also known as the Unified Process Model. It is created by Rational corporation and is designed and documented using UML (Unified Modeling Language).
+
+RUP include use-case driven, Iterative (repetition of the process), and Incremental (increase in value) by nature, delivered online using web technology, can be customized or tailored in modular and electronic form, etc. RUP reduces unexpected development costs and prevents wastage of resources.
+Key phases and activities involved in RUP
+  1.Inception –
+    Communication and planning are the main ones.
+    Identifies the scope of the project using a use-case model allowing managers to estimate costs and time required.
+    Customers’ requirements are identified and then it becomes easy to make a plan for the project.
+    The project plan, Project goal, risks, use-case model, and Project description, are made.
+    The project is checked against the milestone criteria and if it couldn’t pass these criteria then the project can be either canceled or redesigned.
+  2. Elaboration –
+    Planning and modeling are the main ones.
+    A detailed evaluation and development plan is carried out and diminishes the risks.
+    Revise or redefine the use-case model (approx. 80%), business case, and risks.
+    Again, checked against milestone criteria and if it couldn’t pass these criteria then again project can be canceled or redesigned.
+    Executable architecture baseline.
+  3. Construction –
+    The project is developed and completed.
+    System or source code is created and then testing is done.
+    Coding takes place.
+  4. Transition –
+    The final project is released to the public.
+    Transit the project from development into production.
+    Update project documentation.
+    Beta testing is conducted.
+    Defects are removed from the project based on feedback from the public.
+  5. Production –
+    The final phase of the model.
+    The project is maintained and updated accordingly.
+Advantages of RUP:
+  It provides good documentation, it completes the process in itself.
+   It provides risk-management support.
+  It reuses the components, and hence total time duration is less.
+  Good online support is available in the form of tutorials and training.
+Disadvantages:
+  1. Team of expert professional is required, as the process is complex.
+  2. Complex and not properly organized process.
+  3. More dependency on risk management.
+  4.Hard to integrate again and again.
+  
