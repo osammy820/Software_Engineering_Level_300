@@ -1,0 +1,7 @@
+ 1.Software process models are convenient tools that developers use to map every step of their projects. They help project managers plan their processes, estimate costs, identify challenges and communicate with teams and customers.
+
+
+ 2.The main difference is that Waterfall is a linear system of working that requires the team to complete each project phase before moving on to the next one while Agile encourages the team to work simultaneously on different phases of the project.
+
+
+3.Rational Unified Process (RUP) is an agile software development methodology. RUP splits the project life cycle into four phases. During each of the phases, all six core development disciplines take place: business modelling, requirements, analysis and design, implementation, testing, and deployment
