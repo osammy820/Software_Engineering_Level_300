@@ -1,0 +1,51 @@
+1.Software processes are a set of sequential activities for specifying the building of a software. This involves the software’s design implementation and every other process involved in making the software a reality. So  a software process model is an ideological representation of the actual processes with which a software will be built upon or the blueprint of a software. This is very important because it serves as the framework to which one latches upon to come about with a software.
+
+
+2.Waterfall and Agile software process models are two popular methodologies used for software development. Here are the key differences between the two models:
+
+Development Process: The Waterfall model follows a sequential approach, where each phase is completed before moving on to the next phase. The Agile model, on the other hand, is an iterative approach where the development process is broken down into smaller cycles or sprints.
+
+Flexibility: The Waterfall model is rigid and inflexible. Once a phase is completed, it cannot be revisited. The Agile model is flexible and allows for changes to be made at any point in the development process.
+
+Requirements: The Waterfall model requires complete and detailed requirements before development can begin. The Agile model allows for requirements to be developed and refined throughout the development process.
+
+Deliverables: The Waterfall model has specific deliverables for each phase, such as the requirements document, design document, and testing plan. The Agile model has working software as the primary deliverable.
+
+Testing: The Waterfall model has a dedicated testing phase at the end of the development process. The Agile model has continuous testing throughout the development process.
+
+Benefits and drawbacks of Waterfall:
+
+Benefits:
+
+Clear and well-defined objectives and requirements
+Predictable timeline and cost
+Each phase is completed before moving on to the next phase
+
+Drawbacks:
+
+Rigid and inflexible
+Difficult to make changes once a phase is completed
+Not well-suited for large and complex projects
+
+Benefits and drawbacks of Agile:
+
+Benefits:
+
+Flexibility and adaptability
+Collaboration between team members and stakeholders
+Allows for continuous improvement and development
+
+Drawbacks:
+
+Requires experienced and skilled team members
+Can be difficult to manage if not implemented correctly
+Requires a high level of customer involvement
+
+Overall, the choice between Waterfall and Agile models depends on the specific needs and requirements of the project. Waterfall is best suited for projects with well-defined objectives and requirements, while Agile is better for projects that require flexibility and adaptability.
+
+3.The rational unified process methodology is an agile software development method whereby the stages of a software’s development is divided into four cycles namely modelling, analysis and design, implementation, testing and application in an iterative manner.
+
+This process is termed agile because various components can be repeated until the software meets the required preference.
+With the RUP the software’s life cycle is divided into four phases namely; inception, elaboration, construction and transition phase. Each phase Is finalized with a milestone.
+The RUP model is quite a complicated procedure and requires people with skilled expertise not amateurs.
+
