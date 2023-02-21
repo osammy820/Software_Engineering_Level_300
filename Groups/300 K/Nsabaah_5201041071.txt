@@ -1,0 +1,106 @@
+Nsabaah Quist Clement - ITE 300K Software Engeneering Assignment
+
+1. What is a software process model and why is it important in software development?
+
+Solution.
+ A software process model is a digital or hand-written model that details the 
+ software development process. Process models help provide a visual representation 
+ of the development process for both the team and the customer to review.
+ Software process models are convenient abstract representation tools that developers 
+ use to map out every step of their projects. 
+
+Why is software process model important in software development?
+ Software process models are important because;
+ - They help project managers plan their processes, 
+ - Estimate costs, 
+ - Identify challenges and communicate with teams and customers.  
+ - Process models help provide a visual representation of the development process for both the team and the customer to review.
+ - It helps them determine the right process to follow for specific software,
+ - Identify early challenges or cost constraints and acts as a record of the team's development process for the future.
+
+
+
+2. Compare and contrast the Waterfall and Agile software process models.
+ -      WATERFALL									-		AGILE
+ - Inception was in 1950								-	Iception was in 2001
+ - its roots consist Infrastructure and Engineering 					-	consist of Software Development
+ - interaction with client is minimal							- 	interaction with client is much encouraged
+ - mostsly prefersd by Banks, Government etc.						-	Start ups, small companies
+ - Deliver an end product that matches initial requirements				-	Continuously deliver working software to the client
+ - Enables organizations to do extensive, upfront estimation and planning		- 	Enables teams to rapidly respond to changing requirements
+ - Lack of customer involvement and an overwhelming amount of upfront documentation	- 	Software delivery timelines can be difficult to estimate if requirements frequently change
+ 
+
+ - What are the key differences between the two models
+ The key difference between Agile vs. Waterfall is that Waterfall breaks down software development 
+ into isolated phases that flow into each other, 
+ while 
+ Agile advocates iterative development cycles in which multiple lifecycle phases can run 
+ in parallel.
+ 
+ 
+ - What are the benefits and drawbacks of each?
+  -     Benefits of WATERFALL								-		Benefits of AGILE
+  - Deliver an end product that matches initial requirements				-	Continuously deliver working software to the client
+  - Enables organizations to do extensive, upfront estimation and planning		- 	Agile makes it easier to adapt to changed requirements midway through development.
+ 											-	interaction with client is much encouraged
+											- 	Agile encourages testing and validation earlier in the software development lifecycle.
+											-	The Agile feedback loop more directly involves stakeholders in the development process.
+											-	Agile projects are easier to start because development doesn't depend on complete requirements and analysis cycles.
+
+
+
+-     Drawbacks of WATERFALL								-		Drawbacks of AGILE
+- Lack of customer involvement and an overwhelming amount of upfront documentation	- 	Software delivery timelines can be difficult to estimate if requirements frequently change
+
+
+
+
+3. What is Rational Unified Process (RUP).
+ A Rational Unified Process is an approach for software engineering for delegating activities and responsibilities 
+ inside a software development organization. Its primary purpose is to enable the creation of high-quality software 
+ that satisfies the end user’s requirements within a predictable budget and timeframe.
+
+ RUP is a systematic way to allocate tasks and responsibilities within a development team that offers best practices
+ and guidelines for effective software development. By doing so, it is able to produce high-quality software on time and
+ within budget while satisfying the demands of its customers.
+
+
+ - How does it differ from other software development process models?
+ A software Process models help provide a visual representation of the development process for both the team and the customer to review 
+ - and that of the RUP is;
+ is a systematic way to allocate tasks and responsibilities within a development team that offers best practices
+ and guidelines for effective software development
+
+
+ - What are the key phases and activities involved in RUP.
+ There are four main phases in RUP: 
+	- Inception, 
+	- Elaboration, 
+	- Construction, and 
+	- Transition. 
+Each phase has its own objectives, activities, and deliverables.
+  
+ - What are the benefits and drawbacks of using this approach in software development projects?
+
+ Benefiits of Using RUP:
+ - Offering thorough documentation: 
+ - Enhancing risk management practices: 
+ - Giving regular feedback to stakeholders: 
+ - Reducing total project time: 
+ - Determining working elements early on in the project: 
+ - It is an iterative approach that is better in some situations than a pure Waterfall approach.
+ - It also has some level of predictability if the level of uncertainty in the project if not too high. 
+
+
+ Drawbacks of Using RUP:
+ - Complexity of process: 
+ - Cost and time: 
+ - Challenge of using it for projects with multiple development streams: 
+ - It has a fair amount of overhead and isn’t quite as flexible and adaptive as Agile.
+ - The original implementation of RUP was heavily dependent on the Rational tool-set which is very expensive.  
+ - It is no longer widely-used and has been largely superseded by Agile and Scrum which are much more flexible and adaptive and easier to use.
+
+
+
+
