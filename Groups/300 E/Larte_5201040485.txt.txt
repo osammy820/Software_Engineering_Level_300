@@ -1,0 +1,101 @@
+1. What is a software process model and why is it important in software development?
+
+//Answer to Question 1
+
+Software process model is a descritpive and diagrammatic representation of the software life cycle.
+
+There is a need of software process model because without using a particular process model, the development of a software product would not be in a systematic and disciplined manner. Using the process model also helps the team members to clearly understand what they about to do and know what to do. It also helps assess the project cost and time and minimize the business and technical risks in the future.
+
+2. Compare and contrast the Waterfall and Agile software process models. 
+What are the key differences between the two models and 
+what are the benefits and drawbacks of each?
+
+//Answer to Question 2
+Waterfall and Agile software model are both processes used in software development and they also popular. These have distinct features as stated below:
+
+**DIFFERENCE BETWEEN WATERFALL AND AGILE MODEL:
+
+Waterfall model as a software process model is a Linear Sequential Life Cycle Model whereas Agile is a continues iteration of development and testing. In addition to their differences, the waterfall model is a structured method wheras the Agile is known of its flexibility.
+
+**Benefits of Waterfall Software process model:
+
+1. It is one of the easiest model to manage. because of its nature, each phase has specific deliverables  and a review process.
+2. It works well in smaller projects where reuirements are easily understanderble.
+3. Process and results are well documented.
+
+**Limitations or Drawbacks of waterfall software process model:
+
+1. It is not an ideal model for a large size project
+2. Very difficult to move back to make changes in the previous phases.
+3. If the requirement is not clear at the beginning, it is a less effective 
+method.
+
+**Benefits of the Agile Sotware Process Model:
+
+1. It is focused on client process. It involves the client continously in every stage.
+2. It ensures that quality of the development is maintained.
+3. The process is completely based on the incremental progress.
+
+**Limitatons or Drawback in Agile software process model
+
+1. It is not useful method for small development projects
+2. It requires an expert to take important decision in the meeting
+3. Cost of implementing agile software is little more compared to other ddevelopment methodologies.
+
+
+3. What is Rational Unified Process (RUP), and how does it differ from other software development process models? 
+What are the key phases and activities involved in RUP, and 
+what are the benefits and drawbacks of using this approach in software development projects?
+
+//Answer to Question 3
+
+Rational Unified Process is an agile sofwtare development methid, in which the life cycle of a project, or the development of software, is divided into four phases.
+
+**Key Phases of RUP
+
+1. Inception:
+	i.  Communication and planning are the main ones.
+	ii. Identifies the scope of the project using a use-case model allowing managers to estimate costs and time 	    required.
+	iii.Customers’ requirements are identified and then it becomes easy to make a plan for the project.
+	iv. The project plan, Project goal, risks, use-case model, and Project description, are made.
+	v.  The project is checked against the milestone criteria and if it couldn’t pass these criteria then the             project can be either canceled or redesigned.
+
+2. Elaboration:
+	i.   Planning and modeling are the main ones.
+	ii.  A detailed evaluation and development plan is carried out and diminishes the risks.
+	iii. Revise or redefine the use-case model (approx. 80%), business case, and risks.
+	iv.  Again, checked against milestone criteria and if it couldn’t pass these criteria then again project              can be canceled or redesigned.
+       	v.   Executable architecture baseline.
+
+
+3. Construction:
+	i.   The project is developed and completed.
+	ii.  System or source code is created and then testing is done.
+	iii. Coding takes place.
+
+4. Transition:
+	i.   The final project is released to the public.
+	ii.  Transit the project from development into production.
+	iii. Update project documentation.
+	iv.  Beta testing is conducted.
+
+5. Production:
+	i.  The final phase of the model.
+	ii. The project is maintained and updated accordingly.
+
+**Benefits or Advantages of RUP
+
+1. It provides good documentation and completes the process itself
+2. It provides risk-management
+3. It reuses the components, and hence total time duration is less.
+4. Good online supports is available in the form of tutorials and training.
+
+**Limitations or Drawbacks of RUP
+
+1. Team of expert is professional is required, as the process is complex
+2. Complex and not properly organised process.
+3. More dependency on risk management
+4. Hard to integrate again and again.
+
+
+
