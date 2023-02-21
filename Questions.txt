@@ -40,7 +40,8 @@ Integration.
 Flexibility & Scalability.
 Reliability.
 
-the drawback of using software development project:
+the drawback of using software development project:  
+ANS:
 Requirements need precision, as they can't be amended mid-process. Product functionality cannot be tested and fixed mid-development. Not a good fit for projects requiring lots of maintenance.
 
 ANS: the key phases and activities involve in RUP:
