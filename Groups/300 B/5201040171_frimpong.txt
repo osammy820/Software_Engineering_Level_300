@@ -1,0 +1,93 @@
+#Q1
+A software process model is a simplified representation of a software process. Each process model represents a process from a particular perspective, and thus provides only partial information about that process
+The goal of a software process model is to provide guidance for controlling and coordinating the tasks to achieve the end product and objectives as effectively as possible.
+They also provide the team with a graphical interface in which to model a process, as well as a way to simulate the workflow before you implement any changes
+
+
+#Q2
+Agile methodology was developed as a response to Waterfall’s more rigid structure. As a result, it’s a much more fluid form of project management. A software development project can take years to complete, and technology can change significantly during that time. Agile was developed as a flexible method that welcomes incorporating changes of direction even late in the process, as well as accounting for stakeholders’ feedback throughout the process.
+
+In Agile, the team will work on phases of the project concurrently, often with short-term deadlines. Additionally, the team, rather than a project manager, drives the project’s direction. This can empower the team to be motivated and more productive, but also requires a more self-directed team.
+
+Waterfall methodology is a linear form of project management ideal for projects where the end result is clearly established from the beginning of the project. The expectations for the project and the deliverables of each stage are clear and are required in order to progress to the next phase.
+
+Waterfall is a linear project progression, so it’s best suited for projects with a defined end goal. If a project owner has a clear and specific vision of an app, for example, and is confident it will not change throughout the project development, Waterfall methodologies could be a good system to follow.
+
+Meanwhile, Agile leaves a lot of room to adapt and change course as the project develops. It’s better suited for projects where the outcome may be dependent on more research or testing.
+
+ADVANTAGES OF Agile
+1. Short-term deadlines encourage productivity and efficiency
+
+2. There is a lot of flexibility to change project direction and experiment with new directions
+ 
+3. The methodology is client-facing, which means that the team shares progress and incorporates feedback into the process
+
+DISADVANTAGES OF Agile
+1. Because team members are working on multiple phases at a time, there is potential for overlap or unnecessary effort spent on later stages if an early phase needs to be modified
+
+2. Deliverables are not a requirement to progress to the following phase. It can be harder to ensure the entire team is on the same page—especially if it’s a large team with different departments. It also means that work can get lost or miscommunicated between team members, especially when people leave and join the team in the middle of the projects.
+
+3. The project timeline is more difficult to determine from the start, and it is also more susceptible to change
+
+ADVANTAGES OF Waterfall
+1. Provides a concrete plan of the project from start to finish
+
+2. The team establishes project requirements early on, which can save time
+
+3. Each phase of the project requires a deliverable to progress to the next phase, making the workflow more structured
+
+DISADVANTAGES OF Waterfall
+1. Because each project phase needs to be completed before progressing to the next stage, the process can take longer
+
+2. You might not realize an issue with a phase until you have already progressed to the next one. This would mean going back through each phase and checking where the mistake or error occurred, which can be a timely process.
+
+3. The Waterfall methodology requires that you outline the project from start to finish before you begin. This doesn't allow for a lot of flexibility or change. Additionally, it can become problematic if the stakeholders disagree on the project’s vision and don’t find out until it is executed or in a later phase.
+
+
+#Q3
+Rational Unified Process (RUP) is a software development process for object-oriented models. It is also known as the Unified Process Model. It is created by Rational corporation and is designed and documented using UML (Unified Modeling Language)
+
+Phases of RUP: There is total of five phases of the life cycle of RUP:
+
+Inception –
+- Communication and planning are the main ones.
+- Identifies the scope of the project using a use-case model allowing managers to estimate costs and time required.
+- Customers’ requirements are identified and then it becomes easy to make a plan for the project.
+- The project plan, Project goal, risks, use-case model, and Project description, are made.
+- The project is checked against the milestone criteria and if it couldn’t pass these criteria then the project can be either canceled or redesigned.
+
+Elaboration –
+- Planning and modeling are the main ones.
+- A detailed evaluation and development plan is carried out and diminishes the risks.
+- Revise or redefine the use-case model (approx. 80%), business case, and risks.
+- Again, checked against milestone criteria and if it couldn’t pass these criteria then again project can be canceled or redesigned.
+- Executable architecture baseline.
+
+Construction –
+- The project is developed and completed.
+- System or source code is created and then testing is done.
+- Coding takes place.
+
+Transition –
+- The final project is released to the public.
+- Transit the project from development into production.
+- Update project documentation.
+- Beta testing is conducted.
+- Defects are removed from the project based on feedback from the public.
+
+Production –
+- The final phase of the model.
+- The project is maintained and updated accordingly.
+
+
+Advantages:
+- It provides good documentation, it completes the process in itself.
+- It provides risk-management support.
+- It reuses the components, and hence total time duration is less.
+- Good online support is available in the form of tutorials and training.
+
+Disadvantages:
+- Team of expert professional is required, as the process is complex.
+- Complex and not properly organized process.
+- More dependency on risk management.
+Hard to integrate again and again.
