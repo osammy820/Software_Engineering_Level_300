@@ -1,0 +1,44 @@
+Q1.	A software process model is an abstract representation of a process used in the development of asoftware. 
+The process model provides a structured approach to software development that helps ensure
+quality, consistency, and efficiency in the development process and also provides a
+framework for managing the development processes and that's why it is important in software development.
+
+Q2.	The Waterfall model is a linear sequential process model, where each phase of the 
+software development process is completed before the next phase begins while
+the Agile model is an iterative and incremental process model, where software is 
+developed in short, iterative cycles that involve continuous feedback and 
+collaboration between the developers and stakeholders.
+
+--KEY DIFFERENCE--
+Waterfall is plan driven while Agile is value and product driven.
+
+--BENEFITS--
+Waterfall is suited for projects with well-defined requirements and a fixed
+timeframe while Agile is suited for projects with changing requirements and no
+fixed timeframe.
+
+
+Q3.	Rational Unified Process (RUP) is a software development process model that provides a
+framework for developing software in a disciplined and controlled manner.
+	RUP differs from other software development process models which is an iterative, incremental,
+and use-case driven process that focuses on architecture, design, and testing.
+
+
+--PHASES--
+I.Inception
+	Activity:Defining the scope, reasons for the project and risks of the project.
+II.Elaboration
+	Activity:Developing the system strecture and refine the project plan if need be.
+III.Construction 
+	Activity:Building the system and performing tests.
+IV.Transition
+	Activity:Deploying the system and maintaing the system.
+	
+
+--BENEFITS--
+I.There's is a structure to manage risks invovled in projects.
+II.Provides a controlled approach to software development which increases efficiency
+
+--DEAWBACKS--
+I.It can be complex and time-consuming when working on smaller or less complex projects
+II.It requires a skilled and experienced development team to carry out the phases involved
