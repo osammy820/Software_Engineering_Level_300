@@ -1,0 +1,22 @@
+1.	Software process models are convenient tools that developers use to map every step of their projects.
+Is a digital or handwritten model that details the software development process.
+
+They help project managers plan their process, estimate costs, identify challenges and 
+communicate with teams and customers.
+
+2.	Waterfall has a fixed timeline. The idea is that the start and finish of the project are already mapped out from the beginning whereas Agile is a lot more flexible and accounts for experimenting with different directs.
+Waterfall is a linear project progression, so its best suited for projects with a defined end goal whereas Agile leaves a lot of room to adapt and change course as the project develops, its better suited for projects where the outcome may be dependent on more research or testing.
+
+The main difference is that waterfall is a linear system of working that requires the team to complete each project phase before moving on to the next one while Agile encourages the team to work simultaneously on different phases of the project.
+
+3.	Rational Unified Process is a software development process for object-oriented models.
+
+Is the ultimate guide for assigning tasks and responsibilities within a development organization and developing high quality software that meets the needs and requirements of its users,
+
+The phases are;
+Inception, Elaboration, Construction, and Transition.
+
+It allows you to deal with changing requirements regardless of whether they are coming from the customer or from the project manager.
+It emphasizes the need for accurate documentation.
+It forces integration to happen throughout the software development, more specifically in the construction phase.
+
