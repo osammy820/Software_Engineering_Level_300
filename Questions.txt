@@ -3,12 +3,93 @@ before you start answering these question.
 
 Questions
 1. What is a software process model and why is it important in software development?
+A software process model is an abstraction of the software development process. The models specify the stages and order of a process. So, think of this as a representation of the order of activities of the process and the sequence in which they are performed.
+Software process models are convenient tools that developers use to map every step of their projects. They help project managers plan their processes, estimate costs, identify challenges and communicate with teams and customers.
 
-2. Compare and contrast the Waterfall and Agile software process models. 
+2. Compare and contrast the Waterfall and Agile software process models.
 What are the key differences between the two models and 
 what are the benefits and drawbacks of each?
+The key difference between Agile vs. Waterfall is that Waterfall breaks down software development into isolated phases that flow into each other, while Agile advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
+
+Agile and waterfall are two distinctive methodologies of processes to complete projects or work items. Agile is an iterative methodology that incorporates a cyclic and collaborative process. Waterfall is a sequential methodology that can also be collaborative, but tasks are generally handled in a more linear process.
+
+Following the agile methodology, your project will move through a series of cycles throughout the lifetime of the project. The development phase, review, feedback, and then approval of the work item – either yes or no. If yes, implement and complete the task. If no, record and make any necessary changes, track and adjust the backlog or prioritization to reflect the newly acquired knowledge, and then move onto the next task or sprint.
+
+Following the waterfall methodology is a simpler process of moving tasks through the phases of defining requirements, designing the implementation, implementing the work item, verification of implementation and quality assurance, and then maintenance of the feature in the end.
+
+
+what are the benefits and drawbacks of each?
+Benefits of water fall process model
+1. Uses clear structure
+2. Determines the end goal early
+3. Transfers information well
+
+Drawbacks of water fall process model.
+1. Makes changes difficult.
+
+2. Excludes the client and/or end user
+3. Delays testing until after completion
+
+Benefits of agile process model.
+
+Customer satisfaction by rapid, continuous delivery of useful software.
+People and interactions are emphasized rather than process and tools. Customers, developers and testers constantly interact with each other.
+Working software is delivered frequently (weeks rather than months).
+Face-to-face conversation is the best form of communication.
+Close, daily cooperation between business people and developers.
+Continuous attention to technical excellence and good design.
+Regular adaptation to changing circumstances.
+Even late changes in requirements are welcomed.
+
+Drawbacks of agile process model.
+
+In case of some software deliverables, especially the large ones, it is difficult to assess the effort required at the beginning of the software development life cycle.
+There is lack of emphasis on necessary designing and documentation.
+The project can easily get taken off track if the customer representative is not clear what final outcome that they want.
+Only senior programmers are capable of taking the kind of decisions required during the development process. Hence it has no place for newbie programmers, unless combined with experienced resources.
+
+
 
 3. What is Rational Unified Process (RUP), and 
 how does it differ from other software development process models? 
 What are the key phases and activities involved in RUP, and 
 what are the benefits and drawbacks of using this approach in software development projects?
+
+The key difference between Agile vs. Waterfall is that Waterfall breaks down software development into isolated phases that flow into each other, while Agile advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
+
+Agile and waterfall are two distinctive methodologies of processes to complete projects or work items. Agile is an iterative methodology that incorporates a cyclic and collaborative process. Waterfall is a sequential methodology that can also be collaborative, but tasks are generally handled in a more linear process.
+
+Following the agile methodology, your project will move through a series of cycles throughout the lifetime of the project. The development phase, review, feedback, and then approval of the work item – either yes or no. If yes, implement and complete the task. If no, record and make any necessary changes, track and adjust the backlog or prioritization to reflect the newly acquired knowledge, and then move onto the next task or sprint.
+
+Following the waterfall methodology is a simpler process of moving tasks through the phases of defining requirements, designing the implementation, implementing the work item, verification of implementation and quality assurance, and then maintenance of the feature in the end.
+
+
+what are the benefits and drawbacks of each?
+Benefits of water fall process model
+1. Uses clear structure
+2. Determines the end goal early
+3. Transfers information well
+
+Drawbacks of water fall process model.
+1. Makes changes difficult.
+
+2. Excludes the client and/or end user
+3. Delays testing until after completion
+
+Benefits of agile process model.
+
+Customer satisfaction by rapid, continuous delivery of useful software.
+People and interactions are emphasized rather than process and tools. Customers, developers and testers constantly interact with each other.
+Working software is delivered frequently (weeks rather than months).
+Face-to-face conversation is the best form of communication.
+Close, daily cooperation between business people and developers.
+Continuous attention to technical excellence and good design.
+Regular adaptation to changing circumstances.
+Even late changes in requirements are welcomed.
+
+Drawbacks of agile process model.
+
+In case of some software deliverables, especially the large ones, it is difficult to assess the effort required at the beginning of the software development life cycle.
+There is lack of emphasis on necessary designing and documentation.
+The project can easily get taken off track if the customer representative is not clear what final outcome that they want.
+Only senior programmers are capable of taking the kind of decisions required during the development process. Hence it has no place for newbie programmers, unless combined with experienced resources.
