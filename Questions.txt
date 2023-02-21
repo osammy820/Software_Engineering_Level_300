@@ -3,12 +3,69 @@ before you start answering these question.
 
 Questions
 1. What is a software process model and why is it important in software development?
+Software process models are convenient tools that developers use to map every step of their projects. They help project managers plan their processes, estimate costs, identify challenges and communicate with teams and customers.
+
+ Importance
+
+A process model allows visualization of business processes so organizations can better understand their internal business procedures so that they can be managed and made more efficient. This is usually an agile exercise for continuous improvement.
 
 2. Compare and contrast the Waterfall and Agile software process models. 
 What are the key differences between the two models and 
 what are the benefits and drawbacks of each?
 
+Difference
+A few of the notable Manifesto entries that contrast Agile against Waterfall include the following:
+
+Teams should prioritize "responding to change over following a plan."
+Teams emphasize "working software over comprehensive documentation."
+Changes to requirements are welcomed, "even late in development."
+Agile teams should "deliver working software frequently."
+Agile's highest priority is the "early and continuous delivery of valuable software."
+How do Waterfall and Agile compare?
+Agile practitioners know that in the world of software development, things never go according to plan. Therefore, the impetus to continuously delivery software into the hands of the client is arguably the primary difference between Waterfall and Agile.
+
+Waterfall asserts that customer feedback and stakeholder interactions need not occur until the end-product is delivered. However, Agile practitioners believe the following:
+
+Requirements can become outdated before development even begins.
+New technologies can force changes to even the best designs.
+Wireframes and visual renderings don't always translate well into webpages and mobile apps.
+Revised stakeholder priorities can shift development timelines and efforts.
+
+Benefits of waterfall
+Enables organizations to do extensive, upfront estimation and planning
+
+Drawbacks of waterfall
+Lack of customer involvement and an overwhelming amount of upfront documentation
+
+Benefits of agile
+Enables teams to rapidly respond to changing requirements
+
+Drawbacks of agile
+Software delivery timelines can be difficult to estimate if requirements frequently change
+
 3. What is Rational Unified Process (RUP), and 
 how does it differ from other software development process models? 
 What are the key phases and activities involved in RUP, and 
 what are the benefits and drawbacks of using this approach in software development projects?
+
+The Rational Unified Process (RUP) is an iterative software development process framework created by the Rational Software Corporation, a division of IBM since 2003.[1] RUP is not a single concrete prescriptive process, but rather an adaptable process framework, intended to be tailored by the development organizations and software project teams that will select the elements of the process that are appropriate for their needs. RUP is a specific implementation of the Unified Process.
+
+How does it differ from other software development process model
+"Software Development Lifecycle" is a general term for almost any software development process that is typically broken up into sequential phases with phase gates to approve transitions between phases. The phases are typically something like Requirements, Analysis, Design, Development, Testing, Release, etc. This is what many people call a "Waterfall" process but that term is very widely misused.
+
+The Rational Unified Process (RUP) is an iterative process where instead of attempting to deliver the entire system in one end-to-end lifecycle set of phases (like Waterfall), the system is delivered in iterations where the iterations are a successive series of releases each with an increasing level of completeness. Within each iteration there is a mini-lifecycle model consisting of (1) inception, (2) elaboration, (3) construction, and (4) transition; however, in practice, the phases may bleed into each other and may not have rigid phase transitions like a pure Waterfall model. The original RUP process was designed heavily around the Rational toolset which can be very expensive; however, variations such as the Enterprise Unified Process (EUP) have evolved that are toolset agnostic.
+
+
+Benefits
+
+Sequence of activities: each stage is finished, then the next starts.
+Tests are represented before every stage finishing.
+Every stage requires elaborate documentation.
+
+Drawbacks
+
+Errors should be fixed within the stage.
+Testing comes quite late in the building process.
+Working on specification is time-consuming.
+Client’s feedback cannot be included when development is carried out.
+High-risky approach.
