@@ -1,9 +1,9 @@
 # QUESTION 1
-Software process model is the abstract representation and ideation of a process that can highlight the description of a resembling process for a few specific perspectives.
-
-It provides your team with a graphical interface in which to model a process, as well as a way to simulate the workflow before you implement any changes
+A software process model is a simplified representation of a software process. Each process model represents a process from a particular perspective, and thus provides only partial information about that process
 
 The goal of a software process model is to provide guidance for controlling and coordinating the tasks to achieve the end product and objectives as effectively as possible.
+They also provide the team with a graphical interface in which to model a process, as well as a way to simulate the workflow before you implement any changes
+
 
 
 # QUESTION 2
