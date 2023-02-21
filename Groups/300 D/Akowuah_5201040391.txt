@@ -1,1 +1,131 @@
+QUESTION 1
+A software process is the development team's activities that lead to the final development of their software program. Each of these activities relates to the other in some way, forming a linear path the team follows from initial planning to final deliverables. The goal of a software process model is to provide guidance for controlling and coordinating the tasks to achieve the end product and objectives as effectively as possible. There are many kinds of process models for meeting different requirements.
+
+
+QUESTION 2
+Waterfall model follows a sequential design process whiles Agile model follows the incremental approach, where each incremental part is developed through iteration after every timebox
+In the waterfall model, generally the measurement of success is in terms of completed and reviewed artifacts while In the agile model, the measurement of progress is in terms of developed and delivered functionalities
+On the other hand, the waterfall model is rigid as it does not allow to modify the requirements once the development process starts while Agile model is flexible as there is a possibility of changing the requirements even after starting the development process.
+Customer interaction in waterfall model is very less. It is because, in a waterfall model, the product is delivered to the customer after overall development while In Agile model, there is a high customer interaction. It is because, after every iteration, an incremental version is deployed to the customer.
+
+Key difference between Waterfall and Agile model
+
+Waterfall model is not an ideal model to develop a large scale project size whiles Agile focuses on customer feedback, collaboration, small and rapid releases.
+The requirements in the waterfall model should be clear cut at the beginning time; otherwise, it may lead to a less effective method whiles Its purpose is to manage complex projects.
+In the waterfall model, it is hard to move back in order to make changes in the previous phase while The Agile produces better application suites with the desired requirements. Moreover, it can quickly adapt according to the changes made on time during the project life.
+
+benefit of waterfall
+
+This model is simple and easy to understand and use.
+It is easy to manage due to the rigidity of the model – each phase has specific deliverables and a review process.
+In this model phases are processed and completed one at a time. Phases do not overlap.
+Waterfall model works well for smaller projects where requirements are clearly defined and very well understood.
+
+benefit of Agile model
+
+i. Satisfied customers
+By involving customers in the development process, Agile teams keep them in the loop and show that they value their opinion. 
+
+2. Improved quality 
+Agile methodologies use an iterative approach to project management, meaning processes are improved upon each time an interval is repeated. 
+
+3. Adaptability
+The central theme of Agile is flexibility. Agile teams are responsive to change, even at the last minute, and can adapt to it without much disruption. Project deliverables are not set in stone, so teams can easily reassess their plans and adjust their priorities to align with updated goals.
+
+4 Better communication
+Agile teams prioritize face-to-face communication and continuous interaction. They will usually conduct daily meetings to ensure everyone is
+on the same page and working towards the same objectives
+
+
+QUESTION 3
+Rational unified process (RUP) is a software application development technique with many tools to assist in coding the final product and tasks related to this goal. RUP is an object-oriented approach used to ensure effective project management and high-quality software 
+production.
+
+The Rational Unified Process (RUP) defintion, also known as the Unified Process Model, is an object-orient and web-enabled software development process. Object-oriented software engineering is any software development approach that uses visual models organized around objects and goes through analysis, design, and implementation in an iterative manner. The RUP framework was first developed by International Business Machines Corporation (IBM) in 2003 and is one of the earliest iterative methods to be widely broadcasted.
+The Rational Unified Process is considered agile methodology because it uses a flexible and adaptive system in software development that involves adjusting and repeating cycles until requirements and objectives are met. As an iterative software development framework, RUP methodology involves a life cycle that divides each project into four distinct phases. The main goal of RUP is the construction of a software of high quality with a predictable budget and efficient timeframe.
+
+The four phases of the RUP methodology involve six core development disciplines, which are:
+
+Business modeling
+Requirements
+Analysis and design
+Implementation
+Testing
+Deployment
+
+Examples of RUP Phases
+The RUP methodology involves four distinct phases: inception, elaboration, construction, and transition.
+
+Rational Unified Process (RUP) is a software development process for object-oriented models. It is also known as the Unified Process Model. It is created by Rational corporation and is designed and documented using UML (Unified Modeling Language). This process is included in IBM Rational Method Composer (RMC) product. IBM (International Business Machine Corporation) allows us to customize, design, and personalize the unified process. RUP is proposed by Ivar Jacobson, Grady Bootch, and James Rambaugh. Some characteristics of RUP include use-case driven, Iterative (repetition of the process), and Incremental (increase in value) by nature, delivered online using web technology, can be customized or tailored in modular and electronic form, etc. RUP reduces unexpected development costs and prevents wastage of resources
+
+Phase of RUP
+
+1. Inception –
+Communication and planning are the main ones.
+Identifies the scope of the project using a use-case model allowing managers to estimate costs and time required.
+Customers’ requirements are identified and then it becomes easy to make a plan for the project.
+The project plan, Project goal, risks, use-case model, and Project description, are made.
+The project is checked against the milestone criteria and if it couldn’t pass these criteria then the project can be either canceled or redesigned.
+
+2. Elaboration –
+Planning and modeling are the main ones.
+A detailed evaluation and development plan is carried out and diminishes the risks.
+Revise or redefine the use-case model (approx. 80%), business case, and risks.
+Again, checked against milestone criteria and if it couldn’t pass these criteria then again project can be canceled or redesigned.
+Executable architecture baseline
+
+3. Construction –
+The project is developed and completed.
+System or source code is created and then testing is done.
+Coding takes place.
+
+4. Transition –
+The final project is released to the public.
+Transit the project from development into production.
+Update project documentation.
+Beta testing is conducted.
+Defects are removed from the project based on feedback from the public.
+
+5. Production –
+The final phase of the model.
+The project is maintained and updated accordingly
+
+Benefit of RUP
+
+It provides good documentation, it completes the process in itself.
+It provides risk-management support.
+It reuses the components, and hence total time duration is less.
+Good online support is available in the form of tutorials and training.
+
+DraWback of RUP
+Team of expert professional is required, as the process is complex.
+Complex and not properly organized process.
+More dependency on risk management.
+Hard to integrate again and again.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
