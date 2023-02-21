@@ -3,12 +3,74 @@ before you start answering these question.
 
 Questions
 1. What is a software process model and why is it important in software development?
+Software process model is a sequential series of tasks and decisions required to specify, design, implementing and
+testing software systems.
 
 2. Compare and contrast the Waterfall and Agile software process models. 
 What are the key differences between the two models and 
 what are the benefits and drawbacks of each?
 
+The waterfall is a Linear sequential life cycle model, whereas Agileis a continous iteration of development and testing in the 
+software development process.
+
+The key difference between Agile and Waterfall is that, Waterfall breaks down sofware development into isolated phases
+that flow into each other, while Agile advocates iterative development cycles in which multiple
+life cycle phases can run in parallel.
+
+Some benefits of Agile model are;
+1.It is flexible and allow changes for the progress of the project soon after the first stage of the design 
+get completed.
+
+2. Increased visibility
+
+3.Increased product quality.
+
+Some drawbacks of the Agile model are;
+1.Poor resource planning
+
+2.Limited documentation
+
+3.No finite end
+
+4. Difficult measurement
+
+Some benefits of Waterfall model are;
+1.It uses clear structure
+
+2.Makes changes Difficult
+
+3.Transfers information waterfall
+
+4. Excludes the client or end user
+
+some drawbacks of the Waterfall model;
+1.Delays testing until after completion
+
+2.Does not allow muh reflection or revision.
+
+
+
 3. What is Rational Unified Process (RUP), and 
 how does it differ from other software development process models? 
 What are the key phases and activities involved in RUP, and 
 what are the benefits and drawbacks of using this approach in software development projects?
+
+Rational Unified Process (RUP), is an agile software development methodology which is an iterative
+and groups into paheses.
+
+Rup differs from the software development process in many ways because it si derived from the work on the UML and associated
+process but SDP is the series of steps used to design a software.
+
+The key phases of the rational Unified Process are;
+1.Inception phase
+2.Elaboration phase
+3.Contsruction phase
+4.Transition phase
+
+Benefits of the RUP are;
+1.Development time is less due to reuse of components
+2.Less time is required for integration as the process of
+iteration goes on throughout the sdlc.
+
+Drawbacks of the RUP are;
+1. The development process is too complex and disorganized.
