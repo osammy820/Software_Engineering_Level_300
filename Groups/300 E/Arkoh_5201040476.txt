@@ -34,7 +34,7 @@ Drawbacks of Agile model:
 2.It can be challenging to plan and manage the development process as requirements and priorities can change frequently.
 In summary, the Waterfall model is suitable for projects with well-defined requirements and where changes are unlikely to occur. The Agile model is better suited for projects where requirements are subject to change and where customer involvement is critical to the success of the project. Ultimately, the choice between the two models depends on the specific needs and requirements of the project at hand.
 
-3. What is Rational Unified Process (RUP), and 
+3. What is Rational Unified Process (RUP),and 
 how does it differ from other software development process models? 
 What are the key phases and activities involved in RUP, and 
 what are the benefits and drawbacks of using this approach in software development projects?
