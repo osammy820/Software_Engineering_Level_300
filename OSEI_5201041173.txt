@@ -1,0 +1,34 @@
+1.  A software process model is an abstract representation of the set of activities involved in producing a software.
+It is important in the sense that it presents a description of a process from some particular perspective.
+
+
+2.  The Waterfall model is a plan driven process, whereas the Agile process is flexible due to plan incremental nature.
+All the process activities in a plan driven model are planned in advance and progress are measured against the plan.
+   
+In agile process, it is easy to change the process to reflect changing customer requirements.
+It is easier to get customer feedback on the development work that has been done.
+However, in the agile environment, system structure tend to degrade as new increaments are added.
+Also, process is not visible under agile, and managers need regular deliverables to measure progress.
+Documentations that comes with every version tends to raise cost.
+
+The inflexible nature of the waterfall model makes it difficult to accommodate change after a phase is initiated.
+This model helps coordinate the work in places where a system is developed at several sites.
+
+
+3.  The Rational Unified Process is rather a modern generic process derived from the waterfall model, Incremental development
+and the Reuse-Oriented model.
+
+The RUL takes advantage of the three general process from the perspective of:
+ a. Dynamic: showing phases over time;
+ b. Static: showing process activities;
+ c. Practive: suggesting good practice.
+
+ The iterative phases consists of:
+ * Inception: where the business case for the system is established;
+ * Elaboration: where the understanding of the problem domain is developed;
+  along with the system architecture;
+ * Construction: where the system is designed, programmed and tested;
+ * Transition: system is deployed in it's operating environment;
+ * In-phase iteration: each phase is iterated with with results developed
+ increamentally;
+ * Cross-phase iteration: the whole set of phases may be enacted increamentally
