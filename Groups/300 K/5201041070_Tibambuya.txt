@@ -1,0 +1,116 @@
+ Software Engineering Assignment
+
+1.a) A software process model is a digital or hand-written model that details the software development process. 
+     Process models help provide a visual representation of the development process for both the team and the customer to review.
+
+   b) The importance of software process model in Software Development are:
+i. The goal of a software process model is to provide guidance for controlling and coordinating the tasks to achieve the end product 
+   and objectives as effectively as possible.
+ii. Provide a clear understanding of how processes work.
+iii. Create consistency and a way to standardise and control processes.
+iv. Set clear expectations.
+v. Delineates a start and end point of a process.
+vi. Works to reduce redundancies.
+vii. Adds a level of accountability.
+
+
+2.a) Comparing and contrasting the Waterfall and Agile software process models, Agile practitioners know that in the world of software 
+   development, things never go according to plan. Therefore, the impetus to continuously delivery software into the hands of the client 
+   is arguably the primary difference between Waterfall and Agile.
+   Waterfall asserts that customer feedback and stakeholder interactions need not occur until the end-product is delivered. However, Agile 
+   practitioners believe the following:
+i. Requirements can become outdated before development even begins.
+ii. New technologies can force changes to even the best designs.
+iii. Wireframes and visual renderings don't always translate well into webpages and mobile apps.
+iv. Revised stakeholder priorities can shift development timelines and efforts.
+     Waterfall does not deal with these situations well.
+
+
+2.b) The Key Difference Between Waterfall and Agile:
+    i. Waterfall is a Linear Sequential Life Cycle Model, whereas Agile is a continuous iteration of development and testing in the 
+       software development process.
+    ii. Agile methodology is known for its flexibility, whereas Waterfall is a structured software development methodology.
+    iii. The Agile methodology follows an incremental approach, whereas the Waterfall is a sequential design process.
+    iv. Agile performs testing concurrently with software development, whereas in Waterfall methodology, testing comes after the “Build” 
+        phase.
+    v. Agile allows changes in project development requirements, whereas Waterfall has no scope of changing the requirements once the 
+       project development starts.
+
+2.c) The benefits and drawbacks of the Agile and Waterfall methodologies are:
+    Benefits of Waterfall Model:
+      •	It is one of the easiest model to manage. Because of its nature, each phase has specific deliverables and a review process.
+      •	It works well for smaller size projects where requirements are easily understandable.
+      •	Faster delivery of the project.
+      •	Process and results are well documented.
+      •	Easily adaptable method for shifting teams
+      •	This project management methodology is beneficial to manage dependencies.
+
+    Drawbacks of Waterfall Model:
+      •	It is not an ideal model for a large size project
+      •	If the requirement is not clear at the beginning, it is a less effective method.
+      •	Very difficult to move back to makes changes in the previous phases.
+      •	The testing process starts once development is over. Hence, it has high chances of bugs to be found later in development where 
+        they are expensive to fix.
+
+    Benefits of the Agile Model:
+      •	It is focused client process. So, it makes sure that the client is continuously involved during every stage.
+      •	Agile teams are extremely motivated and self-organized so it likely to provide a better result from the development projects.
+      •	Agile software development method assures that quality of the development is maintained
+      •	The process is completely based on the incremental progress. Therefore, the client and team know exactly what is complete and 
+        what is not. This reduces risk in the development process.
+
+    Drawbacks of Agile Model:
+      •	It is not useful method for small development projects.
+      •	It requires an expert to take important decisions in the meeting.
+      •	Cost of implementing an agile method is little more compared to other development methodologies.
+      •	The project can easily go off track if the project manager is not clear what outcome he/she wants.
+      •	Difference between Agile and Waterfall Methodologies
+
+
+3.a) Rational Unified Process(RUP) is the ultimate guide for assigning tasks and responsibilities within a development organization and 
+     developing high-quality software that meets the needs and requirements of its users. It was initially created by the Rational 
+     Software Corporation which IBM bought out in 2003.
+     The incredible success of RUP approach has made a wide range of organizations worldwide realize how important a well-defined and 
+     well-documented software process is, and stimulated them to start implementing it in their projects.
+   
+   b) How the RUP differs from other software process methodologies:
+      The RUP differs from other software methodologies because, this method is primarily used for big software development projects, 
+      even though many project managers assume that RUP is not the right solution for projects of limited scope, which do not require 
+      many resources. 
+   
+   c) The key phases and activities involved in RUP are: 
+    i. Inception phase
+    ACTIVITY: Essentially, in this cycle, your team determines the structure and the basic idea of the project. Also, the team will decide if 
+       the project is worth pursuing at all based on the estimated costs, the necessary resources and the goal they are trying to achieve 
+       with the project.
+   
+    ii. Elaboration phase
+    ACTIVITY: The aim of this phase is to analyze the requirements and the architecture of the system, develop the project plan and eliminate 
+        the highest risk elements of the project. It is undoubtedly the most critical of all stages as it signifies the transition from 
+        low-risk to high-risk. It is an also the point when your team has to make a decision whether to start a 
+        construction (development and coding) or not.
+   
+   iii. Construction phase
+    ACTIVITY: At this stage, your team is finally ready to develop all components and features and integrate them into the product. 
+        It is a manufacturing process where your team focuses on managing resources in order to optimize costs, schedules and the quality.
+   
+    iv. Transition Phase
+    ACTIVITY: The transition phase is the moment when the product is finally finished, released and delivered to customers. However, once 
+       the product is given to the user, there are a number of issues that can arise. This requires the team to handle all the 
+       bug-fixes and correct problems, or to finish some features that were postponed.
+    At the end of each phase, there is an important Project Milestone - a point in time when your team confirms that certain goals 
+    have been achieved. At that moment they have to make some critical decisions, which will have an impact on the following phase.
+    
+
+    d)i.  The benefits of using RUP approach in software development projects are: 
+       .It allows you to deal with changing requirements regardless of whether they are coming from the customer or from the project itself.
+       .It emphasizes the need for accurate documentation.
+       .It forces integration to happen throughout the software development, more specifically in the construction phase.
+
+     ii. The drawbacks of using RUP approach in software development projects are:
+       .It mostly relies on the ability of experts and professionals to assign the activities to individuals who should then produce 
+         pre-planned results in the form of artifacts.
+       .The integration in development process can also have an adverse impact on some more fundamental activities during the stages 
+        of testing.
+       .Although RUP has delivered excellent results, especially in software development, it is a rather complex method which makes its 
+        implementation challenging, particularly for smaller businesses, teams or projects.
