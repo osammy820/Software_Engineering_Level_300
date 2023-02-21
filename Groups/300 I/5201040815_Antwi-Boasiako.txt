@@ -1,0 +1,25 @@
+Question 1.
+
+	Ans: A software process product interaction model is a normalized way to deal with programming improvement that aides
+	 	the exercises of the product improvement group. It characterizes a bunch of exercises, achievements,
+		what's more, expectations that should be finished all through the product improvement lifecycle.
+Question 2.  
+	Ans: Waterfall and Agile are two software process models that have massive contrasts in their methodology
+	 	to programming advancement. Cascade is a straight, successive way to deal with programming improvement, where each stage
+	 	of the advancement interaction is finished prior to continuing on toward the following stage. The critical stages in the Cascade model are
+		prerequisites gathering, plan, execution, testing, and support. Conversely, Nimble is an iterative and gradual
+	 	way to deal with programming advancement that stresses cooperation, adaptability, and consumer loyalty. Spry advancement is
+		coordinated into little, reasonable emphasess called runs, with an emphasis on conveying working programming rapidly and constantly
+	 	further developing the item founded on criticism. The vital contrasts between the two models are their way to deal with prerequisites, the request
+		of the improvement cycle, their degree of adaptability and their speed.
+			The Cascade model gives an unbending and organized process which might bring about additional anticipated results however might be unyielding and
+		slow to respond to change. Spry model gives an adaptable and iterative methodology that can answer rapidly to change yet may result
+		 in less unsurprising results because of its fast speed and spotlight on evolving necessities.
+Question 3.
+	Ans: Rational Unified Process (RUP) is a product improvement process model that depends on the iterative and steady methodology of Light-footed,
+		 however, with a more prominent accentuation on documentation, engineering, and formal venture the executives. RUP partitions the product advancement process into
+	 	four stages: Initiation, Elaboration, Development, and Change. In the Beginning stage, the undertaking degree and prerequisites are characterized.
+		 In the Elaboration stage, the product engineering is planned, and the framework necessities are broke down. In the Development stage,
+		the product is created, tried, and incorporated. In the Change stage, the product is conveyed, and the framework is tried and assessed.
+		 The vital advantages of RUP remember its accentuation for documentation, formal undertaking the executives, and quality confirmation.
+		Be that as it may, a portion of the disadvantages incorporate its intricacy, high above, and potential for postponed project conveyance because of its exhaustive cycle.
