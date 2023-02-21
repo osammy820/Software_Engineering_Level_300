@@ -96,6 +96,3 @@ Rational Unified Process is an agile sofwtare development methid, in which the l
 2. Complex and not properly organised process.
 3. More dependency on risk management
 4. Hard to integrate again and again.
-
-
-
