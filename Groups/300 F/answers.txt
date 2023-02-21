@@ -1,0 +1,45 @@
+1.A software process model can be define as a structured set of defined activities required to develop a software system.there are two main types ,these plan-driven and agile process. 
+ 
+importance 
+it helps to the processes as specifications, design ,validation and evolution to a software or product.
+
+2.waterfall model 
+
+advantagies
+i.it is plan driven
+ii.it has separate and distinct phases of specification and development.
+
+disadvantages
+i.a phase has to be complited before moving on.
+ii.inflexible partitioning leads to difficulty in respond to changes.
+
+agile
+
+advantages
+i.cost is reduce
+ii.easy to get customer feed back
+
+disadvantages
+i.the processs is not visble
+ii.system structures degrade due to changes.
+
+3.the rational unified process is a generic proces that is made from UML and its associated process ,it brings together aspects of generic process model.making use of a combination of the plandriven and agile process.
+whiles RUP makes use of the combination of the main process these two process stand alone in the operations.
+
+phases of RUP
+i.inception } helps to produce the business case for a system.
+
+ii.elaboration } produces an understanding of the problem domain and the system structure.
+
+iii.construction } it deals with system design ,programing and testing
+
+iv.transition } deploys the system in the eperating enironment.
+
+benefits 
+i.it helpsto develop softwares iteratively.
+
+drawbacks
+
+i.cost and time consuming.
+
+
