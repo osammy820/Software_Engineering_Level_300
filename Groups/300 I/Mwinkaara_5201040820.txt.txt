@@ -1,0 +1,17 @@
+NAME: MWINKAARA JOSHUA
+INDEX: 5201040820
+CLASS : ITE I
+SOFTWARE ENGINEERING ASSIGNMENT
+1.	Software process model is a simplified representation of a software process. It is important to software development where validation is done especially with waterfall, Working software is delivered frequently (weeks rather than month)
+2.	In waterfall model ,you must plan and schedule all of the process activities before starting work on them while the Agile model spent more time on how the system should be developed.
+      One of the distinct difference is that, the waterfall model deliver results at the end of the project while agile deliver results and often continuous.
+       The benefit of the waterfall is that, it has a predictable and well specified final product and the Agile has the flexibility to the market and new intelligence.
+        The drawback of the waterfall is that, it lacks flexibility after specification and with the Agile, it loses testing requirements which may let bugs through.
+3.	Rational Unified Process (RUP) is an example of a modified process model that has been derived from work on the UML and the associated unified software development process.
+      The RUP is different from the software development process inthat, the RUP is an iterative, incremental architecture-centric and a use-case deriven approach for developing software while software development process model are convenient tools that developer uses to map every step of their project.
+         The phases and activities involved in RUP are
+A.	Inception: it established the business case for the system.
+B.	Elaboration: it develop an understanding to the problem domain and the system architecture.
+C.	Construction: it ensures system design, programming and testing.
+D.	Transition: deploy the system in its operating development.
+     The benefit of the RUP is that, it emphasis the need for accurate documentation and its drawback is that, it is a complex model to implement as it has multiple stages of the workflow. 
