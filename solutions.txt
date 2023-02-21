@@ -1,0 +1,43 @@
+
+1. What is a software process model and why is it important in software development?
+   ANS: Software process model l is an abstract representation 
+    of a process. Because it shows the description of a process from a particular perspective.
+
+2. Compare and contrast the Waterfall and Agile software process models. 
+What are the key differences between the two models and 
+what are the benefits and drawbacks of each?
+   ANS: Both models are used for software development.
+    In Waterfall software process models,It is linear,sequential approach to software development where each phase of the developmental process is completed before moving onto the next phase Whiles
+     In Agile software models, It is an incremental,iterative approach to software development that involves working in short iterations.
+1. In Waterfall, it is rigid process WHILES In Agile, it is flexible process.
+    2. In Waterfall, it is linear,sequential approach WHILES In Agile, it is incermental,iterative approach.
+       Benefits of WaterFall software process model
+    1. it provides a clear and defined structure for the software development process.
+    2. it is easier to plan and manage.
+        Drawbacks of WaterFall software process model
+    1.  it has limited flexibility.
+    2.  it is less suitable for projects where customer involvement and feedback are crucial.
+        Benefits of Agile software process model
+    1.  It is flexible.
+    2.  More Rapid delivery and deployment of useful software to the customer is possible.
+        Drawbacks Of Agile software process model
+    1.  The process is not visible.
+    2.   System structure tends to degrade as new increments are added.
+
+
+3. What is Rational Unified Process (RUP), and 
+how does it differ from other software development process models? 
+What are the key phases and activities involved in RUP, and 
+what are the benefits and drawbacks of using this approach in software development projects?
+ ANS: Rational Unified Process is an iterative and incremental software development process framework which emphasizes the important of adapting the development process to the specific needs of a project.And what differs from RUP is that it focus on adapting the development process to the specific needs of a project.
+ The key phases include;
+   *Inception
+   *Elaboration
+   *Construction
+   *Transition
+  Benefits
+  1. Improved quality.
+  2. It ensures flexibility.
+   Drawbacks
+  1.  It is highly structured and prescriptive process that can be inflexible in some situation.
+  2.  It is complex and highly structured process framework that requires significant time and effort to implement. 
