@@ -1,0 +1,14 @@
+Please make sure to read every bit of instruction in the "instruction.txt" file
+before you start answering these question.
+
+Questions
+1. What is a software process model and why is it important in software development?
+
+2. Compare and contrast the Waterfall and Agile software process models. 
+What are the key differences between the two models and 
+what are the benefits and drawbacks of each?
+
+3. What is Rational Unified Process (RUP), and 
+how does it differ from other software development process models? 
+What are the key phases and activities involved in RUP, and 
+what are the benefits and drawbacks of using this approach in software development projects?
