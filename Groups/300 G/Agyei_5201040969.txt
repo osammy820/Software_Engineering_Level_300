@@ -1,0 +1,81 @@
+				SOLUTIONS TO Question.txt
+
+QUESTION 1.
+
+a. In software engineering, a software process model is the mechanism of dividing software development work into distinct phases to improve design, product management, and project management. It is also known as a software development life cycle.
+
+b. Process models help provide a visual representation of the development process for both the team and the customer to review. This helps them determine the right process to follow for specific software, identify early challenges or cost constraints and acts as a record of the team's development process for the future.
+
+QUESTION 2
+ 
+In comparing and contrasting Waterfall and Agile software process models: 
+a.The main difference is that Waterfall is a linear system of working that requires the team to complete each project phase before moving on to the next one while Agile encourages the team to work simultaneously on different phases of the project.
+
+b.The key difference between Agile vs. Waterfall is that Waterfall breaks down software development into isolated phases that flow into each other, while Agile advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
+
+c. The Waterfall model is still used as it provides the following benefits:
+    i.The requirements are clearly and accurately stated, they remain unchanged throughout the entire project development.
+
+    ii.Detailed documentation of each development stage provides resistance to changes in human resources – a new developer can quickly get all the necessary information.
+
+    iii.Careful planning of the project development structure reduces the number of problematic issues.
+
+Drawnbacks of waterfall models aer:
+    i.All requirements must be known prior to development, which greatly delays the project kickoff.
+
+    ii.Low flexibility level makes it difficult to make changes while developing, or even makes it completely impossible.
+
+    iii.There is a need for strict management and regular monitoring, so that the project will meet the deadline.
+
+Benefits of Agile model:
+    i.Customer satisfaction by rapid, continuous delivery of useful software.
+
+    ii.People and interactions are emphasized rather than process and tools. Customers, developers and testers constantly interact with each other.
+
+    iii.Working software is delivered frequently (weeks rather than months).
+
+Drawnbacks of Agile model:
+    i.In case of some software deliverables, especially the large ones, it is difficult to assess the effort required at the beginning of the software development life cycle.
+
+    ii.There is lack of emphasis on necessary designing and documentation.
+
+    iii.The project can easily get taken off track if the customer representative is not clear what final outcome that they want.
+
+
+QUESTION 3
+
+a.The Rational Unified Process is an iterative software development process framework created by the Rational Software Corporation, a division of IBM since 2003.
+
+b. RUP differ from other software because:
+RUP provides a very structured and formalized process for software development through its deep planning, thorough analysis, best design practices, codified process and extensive documentation. The key features of RUP are case driven design using, tailoring and tool support processing
+
+c. RUP organizes a product release into four phases:the key phases and their activities are,
+
+    phases			                activities
+1.Inception phase       -     During the first phase,the basic idea and structure of the project are determined.In this phase, the team meets regularly to determine the project’s necessity, but also its viability and suitability. Viability and suitability also include the expected costs and the means needed to complete the project after the green light has been given.
+
+2.Elaboration phase     -   During the elaboration phase, the system’s requirements and its required architecture are assessed and analysed. This is where the project begins to take shape. The objective of the elaboration phase is to analyse products and to lay a foundation for the future architecture.
+
+3.Construction phase    -   In the construction phase of the Rational Unified Process (RUP), the software system is constructed in its entirety. The emphasis is on the development of components and other features of the system.
+                            The majority of coding also takes place in this phase. In this production process, the emphasis is on managing costs and means, as well as ensuring quality.
+
+4.Transition phase      -    The objective of the transition phase is to transfer the product to its new user. As soon as the user starts using the system, problems almost always arise that require changes to be made to the system. The goal, however, is to ensure a positive and smooth transition to the user.
+
+
+D.Benefits of RUP
+    1.This is a complete methodology in itself with an emphasis on accurate documentation
+
+    2.It is proactively able to resolve the project risks associated with the client's evolvingrequirements requiring carefulchange request management
+
+    3.Less time is required for integration as the process of integration goes on throughoutthesoftware development life cycle.
+
+    4.The development time required is less due to reuse of components.
+
+Drawback of using this approach in software development projects?
+    1.The team members need to be expert in their field to develop software under this methodology.
+
+    2.The development process is too complex and disorganized.
+
+    3.On cutting edge projects which utilize new technology, the reuse of components will not bepossible. Hence the time saving one could have made will be impossible to fulfill.
+
+    4.Integration throughout theprocess of software development, in theory sounds a good thing. Buton particularly big projects with multiple development streams it will only add to the confusionand cause more issues during the stages of testing
