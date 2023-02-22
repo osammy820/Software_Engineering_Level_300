@@ -1,0 +1,79 @@
+
+Answers 
+QUESTION 
+1.	Software process model is the mechanism of dividing software development work into distinct phases to improve design, product management and project management.
+It is importance because they help project manager to:
+-plan their processes
+-estimate costs
+-identify challenges
+-communicate with teams and customers   
+       2.   Waterfall model is a breakdown of projects activities into linear sequential phases and agile is an 
+              Iterative approach to project management and software development that helps teams deliver 
+             Value to their customers faster and with fewer headaches.
+              The key difference between agile and waterfall is that waterfall models breaks down software   
+              Development into isolated phases that flow into each other while agile advocates iterative 
+              Development cycles in which multiple lifecycle phases can run in parallel  
+               BENEFITS OF WATERFALL MODEL
+-	Everyone gets up to speed quickly
+-	Timescales are kept
+-	No financial surprises 
+-	Testing is made easy 
+-	The outcome is crystal clear
+-	Deal with issues in the design 
+-	What you plan is what you get
+ DRAWBACKS OF WATERFALL MODEL
+-	Potential lack of flexibility
+-	Longer delivery time
+               
+              BENEFITS OF AGILE MODEL
+-	Products get to the market faster
+-	More flexible
+-	Better communication 
+               DRAWBACKS OF AGILE MODEL
+-	They are hard to predicts 
+-	Final products are not release first
+-	Documentations left behind
+          3 . Rational unified process is the ultimate guide for assigning tasks and responsibilities within a 
+                Development organization and developing high –quality software that meets the needs of its
+                Users.
+                RUP differs from other software development process model because it is an iterative 
+                Software development process framework created by the rational software corporation a 
+                Division of IBM.
+
+                 PHASES AND ACTIVITIES INVOLVED IN RPU
+         1 . Inception Phase;
+               It is the initial phase of the developing process. During this phase the projects basic ideas and 
+               Structure will be determined to prepare a business suite i.e the team will decides the purpose 
+              Of the project, success criteria, estimated cost, risk assessment, scheduled time and resources  
+              Required to complete it.
+         2 . Elaboration phase;
+               This is the second phase of the development process .During this phase, to analyze the projects 
+               Requirements and necessary architecture, i.e to review the problems, develop the project plan
+              And architect and eliminate the high –risk elements from the projects. It is the most critical 
+              Phase among the four phases.
+         3 . Construction Phase;
+               During this phase, the project is developed and completed. Here all the features are developed
+               And integrated into the product, i.e the software is design, written and tested successfully. So 
+               The development product will be a deployable product. It measures the completeness of the 
+              Products. 
+        4 . Transition phase;
+              This is the last phase of the development process. During this phase, the software is released
+              And delivered to the public or customers. Based on feedback from the end-users, the product
+              Will be made update or change. It is the process of deployment 
+
+              BENEFITS OF RPU
+-	It supports incremental build the software product
+-	It provides proper documentation of the software products
+-	It helps to use the resources efficiently
+-	It helps to identify issues early in the process life cycle 
+-	It improves process control and risk management
+-	It enhances team productivity 
+-	It helps reduces unexpected development costs.
+
+              DRAWBACKS OF RPU
+-	It is complex model to implement as it has multiple stages of the workflow
+-	It is challenging for organizations to implement which has , small team size or projects 
+-	It should be highly – oriented from individuals or teams 
+-	It emphasizes the integration of modules throughout the software development process 
+, so this creates trouble during the testing phase.
+
