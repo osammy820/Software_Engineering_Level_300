@@ -1,0 +1,86 @@
+
+Q1.A software process model is a digital or hand-written model that details the software development process. Process models help provide a visual representation of the development process for both the team and the customer to review.This helps them determine the right process to follow for specific software, identify early challenges or cost constraints and acts as a record of the team's development process for the future.
+
+
+Q2.Key Difference Between Waterfall and Agile
+Waterfall is a Linear Sequential Life Cycle Model, whereas Agile is a continuous iteration of development and testing in the software development process.
+In Agile vs Waterfall difference, the Agile methodology is known for its flexibility, whereas Waterfall is a structured software development methodology.
+
+Comparing the Waterfall methodology vs Agile, which follows an incremental approach, whereas the Waterfall is a sequential design process.
+Agile performs testing concurrently with software development, whereas in Waterfall methodology, testing comes after the “Build” phase.
+Agile allows changes in project development requirements, whereas Waterfall has no scope of changing the requirements once the project development starts.
+
+
+Advantages of Waterfall Model:
+It is one the easiest model to manage. Because of its nature, each phase has specific deliverables and a review process.
+It works well for smaller size projects where requirements are easily understandable.
+Faster delivery of the project
+Process and results are well documented.
+Easily adaptable method for shifting teams
+This project management methodology is beneficial to manage dependencies.
+
+Drawbacks of Waterfall Model:
+It is not an ideal model for a large size project
+If the requirement is not clear at the beginning, it is a less effective method.
+Very difficult to move back to makes changes in the previous phases.
+The testing process starts once development is over. Hence, it has high chances of bugs to be found later in development where they are expensive to fix.
+
+Advantages of the Agile Model:
+It is focused client process. So, it makes sure that the client is continuously involved during every stage.
+Agile teams are extremely motivated and self-organized so it likely to provide a better result from the development projects.
+Agile software development method assures that quality of the development is maintained
+The process is completely based on the incremental progress. Therefore, the client and team know exactly what is complete and what is not. This reduces risk in the development process.
+
+Drawback of Agile Model
+It is not useful method for small development projects.
+It requires an expert to take important decisions in the meeting.
+Cost of implementing an agile method is little more compared to other development methodologies.
+The project can easily go off track if the project manager is not clear what outcome he/she wants.
+
+
+
+Q3.Rational Unified Process (RUP) is an agile software development methodology. RUP splits the project life cycle into four phases. During each of the phases, all six core development disciplines take place: business modelling, requirements, analysis and design, implementation, testing, and deployment. However, certain processes are more important and take up more time during every stage. For example, business modelling mostly takes place during the early phases, inception and elaboration. Each of four phases has the main objective, which has to be completed before the project can progress to the next phase.
+The main goal of RUP is to create high quality software with a predictable budget and time frame. Each of the life cycle phases can be repeated, if needed, until the main objectives are met. Once the transition stage is completed successfully, the project is finished.
+
+Phases of RUP: There is total of five phases of the life cycle of RUP:
+
+Inception –
+Communication and planning are the main ones.
+Identifies the scope of the project using a use-case model allowing managers to estimate costs and time required.
+Customers’ requirements are identified and then it becomes easy to make a plan for the project.
+The project plan, Project goal, risks, use-case model, and Project description, are made.
+The project is checked against the milestone criteria and if it couldn’t pass these criteria then the project can be either canceled or redesigned.
+
+Elaboration –
+Planning and modeling are the main ones.
+A detailed evaluation and development plan is carried out and diminishes the risks.
+Revise or redefine the use-case model (approx. 80%), business case, and risks.
+Again, checked against milestone criteria and if it couldn’t pass these criteria then again project can be canceled or redesigned.
+Executable architecture baseline.
+
+Construction –
+The project is developed and completed.
+System or source code is created and then testing is done.
+Coding takes place.
+
+Transition –
+The final project is released to the public.
+Transit the project from development into production.
+Update project documentation.
+Beta testing is conducted.
+Defects are removed from the project based on feedback from the public.
+Production –
+The final phase of the model.
+The project is maintained and updated accordingly.
+
+Advantages:
+It provides good documentation, it completes the process in itself.
+It provides risk-management support.
+It reuses the components, and hence total time duration is less.
+Good online support is available in the form of tutorials and training.
+
+Disadvantages:
+Team of expert professional is required, as the process is complex.
+Complex and not properly organized process.
+More dependency on risk management.
+Hard to integrate again and again.
