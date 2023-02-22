@@ -4,11 +4,57 @@ before you start answering these question.
 Questions
 1. What is a software process model and why is it important in software development?
 
+Software process models are convenient tools that developers use to map every step of their projects. 
+They help project managers plan their processes, estimate costs, identify challenges and communicate with teams and customers.
+
+
 2. Compare and contrast the Waterfall and Agile software process models. 
+
+The key difference between Agile vs. Waterfall is that Waterfall breaks down software development into isolated phases that flow into each other, 
+while Agile advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
+
 What are the key differences between the two models and 
+
+The key difference between Agile vs. Waterfall is that Waterfall breaks down software development into isolated phases that flow into each other, 
+while Agile advocates iterative development cycles in which multiple lifecycle phases can run in parallel.
+
 what are the benefits and drawbacks of each?
 
-3. What is Rational Unified Process (RUP), and 
+Agile encourages testing and validation earlier in the software development lifecycle.
+Continuous delivery in Agile is consistent with the DevOps' continuous deployment model.
+The Agile feedback loop more directly involves stakeholders in the development process.
+Agile makes it easier to adapt to changed requirements midway through development.
+Agile projects are easier to start because development doesn't depend on complete requirements and analysis cycles.
+
+3. What is Rational Unified Process (RUP),
+
+Rational Unified Process (RUP) is an agile software development methodology. 
+RUP splits the project life cycle into four phases. During each of the phases, 
+all six core development disciplines take place: 
+business modelling, requirements, analysis and design, implementation, testing, and deployment.
+
+ and 
+
 how does it differ from other software development process models? 
-What are the key phases and activities involved in RUP, and 
+
+How RUP is different from other process?
+Iterative and incremental development: RUP emphasizes iterations, or cycles, of work, rather than trying to complete all work upfront. 
+This allows for more flexibility and responsiveness to change.
+
+What are the key phases and activities involved in RUP,
+
+RUP organizes a product release into four phases: initiation, elaboration, construction, and transition.
+
+ and 
+
+
 what are the benefits and drawbacks of using this approach in software development projects?
+
+benefits
+
+The benefits of RUP
+It allows you to deal with changing requirements regardless of whether they are coming from the customer or from the project itself.
+It emphasizes the need for accurate documentation.
+It forces integration to happen throughout the software development, more specifically in the construction phase.
+
+
