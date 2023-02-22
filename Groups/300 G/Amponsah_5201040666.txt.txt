@@ -1,0 +1,30 @@
+ANSWERS
+Q1. A software process model is an abstract representation 
+of a process from the original process that is to take place. It is very important because it presents a description of a 
+some particular perspective of the would-be software.
+
+Q2. i.  in the waterfall model you should have a precise and clear vision about the project while using it. In contrast, agile does not mandate for having the clear idea about the final product. Waterfall model controls the changes in the project while agile implement the changes in the project.
+ii. Waterfall model controls the changes in the project while agile implement the changes in the project.
+ BENEFITS
+    i. In the waterfall model, the division of the model into several phases means that each part is easy to grasp, process and manage.
+    ii. In the Agile model, agile teams prioritize face-to-face communication and continuous interaction. They will usually conduct daily meetings to ensure everyone is on the same page and working towards the same objectives.
+Drawbacks
+    i. In agile model there is Inadequate Resource Planning: since the teams don’t know what their final product will look like from the start, predicting things such as cost, time, and resources is challenging.
+    ii. One of the main disadvantages of the waterfall model is that once it’s structured with the relevant information, it’s practically impossible to make changes.
+
+Q3   Rational Unified Process (RUP) is an agile software development methodology.
+A.	Rational Unified Process (RUP) is a system development process for the design and implementation of IT systems.
+ii. (1) Inception
+    (2) Elaboration
+    (3) Construction
+    (4) Transition
+    (5) Production
+ii. Benefit
+    i It provides good documentation and completes the process in itself.
+    ii. Its main focus is on the software product itself and its quality.
+ Drawbacks 
+    i. RUP methodology fails to provide any clear implementation guidelines.
+    ii.IT leaves the tailoring entirely to the user.
+
+
+
