@@ -43,4 +43,4 @@ The benefits of using RUP include the ability to develop software that is based 
  and the ability to ensure that the resulting software meets user requirements.
 The drawbacks of using RUP include the need for significant upfront planning and documentation,
  which can lead to delays and cost overruns. Additionally, RUP can be complex and difficult
- to implement, particularly for small software development projects.
+ to implement, particularly for small software development projects
