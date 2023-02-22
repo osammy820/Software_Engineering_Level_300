@@ -1,0 +1,90 @@
+1.   A software process model is an abstract representation of a process.It describes
+     process from some particular perspective. Software process model enables businesses and organizations to create applications that can 
+     automate processes and improve efficiency, and this makes it relevant to the information 
+     technology industry.
+
+2.  WATERFALL AND AGILE PROCESS MODEL
+
+        I. The budgeting for waterfall methodology is generally fixed beecause the project is determined from the beginning
+           to the end whiles, Agile is open to adaptation, encourages experimentation and welcomes changes of direction,
+          even in later phases of the project.
+
+       II. Waterfall has a static timeline and Agile is a lot more about flexibility and accounts for experimenting with
+            different directions.
+
+
+    DIFFERENCES BETWEEN WATERFALL AND AGILE SOFTWARE PROCESS MODEL
+
+           What makes waterfall different from agile is that, Waterfall disintegrate software development
+           into isolated phases that flow into each other, while Agile advocates iterative development cycles
+           in which many lifecycle phases can run in parallel.
+
+    DRAWBACKS OF WATERFALL PROCESS MODEL
+
+        I. Waterfall process model makes changes hectic.
+        II. It delays testing until after completion.
+        III. The Waterfall model can promote longer delivery times.
+  
+    DRAWBACKS OF AGILE PROCESS MODEL
+
+        I. Teams get easily sidetracked due to lack of processes.
+        II. Long-term projects suffer from incremental delivery.
+        III. Collaboration level can be difficult to maintain.
+
+  
+3.  The Rational Unified Proces Methodology (RUP) is an agile software development method, in which the life
+    cycle of a project, or the development of software, is divided into four phases. There are various activities that take
+    place during these phases: 
+	- modelling 
+	- analysis and design
+	- implementation
+	- testing and application.
+  
+
+    ACTIVITIES INVOLVED RATIONAL UNIFIED PROCESS
+
+         INCEPTION –
+         I. Communication and planning are the main ones.
+         II. Identifies the scope of the project using a use-case model allowing managers to estimate costs and time required.
+         III. Customers’ requirements are identified and then it becomes easy to make a plan for the project.
+         IV. The project plan, Project goal, risks, use-case model, and Project description, are made.
+
+
+        ELABORATION –
+        I.  The main ones are planning and modeling.
+        II. A detailed evaluation and development plan is carried out and diminishes the risks.
+        III. Revise or redefine the use-case model (approx. 80%), business case, and risks.
+        IV. Executable architecture baseline.
+
+
+        CONSTRUCTION –
+        I. The project is developed and completed.
+        II. System or source code is created and then testing is done.
+        III. Coding takes place.
+ 
+        TRANSITION –
+        I. The final project is released to the public.
+        II. Transit the project from development into production.
+        III. Update project documentation.
+        IV. Beta testing is conducted.
+        V. Defects are removed from the project based on feedback from the public.
+
+       PRODUCTION –
+       The final phase of the model.
+       The project is maintained and updated accordingly.
+
+
+BENEFITS OF RATIONAL UNIFIED PROCESS (RUP)
+
+  I. It provides good documentation, it completes the process in itself.
+  II. It provides support for risk-management.
+  III. It reuses the components, making total time duration is less.
+
+
+DRAWBACKS OF RATIONAL UNIFIED PROCESS (RUP)
+
+  I. Team of expert professional is required, as the process is complex.
+  II. Complex and not properly organized process.
+  III. It depends mainly on risk management.
+
+
