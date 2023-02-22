@@ -3,12 +3,91 @@ before you start answering these question.
 
 Questions
 1. What is a software process model and why is it important in software development?
+A software process model is a digital or hand-written model that 
+details the software development process. 
+Process models help provide a visual representation of the 
+development process for both the team and the customer to review.
 
 2. Compare and contrast the Waterfall and Agile software process models. 
 What are the key differences between the two models and 
 what are the benefits and drawbacks of each?
 
+
+Agile is the new kid on the block, relatively speaking, and prizes rapid iteration, autonomy, and flexibility. 
+It was conceived specifically as a reaction to waterfall’s perceived shortcomings.
+In an Agile environment, you are divvying up work into Sprints, 
+which are time-based bursts of activity, typically one-to-four weeks in length. 
+This cadence dictates how much work is completed during a given period
+
+Waterfall is the “old school” way of managing projects. 
+Throughout the life of the project, there are well-defined stages with formalized hand-offs from one to the next.
+Moreover, all of the requirements for each step is completed before the next begins.
+Although there are dates and schedules in a waterfall environment, 
+each stage and project lasts until completion unless the rolling out
+ initiative was specifically designed to be in phases comprised of multiple projects that build on one another.
+
+
 3. What is Rational Unified Process (RUP), and 
 how does it differ from other software development process models? 
 What are the key phases and activities involved in RUP, and 
 what are the benefits and drawbacks of using this approach in software development projects?
+The rational unified process (RUP) is a software engineering and development process focused on using the unified modeling language
+ (UML) to design and build software. 
+Using the RUP process allows you to operate business analysis, design, testing and implementation
+ throughout the software development process and its unique stages, helping you create a customized product. 
+You can use beta test models and prototypes of various software components in all phases of RUP to: 
+
+Better achieve milestones
+Calibrate elements of design
+Troubleshoot concerns
+Present the best possible software solutions
+
+Often attributed to the company International Business Machines (IBM), RUP uses incremental, 
+iterative and repetitive life cycles and steps to create software and website technology rather
+ than designing it in one continuous process. Taking an Agile software design approach lets you adjust 
+components and repeat the stages of RUP until you completely satisfy the software development requirements, goals and outcomes.
+
+What are the phases of RUP?
+
+Inception
+Elaboration
+Construction
+Transition
+Transition
+Production
+
+Advantages of RUP
+RUP can provide software development or design teams an array of advantages, including: 
+
+ 1. Offering thorough documentation:
+ The RUP process involves carefully documenting each step, 
+which can be highly beneficial for collaborative projects.
+
+ 2. Enhancing risk management practices:
+ RUP can help software individuals proactively respond to potential software challenges. 
+This can improve risk management and troubleshooting efforts. 
+
+ 3. Giving regular feedback to stakeholders:
+ A vital part of the RUP process is giving consistent updates to project stakeholders.
+ These stakeholders may range from other software individuals involved in the project to company leaders or vendors.
+
+ 4. Reducing total project time:
+ RUP may allow the software development team to lower their time in both the development and integration stages.
+
+ 5. Determining working elements early on in the project:
+ With RUP, project stakeholders may notice potential software issues earlier on during the design or development processes.
+ This can make mitigating or solving challenges easier before they become more complex.
+
+Drawbacks of RUP
+ 1 Complexity of process:
+ Since RUP is a complicated procedure, successfully performing it requires software team members with great expertise.
+ If some of the individuals on your software team are new to the field, it might be easier to choose a different software development process.
+
+2 Cost and time: 
+The amount of documentation required for RUP can be time-consuming and expensive. 
+Software teams with smaller budgets might benefit from choosing a more cost-efficient approach for their project.
+
+3 Challenge of using it for projects with multiple development streams:
+ RUP may cause confusion during the testing stage for larger projects involving multiple components and software teams. 
+Because of its emphasis on ongoing integration,
+ those working on projects with multiple development streams may want to either slow down the RUP process or look for another development procedure.
