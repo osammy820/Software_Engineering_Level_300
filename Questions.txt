@@ -3,12 +3,79 @@ before you start answering these question.
 
 Questions
 1. What is a software process model and why is it important in software development?
+ A software process model is an abstract representation of a process. It is important 
+because, it provides a structured approach to software development that helps ensure
+quality, consistency, and efficiency in the development process and also provides a
+framework for managing the development processes.
 
 2. Compare and contrast the Waterfall and Agile software process models. 
 What are the key differences between the two models and 
 what are the benefits and drawbacks of each?
+...Comparing and contrasting the Waterfall and Agile software process models.
+The Waterfall software process model is a linear approach to software development that follows a sequential order of steps. 
+It is a rigid process that requires each step to be completed before the next one can begin. 
+The Agile software process model is an iterative approach to software development that emphasizes flexibility and collaboration. 
+It is a more adaptive process that allows for changes and adjustments to be made throughout the development process.
+Waterfall is plan driven, while Agile is value and product driven
+Waterfall is suited for projects with well-defined requirements and a fixed timeframe, while Agile is suited for projects with changing requirements and no
+fixed timeframe.
+...The key differences between the two models
+-Waterfall is a Linear Sequential Life Cycle Model, whereas Agile is a continuous iteration of development and testing in the software development process.
+-In Agile vs Waterfall difference, the Agile methodology is known for its flexibility, whereas Waterfall is a structured software development methodology.
+Comparing the Waterfall methodology vs Agile, which follows an incremental approach, whereas the Waterfall is a sequential design process.
+-Agile performs testing concurrently with software development, whereas in Waterfall methodology, testing comes after the “Build” phase.
+-Agile allows changes in project development requirements, whereas Waterfall has no scope of changing the requirements once the project development starts.
+...The benefits and drawbacks of each include:
+Some of the benefits of waterfall models are;
+- The project scope stays relatively static, meaning cost and timelines can be determined early on in the project.
+- By completing a full design early in the project, changes to systems stay minimal, meaning the cost to fix and alter designs is kept low.
+- A structured approach to a project means that everyone understands what needs to be done and when. SMEs can effectively plan their time over the fixed period.
+- By having detailed documentation and designs, a project can lose key members without too much hassle since the documentation describes in reasonable detail how any SME of the product or skill are needed to complete the work.
+
+Some of the drawbacks of waterfall model are;
+
+- It is hard to allow for new requirements in an ever-changing world. For example, an organization or industry-wide change of specifications would take a long time to adopt, with the project needing to return back to the requirements and design stage.
+- A project that has dependencies on relatively unstable products which are constantly in flux may also cause constraint. For example, if the project makes use of software or technologies with very rapid release-cycles and paces-of-change, then the project needs to have fixes being implemented on a monthly basis. This makes design and documentation very difficult and means risk and assumptions must be embedded into the estimations with widely varying degrees of accuracy.
+- It is difficult to estimate the total time a project will take to complete. Each organization has different processes and each project has different issues, including SME shortages, long delays in provisioning software, and a lengthy approval process.
+- A large amount of contingency is, more often than not, added into timescales. From the start of project, lots of subjects and outcomes will be undetermined and only put into production in the final stages of the project. This creates risk, which gradually diminishes as the project progresses. Whilst this risk can be decreased with good practices, it still creates a good deal of uncertainty.
+
+Some of the benefits of agile model are;
+- Improved team collaboration
+- More transparency between the client and your team
+- Achieving high product quality 
+- Lower risk 
+- Better project control
+
+Some of the drawbacks of agile model are;
+- Less predictability
+- More time and commitment.
+- Greater demands on developers and clients.
+- Lack of necessary documentation.
+- Project easily falls off track.
 
 3. What is Rational Unified Process (RUP), and 
 how does it differ from other software development process models? 
 What are the key phases and activities involved in RUP, and 
 what are the benefits and drawbacks of using this approach in software development projects?
+
+...The rational unified process (RUP) is a software engineering and development process focused on using the unified modeling language (UML) to design and build software. Using the RUP process allows you to operate business analysis, design, testing and implementation throughout the software development process and its unique stages, helping you create a customized product.
+Often attributed to the company International Business Machines (IBM), RUP uses incremental, iterative and repetitive life cycles and steps to create software and website technology rather than designing it in one continuous process.
+
+...The key phases involved in RUP are;
+- Inception
+- Elaboration
+- Construction
+- Transition
+- Production
+
+...Some of the benefits are;
+- Offering thorough documentation: The RUP process involves carefully documenting each step, which can be highly beneficial for collaborative projects.
+- Enhancing risk management practices: RUP can help software individuals proactively respond to potential software challenges. This can improve risk management and troubleshooting efforts. 
+- Giving regular feedback to stakeholders: A vital part of the RUP process is giving consistent updates to project stakeholders. These stakeholders may range from other software individuals involved in the project to company leaders or vendors.
+- Reducing total project time: RUP may allow the software development team to lower their time in both the development and integration stages.
+- Determining working elements early on in the project: With RUP, project stakeholders may notice potential software issues earlier on during the design or development processes. This can make mitigating or solving challenges easier before they become more complex.
+
+Some of the drawbacks are;
+- It has a fair amount of overhead and isn’t quite as flexible and adaptive as Agile
+- The original implementation of RUP was heavily dependent on the Rational tool-set which is very expensive (Newer variations of RUP such as the Enterprise Unified Process have come out since then that are less dependent on the Rational tool-set)
+- It is no longer widely-used and has been largely superseded by Agile and Scrum which are much more flexible and adaptive and easier to use
