@@ -12,3 +12,69 @@ what are the benefits and drawbacks of each?
 how does it differ from other software development process models? 
 What are the key phases and activities involved in RUP, and 
 what are the benefits and drawbacks of using this approach in software development projects?
+
+
+
+[2/24, 2:49 PM] JAP: 1. They are representation of the order of activities for designing, implementing, and testing a software system.                                  
+Because it provides visual representation of the development process for both team and customer to review. 
+Determine the right process to follow for specific software. 
+Identify early challenges. 
+Provide roadmap for software engineering. 
+2.
+Waterfall software 
+Feasibility evaluation takes long phase. 
+Project planning is done at the  beginning of the  project. 
+Managers  only communicate and carry  out progress review  weekly  or monthly .
+Is not subjected to change. 
+Complete each phase before moving to the phase.
+Whereas agile software development process 
+Feasibility takes a short while. 
+Plan is not  giving foremost priority but is done during sprint planning.
+Communication is frequent, face to face and clients are included in the project. 
+Flexible and allow changes.
+Team works simultaneously
+Diff
+Waterfall is a linear sequential life cycle model.
+It's  also regimented software development process  whiles agile
+Is the process of an up the sequence of development and testing. 
+Is also dynamic software development strategy
+Benefits 
+Of Waterfall model
+ 1. Is simple.
+2 .Easy  to understand and use.
+3.manageable due to its rigidity.
+4. Sequence of steps. 
+5.never move until  a phase is completed. 
+Good for smaller projects. 
+Disadvantages 
+1.high risk and uncertainty. 
+2. No software produce until late during the life cycle. 
+3 .not suitable for complex and object oriented projects.
+4.poor model for long and on going project.
+Agile 
+1. Better control .
+2.reduce risk.
+3.improve team morale.
+4.increase flexibility. 
+5.continuous improvement  .
+Disadvantages 
+1.poor resource planning. 
+2.limited documentation. 
+3. Fragmented output
+[2/24, 3:11 PM] JAP: It's  an iterative software development process  framework. 
+RUP recognises the incorporation of customer  communication and streamline  methods for describing the  customers view of a system. 
+Inception. Elaboration, construction, transition. 
+Modelling, 
+Requirements, 
+Analysis and design,
+Implementation, 
+Testing and deployment  
+Benefits 
+Deals with  changing  requirements. 
+Customer  satisfaction  .
+Accurate documentation. 
+Allows  integration .
+Disadvantages 
+Complex model  to implement. 
+Multiple stages of the workforce.
+Challenging for  organisation to implement which has small team size or project.
