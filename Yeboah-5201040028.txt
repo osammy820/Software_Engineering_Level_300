@@ -1,0 +1,86 @@
+Question 1:
+What is a software process model and why is it important in software development?
+
+Ans: A software process model is an abstract representation of a process.
+It is important because it presents a description of process of some particular perspective 
+and also provides a framework for managing the development processes. 
+
+Question 2
+2. Compare and contrast the Waterfall and Agile software process models. 
+What are the key differences between the two models and 
+what are the benefits and drawbacks of each?
+
+i.Differences between waterfall and agile models 
+Ans:
+1. The Waterfall model is a linear sequential process model, where each phase of the 
+software development process is completed before the next phase begins. Whilst 
+the Agile model is an iterative and incremental process model, where software is 
+developed in short, iterative cycles that involve continuous feedback and 
+collaboration between the developers and stakeholders.
+
+2. Waterfall is plan driven whilst Agile changes and increases as the project  progress (rapid development)
+
+3. Waterfall have an inflexible partitioning of the project into stages and make it difficult to respond 
+to changing customer requirement whilst agile process are very flexible to changes in the course of the 
+process to suit customer requirements 
+
+ii.Benefits of waterfall and agile process models 
+Ans:
+1. Waterfall
+ Well-defined requirements and scope Clear project phases and deliverables, Predictable timeline and 
+budget
+
+2. Agile
+ It is very flexible, the team are responsive to change, even at the last minute, 
+and can adapt to it without much disruption.
+ And also continuous feedback and adaptationVery Flexible and adaptable to constant 
+changing requirements to be Higher collaboration between developers and stakeholders.
+
+iii.Drawback of waterfall and agile process models
+Ans:
+1. Waterfall 
+ The main drawback is that it does not aloud much reflection or revision. Once the application 
+is in testing stage , it is very difficult to go back and change something that was not well-documented 
+or thought upon in the concept stage.
+
+2. Agile
+ Uncertainty in project scope and timeline can increase cost  Project management is complexPotential for 
+scope creep and cus of it flexibility it is easy to interrupt the agile process model and there is not 
+proper documentation for the project because it is not well planned from the beginning of the process.
+
+Question 3
+i.What is Rational Unified Process (RUP), and 
+how does it differ from other software development process models? 
+What are the key phases and activities involved in RUP, and 
+what are the benefits and drawbacks of using this approach in software development projects?
+
+Ans:
+ Rational Unified Process (RUP) is a software development process model that provides a framework 
+for developing software in a disciplined and controlled manner.
+ It is also the ultimate guide for assigning tasks and responsibilities within a development 
+organization and developing high-quality software that meets the needs and requirements of its 
+users.
+ It differs from other software development process models in that it is an iterative, incremental,
+and use-case-driven process that focuses on architecture, design, and testing
+
+ii.The key phases of RUP
+Ans: The following are the key phases of RUP:
+1. Inception: Defining the scope, reasons for the project and risks of the project
+2. Elaboration: Developing the system strecture and refine the project plan if need be
+3. Construction: Building the system and performing tests
+4. Transition: Deploying the system and maintaing the system
+
+iii.a. The benefits of using RUP
+Ans:
+1.It reduce the total project time 
+2.Provides a controlled approach to software development which increases efficiency
+3.It also determining the working elements early on in the project
+4.There's is a structure to manage risks invovled in projects
+
+iii.b.The drawbacks of using RUP include;
+Ans:
+1.It is very challenging of using it for a projects with multiple developments streams
+2.It can be complex and time-consuming when working on smaller or less complex projects
+3.It also requires a skilled and experienced development team to carry out the phases involved
+4.It can be inflexible in accommodating changes in project requirements
+
