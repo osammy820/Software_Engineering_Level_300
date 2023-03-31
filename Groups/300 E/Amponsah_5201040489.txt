@@ -1,0 +1,29 @@
+QUE1: Software process model is an abstract representation of a process which includes the division of software development work into phases .
+It serves as a guide for project managers by providing a graphical interface.
+
+QUE2: Waterfall model treats each software development life cycle as distinct, isolated event whereas Agile model advocates iterative development 
+cycles in which multiples phases can run in parallel or at the same time.
+                 BENEFITS
+ -Waterfall model helps to transfer information very well since one phase need to be completed before moving to another stage.
+ -Agile model encourages testing and validating in the software development life cycle and this reduces risk occurances.
+               DRAWBACKS
+*Waterfall model makes future changes to the software development very difficult.
+*Agile model is hard to predict.
+
+QUE3: Rational Unified Proces = Is a modern generic process model that is organized into phases. Although it's organized into phases but separates 
+activities such as requirement, analysis, design etc. from the phase.
+                  KEY PHASES OF RATIONAL UNIFIED PROCESS (RUP)
+1. Inception
+2. Elaboration
+3. Construction
+4. Transition
+                     ACTIVITIIES INVOLVED IN RATIONAL UNIFIED PROCESS
+a. requirement
+b. analysis
+c. design
+d. implementation
+                    BENEFITS OF RUP
+- It emphasises on the need to accurate documentation or suggest good practices.
+                    DRAWBACKS
+- It is a complex moedl to implement as it has multiple stages of the workflow.                                         
+
