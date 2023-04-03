@@ -152,4 +152,3 @@ The drawbacks of using RUP include;
 3. It can be inflexible in accommodating changes in project requirements
 
 
-
